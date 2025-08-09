@@ -1,5778 +1,7222 @@
 [
     [
         "AL",
-        "Albania"
+        "Albania",
+        ""
     ],
     [
         "IN",
-        "India"
+        "India",
+        ""
     ],
     [
         "DZ",
-        "Algeria"
+        "Algeria",
+        ""
     ],
     [
         "AO",
-        "Angola"
+        "Angola",
+        ""
     ],
     [
         "AR-C",
-        "Autonomous City of Buenos Aires"
-    ],
-    [
-        "AR-B",
-        "Buenos Aires Province"
-    ],
-    [
-        "AR-K",
-        "Catamarca Province"
-    ],
-    [
-        "AR-H",
-        "Chaco Province"
-    ],
-    [
-        "AR-U",
-        "Chubut Province"
-    ],
-    [
-        "AR-X",
-        "Cordoba"
-    ],
-    [
-        "AR-W",
-        "Corrientes Province"
-    ],
-    [
-        "AR-E",
-        "Entre Rios"
-    ],
-    [
-        "AR-P",
-        "Formosa Province"
-    ],
-    [
-        "AR-Y",
-        "Jujuy"
-    ],
-    [
-        "AR-L",
-        "La Pampa Province"
-    ],
-    [
-        "AR-F",
-        "La Rioja Province"
-    ],
-    [
-        "AR-M",
-        "Mendoza Province"
-    ],
-    [
-        "AR-N",
-        "Misiones Province"
-    ],
-    [
-        "AR-Q",
-        "Neuquen"
-    ],
-    [
-        "AR-R",
-        "Río Negro"
-    ],
-    [
-        "AR-A",
-        "Salta Province"
-    ],
-    [
-        "AR-J",
-        "San Juan Province"
-    ],
-    [
-        "AR-D",
-        "San Luis Province"
-    ],
-    [
-        "AR-Z",
-        "Santa Cruz Province"
-    ],
-    [
-        "AR-S",
-        "Santa Fe Province"
-    ],
-    [
-        "AR-G",
-        "Santiago del Estero Province"
-    ],
-    [
-        "AR-V",
-        "Tierra del Fuego Province"
-    ],
-    [
-        "AR-T",
-        "Tucumán"
-    ],
-    [
-        "AR",
+        "Autonomous City of Buenos Aires",
         "Argentina"
     ],
     [
+        "AR-B",
+        "Buenos Aires Province",
+        "Argentina"
+    ],
+    [
+        "AR-K",
+        "Catamarca Province",
+        "Argentina"
+    ],
+    [
+        "AR-H",
+        "Chaco Province",
+        "Argentina"
+    ],
+    [
+        "AR-U",
+        "Chubut Province",
+        "Argentina"
+    ],
+    [
+        "AR-X",
+        "Cordoba",
+        "Argentina"
+    ],
+    [
+        "AR-W",
+        "Corrientes Province",
+        "Argentina"
+    ],
+    [
+        "AR-E",
+        "Entre Rios",
+        "Argentina"
+    ],
+    [
+        "AR-P",
+        "Formosa Province",
+        "Argentina"
+    ],
+    [
+        "AR-Y",
+        "Jujuy",
+        "Argentina"
+    ],
+    [
+        "AR-L",
+        "La Pampa Province",
+        "Argentina"
+    ],
+    [
+        "AR-F",
+        "La Rioja Province",
+        "Argentina"
+    ],
+    [
+        "AR-M",
+        "Mendoza Province",
+        "Argentina"
+    ],
+    [
+        "AR-N",
+        "Misiones Province",
+        "Argentina"
+    ],
+    [
+        "AR-Q",
+        "Neuquen",
+        "Argentina"
+    ],
+    [
+        "AR-R",
+        "Río Negro",
+        "Argentina"
+    ],
+    [
+        "AR-A",
+        "Salta Province",
+        "Argentina"
+    ],
+    [
+        "AR-J",
+        "San Juan Province",
+        "Argentina"
+    ],
+    [
+        "AR-D",
+        "San Luis Province",
+        "Argentina"
+    ],
+    [
+        "AR-Z",
+        "Santa Cruz Province",
+        "Argentina"
+    ],
+    [
+        "AR-S",
+        "Santa Fe Province",
+        "Argentina"
+    ],
+    [
+        "AR-G",
+        "Santiago del Estero Province",
+        "Argentina"
+    ],
+    [
+        "AR-V",
+        "Tierra del Fuego Province",
+        "Argentina"
+    ],
+    [
+        "AR-T",
+        "Tucumán",
+        "Argentina"
+    ],
+    [
+        "AR",
+        "Argentina",
+        ""
+    ],
+    [
         "AM",
-        "Armenia"
+        "Armenia",
+        ""
     ],
     [
         "AU-ACT",
-        "Australian Capital Territory"
-    ],
-    [
-        "AU-NSW",
-        "New South Wales"
-    ],
-    [
-        "AU-NT",
-        "Northern Territory"
-    ],
-    [
-        "AU-QLD",
-        "Queensland"
-    ],
-    [
-        "AU-SA",
-        "South Australia"
-    ],
-    [
-        "AU-TAS",
-        "Tasmania"
-    ],
-    [
-        "AU-VIC",
-        "Victoria"
-    ],
-    [
-        "AU-WA",
-        "Western Australia"
-    ],
-    [
-        "AU",
+        "Australian Capital Territory",
         "Australia"
     ],
     [
+        "AU-NSW",
+        "New South Wales",
+        "Australia"
+    ],
+    [
+        "AU-NT",
+        "Northern Territory",
+        "Australia"
+    ],
+    [
+        "AU-QLD",
+        "Queensland",
+        "Australia"
+    ],
+    [
+        "AU-SA",
+        "South Australia",
+        "Australia"
+    ],
+    [
+        "AU-TAS",
+        "Tasmania",
+        "Australia"
+    ],
+    [
+        "AU-VIC",
+        "Victoria",
+        "Australia"
+    ],
+    [
+        "AU-WA",
+        "Western Australia",
+        "Australia"
+    ],
+    [
+        "AU",
+        "Australia",
+        ""
+    ],
+    [
         "AT-1",
-        "Burgenland"
-    ],
-    [
-        "AT-2",
-        "Carinthia"
-    ],
-    [
-        "AT-3",
-        "Lower Austria"
-    ],
-    [
-        "AT-5",
-        "Salzburg"
-    ],
-    [
-        "AT-6",
-        "Styria"
-    ],
-    [
-        "AT-7",
-        "Tyrol"
-    ],
-    [
-        "AT-4",
-        "Upper Austria"
-    ],
-    [
-        "AT-9",
-        "Vienna"
-    ],
-    [
-        "AT-8",
-        "Vorarlberg"
-    ],
-    [
-        "AT",
+        "Burgenland",
         "Austria"
     ],
     [
+        "AT-2",
+        "Carinthia",
+        "Austria"
+    ],
+    [
+        "AT-3",
+        "Lower Austria",
+        "Austria"
+    ],
+    [
+        "AT-5",
+        "Salzburg",
+        "Austria"
+    ],
+    [
+        "AT-6",
+        "Styria",
+        "Austria"
+    ],
+    [
+        "AT-7",
+        "Tyrol",
+        "Austria"
+    ],
+    [
+        "AT-4",
+        "Upper Austria",
+        "Austria"
+    ],
+    [
+        "AT-9",
+        "Vienna",
+        "Austria"
+    ],
+    [
+        "AT-8",
+        "Vorarlberg",
+        "Austria"
+    ],
+    [
+        "AT",
+        "Austria",
+        ""
+    ],
+    [
         "AZ",
-        "Azerbaijan"
+        "Azerbaijan",
+        ""
     ],
     [
         "BH",
-        "Bahrain"
+        "Bahrain",
+        ""
     ],
     [
         "BD",
-        "Bangladesh"
+        "Bangladesh",
+        ""
     ],
     [
         "BY",
-        "Belarus"
+        "Belarus",
+        ""
     ],
     [
         "BE-BRU",
-        "Brussels"
-    ],
-    [
-        "BE-VLG",
-        "Flanders"
-    ],
-    [
-        "BE-WAL",
-        "Walloon Region"
-    ],
-    [
-        "BE",
+        "Brussels",
         "Belgium"
     ],
     [
+        "BE-VLG",
+        "Flanders",
+        "Belgium"
+    ],
+    [
+        "BE-WAL",
+        "Walloon Region",
+        "Belgium"
+    ],
+    [
+        "BE",
+        "Belgium",
+        ""
+    ],
+    [
         "BJ",
-        "Benin"
+        "Benin",
+        ""
     ],
     [
         "BO",
-        "Bolivia"
+        "Bolivia",
+        ""
     ],
     [
         "BA",
-        "Bosnia & Herzegovina"
+        "Bosnia & Herzegovina",
+        ""
     ],
     [
         "BR-DF",
-        "Federal District"
-    ],
-    [
-        "BR-AC",
-        "State of Acre"
-    ],
-    [
-        "BR-AL",
-        "State of Alagoas"
-    ],
-    [
-        "BR-AP",
-        "State of Amapá"
-    ],
-    [
-        "BR-AM",
-        "State of Amazonas"
-    ],
-    [
-        "BR-BA",
-        "State of Bahia"
-    ],
-    [
-        "BR-CE",
-        "State of Ceará"
-    ],
-    [
-        "BR-ES",
-        "State of Espírito Santo"
-    ],
-    [
-        "BR-GO",
-        "State of Goiás"
-    ],
-    [
-        "BR-MA",
-        "State of Maranhão"
-    ],
-    [
-        "BR-MT",
-        "State of Mato Grosso"
-    ],
-    [
-        "BR-MS",
-        "State of Mato Grosso do Sul"
-    ],
-    [
-        "BR-MG",
-        "State of Minas Gerais"
-    ],
-    [
-        "BR-PA",
-        "State of Pará"
-    ],
-    [
-        "BR-PB",
-        "State of Paraíba"
-    ],
-    [
-        "BR-PR",
-        "State of Paraná"
-    ],
-    [
-        "BR-PE",
-        "State of Pernambuco"
-    ],
-    [
-        "BR-PI",
-        "State of Piauí"
-    ],
-    [
-        "BR-RJ",
-        "State of Rio de Janeiro"
-    ],
-    [
-        "BR-RN",
-        "State of Rio Grande do Norte"
-    ],
-    [
-        "BR-RS",
-        "State of Rio Grande do Sul"
-    ],
-    [
-        "BR-RO",
-        "State of Rondônia"
-    ],
-    [
-        "BR-RR",
-        "State of Roraima"
-    ],
-    [
-        "BR-SC",
-        "State of Santa Catarina"
-    ],
-    [
-        "BR-SP",
-        "State of São Paulo"
-    ],
-    [
-        "BR-SE",
-        "State of Sergipe"
-    ],
-    [
-        "BR-TO",
-        "State of Tocantins"
-    ],
-    [
-        "BR",
+        "Federal District",
         "Brazil"
     ],
     [
+        "BR-AC",
+        "State of Acre",
+        "Brazil"
+    ],
+    [
+        "BR-AL",
+        "State of Alagoas",
+        "Brazil"
+    ],
+    [
+        "BR-AP",
+        "State of Amapá",
+        "Brazil"
+    ],
+    [
+        "BR-AM",
+        "State of Amazonas",
+        "Brazil"
+    ],
+    [
+        "BR-BA",
+        "State of Bahia",
+        "Brazil"
+    ],
+    [
+        "BR-CE",
+        "State of Ceará",
+        "Brazil"
+    ],
+    [
+        "BR-ES",
+        "State of Espírito Santo",
+        "Brazil"
+    ],
+    [
+        "BR-GO",
+        "State of Goiás",
+        "Brazil"
+    ],
+    [
+        "BR-MA",
+        "State of Maranhão",
+        "Brazil"
+    ],
+    [
+        "BR-MT",
+        "State of Mato Grosso",
+        "Brazil"
+    ],
+    [
+        "BR-MS",
+        "State of Mato Grosso do Sul",
+        "Brazil"
+    ],
+    [
+        "BR-MG",
+        "State of Minas Gerais",
+        "Brazil"
+    ],
+    [
+        "BR-PA",
+        "State of Pará",
+        "Brazil"
+    ],
+    [
+        "BR-PB",
+        "State of Paraíba",
+        "Brazil"
+    ],
+    [
+        "BR-PR",
+        "State of Paraná",
+        "Brazil"
+    ],
+    [
+        "BR-PE",
+        "State of Pernambuco",
+        "Brazil"
+    ],
+    [
+        "BR-PI",
+        "State of Piauí",
+        "Brazil"
+    ],
+    [
+        "BR-RJ",
+        "State of Rio de Janeiro",
+        "Brazil"
+    ],
+    [
+        "BR-RN",
+        "State of Rio Grande do Norte",
+        "Brazil"
+    ],
+    [
+        "BR-RS",
+        "State of Rio Grande do Sul",
+        "Brazil"
+    ],
+    [
+        "BR-RO",
+        "State of Rondônia",
+        "Brazil"
+    ],
+    [
+        "BR-RR",
+        "State of Roraima",
+        "Brazil"
+    ],
+    [
+        "BR-SC",
+        "State of Santa Catarina",
+        "Brazil"
+    ],
+    [
+        "BR-SP",
+        "State of São Paulo",
+        "Brazil"
+    ],
+    [
+        "BR-SE",
+        "State of Sergipe",
+        "Brazil"
+    ],
+    [
+        "BR-TO",
+        "State of Tocantins",
+        "Brazil"
+    ],
+    [
+        "BR",
+        "Brazil",
+        ""
+    ],
+    [
         "BG",
-        "Bulgaria"
+        "Bulgaria",
+        ""
     ],
     [
         "BF",
-        "Burkina Faso"
+        "Burkina Faso",
+        ""
     ],
     [
         "KH",
-        "Cambodia"
+        "Cambodia",
+        ""
     ],
     [
         "CM",
-        "Cameroon"
+        "Cameroon",
+        ""
     ],
     [
         "CA-AB",
-        "Alberta"
-    ],
-    [
-        "CA-BC",
-        "British Columbia"
-    ],
-    [
-        "CA-MB",
-        "Manitoba"
-    ],
-    [
-        "CA-NB",
-        "New Brunswick"
-    ],
-    [
-        "CA-NL",
-        "Newfoundland and Labrador"
-    ],
-    [
-        "CA-NT",
-        "Northwest Territories"
-    ],
-    [
-        "CA-NS",
-        "Nova Scotia"
-    ],
-    [
-        "CA-NU",
-        "Nunavut"
-    ],
-    [
-        "CA-ON",
-        "Ontario"
-    ],
-    [
-        "CA-PE",
-        "Prince Edward Island"
-    ],
-    [
-        "CA-QC",
-        "Québec"
-    ],
-    [
-        "CA-SK",
-        "Saskatchewan"
-    ],
-    [
-        "CA-YT",
-        "Yukon Territory"
-    ],
-    [
-        "CA",
+        "Alberta",
         "Canada"
     ],
     [
+        "CA-BC",
+        "British Columbia",
+        "Canada"
+    ],
+    [
+        "CA-MB",
+        "Manitoba",
+        "Canada"
+    ],
+    [
+        "CA-NB",
+        "New Brunswick",
+        "Canada"
+    ],
+    [
+        "CA-NL",
+        "Newfoundland and Labrador",
+        "Canada"
+    ],
+    [
+        "CA-NT",
+        "Northwest Territories",
+        "Canada"
+    ],
+    [
+        "CA-NS",
+        "Nova Scotia",
+        "Canada"
+    ],
+    [
+        "CA-NU",
+        "Nunavut",
+        "Canada"
+    ],
+    [
+        "CA-ON",
+        "Ontario",
+        "Canada"
+    ],
+    [
+        "CA-PE",
+        "Prince Edward Island",
+        "Canada"
+    ],
+    [
+        "CA-QC",
+        "Québec",
+        "Canada"
+    ],
+    [
+        "CA-SK",
+        "Saskatchewan",
+        "Canada"
+    ],
+    [
+        "CA-YT",
+        "Yukon Territory",
+        "Canada"
+    ],
+    [
+        "CA",
+        "Canada",
+        ""
+    ],
+    [
         "CL-AN",
-        "Antofagasta Region"
-    ],
-    [
-        "CL-AR",
-        "Araucania"
-    ],
-    [
-        "CL-AP",
-        "Arica y Parinacota Region"
-    ],
-    [
-        "CL-AT",
-        "Atacama Region"
-    ],
-    [
-        "CL-BI",
-        "Bío Bío Region"
-    ],
-    [
-        "CL-CO",
-        "Coquimbo Region"
-    ],
-    [
-        "CL-LL",
-        "Los Lagos Region"
-    ],
-    [
-        "CL-LR",
-        "Los Ríos Region"
-    ],
-    [
-        "CL-MA",
-        "Magallanes y la Antártica Chilena Region"
-    ],
-    [
-        "CL-ML",
-        "Maule Region"
-    ],
-    [
-        "CL-LI",
-        "O'Higgins Region"
-    ],
-    [
-        "CL-RM",
-        "Santiago Metropolitan Region"
-    ],
-    [
-        "CL-TA",
-        "Tarapacá Region"
-    ],
-    [
-        "CL-VS",
-        "Valparaiso Region"
-    ],
-    [
-        "CL-AI",
-        "XI Región"
-    ],
-    [
-        "CL",
+        "Antofagasta Region",
         "Chile"
     ],
     [
+        "CL-AR",
+        "Araucania",
+        "Chile"
+    ],
+    [
+        "CL-AP",
+        "Arica y Parinacota Region",
+        "Chile"
+    ],
+    [
+        "CL-AT",
+        "Atacama Region",
+        "Chile"
+    ],
+    [
+        "CL-BI",
+        "Bío Bío Region",
+        "Chile"
+    ],
+    [
+        "CL-CO",
+        "Coquimbo Region",
+        "Chile"
+    ],
+    [
+        "CL-LL",
+        "Los Lagos Region",
+        "Chile"
+    ],
+    [
+        "CL-LR",
+        "Los Ríos Region",
+        "Chile"
+    ],
+    [
+        "CL-MA",
+        "Magallanes y la Antártica Chilena Region",
+        "Chile"
+    ],
+    [
+        "CL-ML",
+        "Maule Region",
+        "Chile"
+    ],
+    [
+        "CL-LI",
+        "O'Higgins Region",
+        "Chile"
+    ],
+    [
+        "CL-RM",
+        "Santiago Metropolitan Region",
+        "Chile"
+    ],
+    [
+        "CL-TA",
+        "Tarapacá Region",
+        "Chile"
+    ],
+    [
+        "CL-VS",
+        "Valparaiso Region",
+        "Chile"
+    ],
+    [
+        "CL-AI",
+        "XI Región",
+        "Chile"
+    ],
+    [
+        "CL",
+        "Chile",
+        ""
+    ],
+    [
         "CO-AMA",
-        "Amazonas Department"
-    ],
-    [
-        "CO-ANT",
-        "Antioquia"
-    ],
-    [
-        "CO-ARA",
-        "Arauca"
-    ],
-    [
-        "CO-ATL",
-        "Atlantico"
-    ],
-    [
-        "CO-DC",
-        "Bogota"
-    ],
-    [
-        "CO-BOL",
-        "Bolivar"
-    ],
-    [
-        "CO-BOY",
-        "Boyaca"
-    ],
-    [
-        "CO-CAL",
-        "Caldas"
-    ],
-    [
-        "CO-CAQ",
-        "Caquetá"
-    ],
-    [
-        "CO-CAS",
-        "Casanare"
-    ],
-    [
-        "CO-CAU",
-        "Cauca Department"
-    ],
-    [
-        "CO-CES",
-        "Cesar"
-    ],
-    [
-        "CO-CHO",
-        "Choco"
-    ],
-    [
-        "CO-COR",
-        "Cordoba"
-    ],
-    [
-        "CO-CUN",
-        "Cundinamarca"
-    ],
-    [
-        "CO-GUA",
-        "Guainia"
-    ],
-    [
-        "CO-GUV",
-        "Guaviare"
-    ],
-    [
-        "CO-HUI",
-        "Huila"
-    ],
-    [
-        "CO-LAG",
-        "La Guajira"
-    ],
-    [
-        "CO-MAG",
-        "Magdalena"
-    ],
-    [
-        "CO-MET",
-        "Meta"
-    ],
-    [
-        "CO-NAR",
-        "Narino"
-    ],
-    [
-        "CO-NSA",
-        "North Santander"
-    ],
-    [
-        "CO-PUT",
-        "Putumayo"
-    ],
-    [
-        "CO-QUI",
-        "Quindio"
-    ],
-    [
-        "CO-RIS",
-        "Risaralda"
-    ],
-    [
-        "CO-SAP",
-        "San Andrés and Providencia"
-    ],
-    [
-        "CO-SAN",
-        "Santander Department"
-    ],
-    [
-        "CO-SUC",
-        "Sucre"
-    ],
-    [
-        "CO-TOL",
-        "Tolima"
-    ],
-    [
-        "CO-VAC",
-        "Valle del Cauca"
-    ],
-    [
-        "CO-VAU",
-        "Vaupes"
-    ],
-    [
-        "CO-VID",
-        "Vichada"
-    ],
-    [
-        "CO",
+        "Amazonas Department",
         "Colombia"
     ],
     [
+        "CO-ANT",
+        "Antioquia",
+        "Colombia"
+    ],
+    [
+        "CO-ARA",
+        "Arauca",
+        "Colombia"
+    ],
+    [
+        "CO-ATL",
+        "Atlantico",
+        "Colombia"
+    ],
+    [
+        "CO-DC",
+        "Bogota",
+        "Colombia"
+    ],
+    [
+        "CO-BOL",
+        "Bolivar",
+        "Colombia"
+    ],
+    [
+        "CO-BOY",
+        "Boyaca",
+        "Colombia"
+    ],
+    [
+        "CO-CAL",
+        "Caldas",
+        "Colombia"
+    ],
+    [
+        "CO-CAQ",
+        "Caquetá",
+        "Colombia"
+    ],
+    [
+        "CO-CAS",
+        "Casanare",
+        "Colombia"
+    ],
+    [
+        "CO-CAU",
+        "Cauca Department",
+        "Colombia"
+    ],
+    [
+        "CO-CES",
+        "Cesar",
+        "Colombia"
+    ],
+    [
+        "CO-CHO",
+        "Choco",
+        "Colombia"
+    ],
+    [
+        "CO-COR",
+        "Cordoba",
+        "Colombia"
+    ],
+    [
+        "CO-CUN",
+        "Cundinamarca",
+        "Colombia"
+    ],
+    [
+        "CO-GUA",
+        "Guainia",
+        "Colombia"
+    ],
+    [
+        "CO-GUV",
+        "Guaviare",
+        "Colombia"
+    ],
+    [
+        "CO-HUI",
+        "Huila",
+        "Colombia"
+    ],
+    [
+        "CO-LAG",
+        "La Guajira",
+        "Colombia"
+    ],
+    [
+        "CO-MAG",
+        "Magdalena",
+        "Colombia"
+    ],
+    [
+        "CO-MET",
+        "Meta",
+        "Colombia"
+    ],
+    [
+        "CO-NAR",
+        "Narino",
+        "Colombia"
+    ],
+    [
+        "CO-NSA",
+        "North Santander",
+        "Colombia"
+    ],
+    [
+        "CO-PUT",
+        "Putumayo",
+        "Colombia"
+    ],
+    [
+        "CO-QUI",
+        "Quindio",
+        "Colombia"
+    ],
+    [
+        "CO-RIS",
+        "Risaralda",
+        "Colombia"
+    ],
+    [
+        "CO-SAP",
+        "San Andrés and Providencia",
+        "Colombia"
+    ],
+    [
+        "CO-SAN",
+        "Santander Department",
+        "Colombia"
+    ],
+    [
+        "CO-SUC",
+        "Sucre",
+        "Colombia"
+    ],
+    [
+        "CO-TOL",
+        "Tolima",
+        "Colombia"
+    ],
+    [
+        "CO-VAC",
+        "Valle del Cauca",
+        "Colombia"
+    ],
+    [
+        "CO-VAU",
+        "Vaupes",
+        "Colombia"
+    ],
+    [
+        "CO-VID",
+        "Vichada",
+        "Colombia"
+    ],
+    [
+        "CO",
+        "Colombia",
+        ""
+    ],
+    [
         "CD",
-        "Congo - Kinshasa"
+        "Congo - Kinshasa",
+        ""
     ],
     [
         "CR",
-        "Costa Rica"
+        "Costa Rica",
+        ""
     ],
     [
         "CI",
-        "Côte d’Ivoire"
+        "Côte d’Ivoire",
+        ""
     ],
     [
         "HR",
-        "Croatia"
+        "Croatia",
+        ""
     ],
     [
         "CU",
-        "Cuba"
+        "Cuba",
+        ""
     ],
     [
         "CY",
-        "Cyprus"
+        "Cyprus",
+        ""
     ],
     [
         "CZ",
-        "Czechia"
+        "Czechia",
+        ""
     ],
     [
         "DK-84",
-        "Capital Region of Denmark"
-    ],
-    [
-        "DK-82",
-        "Central Denmark Region"
-    ],
-    [
-        "DK-81",
-        "North Denmark Region"
-    ],
-    [
-        "DK-83",
-        "Region Syddanmark"
-    ],
-    [
-        "DK-85",
-        "Region Zealand"
-    ],
-    [
-        "DK",
+        "Capital Region of Denmark",
         "Denmark"
     ],
     [
+        "DK-82",
+        "Central Denmark Region",
+        "Denmark"
+    ],
+    [
+        "DK-81",
+        "North Denmark Region",
+        "Denmark"
+    ],
+    [
+        "DK-83",
+        "Region Syddanmark",
+        "Denmark"
+    ],
+    [
+        "DK-85",
+        "Region Zealand",
+        "Denmark"
+    ],
+    [
+        "DK",
+        "Denmark",
+        ""
+    ],
+    [
         "DO",
-        "Dominican Republic"
+        "Dominican Republic",
+        ""
     ],
     [
         "EC-A",
-        "Azuay"
-    ],
-    [
-        "EC-B",
-        "Bolívar Province"
-    ],
-    [
-        "EC-F",
-        "Cañar Province"
-    ],
-    [
-        "EC-C",
-        "Carchi Province"
-    ],
-    [
-        "EC-H",
-        "Chimborazo Province"
-    ],
-    [
-        "EC-X",
-        "Cotopaxi Province"
-    ],
-    [
-        "EC-O",
-        "El Oro"
-    ],
-    [
-        "EC-E",
-        "Esmeraldas Province"
-    ],
-    [
-        "EC-W",
-        "Galápagos Islands"
-    ],
-    [
-        "EC-G",
-        "Guayas"
-    ],
-    [
-        "EC-I",
-        "Imbabura Province"
-    ],
-    [
-        "EC-L",
-        "Loja"
-    ],
-    [
-        "EC-R",
-        "Los Ríos Province"
-    ],
-    [
-        "EC-M",
-        "Manabí Province"
-    ],
-    [
-        "EC-S",
-        "Morona-Santiago Province"
-    ],
-    [
-        "EC-D",
-        "Orellana Province"
-    ],
-    [
-        "EC-Y",
-        "Pastaza Province"
-    ],
-    [
-        "EC-P",
-        "Pichincha"
-    ],
-    [
-        "EC-N",
-        "Provincia de Napo"
-    ],
-    [
-        "EC-SE",
-        "Santa Elena Province"
-    ],
-    [
-        "EC-SD",
-        "Santo Domingo de los Tsáchilas Province"
-    ],
-    [
-        "EC-U",
-        "Sucumbíos Province"
-    ],
-    [
-        "EC-T",
-        "Tungurahua"
-    ],
-    [
-        "EC-Z",
-        "Zamora-Chinchipe Province"
-    ],
-    [
-        "EC",
+        "Azuay",
         "Ecuador"
     ],
     [
+        "EC-B",
+        "Bolívar Province",
+        "Ecuador"
+    ],
+    [
+        "EC-F",
+        "Cañar Province",
+        "Ecuador"
+    ],
+    [
+        "EC-C",
+        "Carchi Province",
+        "Ecuador"
+    ],
+    [
+        "EC-H",
+        "Chimborazo Province",
+        "Ecuador"
+    ],
+    [
+        "EC-X",
+        "Cotopaxi Province",
+        "Ecuador"
+    ],
+    [
+        "EC-O",
+        "El Oro",
+        "Ecuador"
+    ],
+    [
+        "EC-E",
+        "Esmeraldas Province",
+        "Ecuador"
+    ],
+    [
+        "EC-W",
+        "Galápagos Islands",
+        "Ecuador"
+    ],
+    [
+        "EC-G",
+        "Guayas",
+        "Ecuador"
+    ],
+    [
+        "EC-I",
+        "Imbabura Province",
+        "Ecuador"
+    ],
+    [
+        "EC-L",
+        "Loja",
+        "Ecuador"
+    ],
+    [
+        "EC-R",
+        "Los Ríos Province",
+        "Ecuador"
+    ],
+    [
+        "EC-M",
+        "Manabí Province",
+        "Ecuador"
+    ],
+    [
+        "EC-S",
+        "Morona-Santiago Province",
+        "Ecuador"
+    ],
+    [
+        "EC-D",
+        "Orellana Province",
+        "Ecuador"
+    ],
+    [
+        "EC-Y",
+        "Pastaza Province",
+        "Ecuador"
+    ],
+    [
+        "EC-P",
+        "Pichincha",
+        "Ecuador"
+    ],
+    [
+        "EC-N",
+        "Provincia de Napo",
+        "Ecuador"
+    ],
+    [
+        "EC-SE",
+        "Santa Elena Province",
+        "Ecuador"
+    ],
+    [
+        "EC-SD",
+        "Santo Domingo de los Tsáchilas Province",
+        "Ecuador"
+    ],
+    [
+        "EC-U",
+        "Sucumbíos Province",
+        "Ecuador"
+    ],
+    [
+        "EC-T",
+        "Tungurahua",
+        "Ecuador"
+    ],
+    [
+        "EC-Z",
+        "Zamora-Chinchipe Province",
+        "Ecuador"
+    ],
+    [
+        "EC",
+        "Ecuador",
+        ""
+    ],
+    [
         "EG-KB",
-        "Al Qalyubia Governorate"
-    ],
-    [
-        "EG-ALX",
-        "Alexandria Governorate"
-    ],
-    [
-        "EG-SHR",
-        "Ash Sharqia Governorate"
-    ],
-    [
-        "EG-AST",
-        "Assiut Governorate"
-    ],
-    [
-        "EG-ASN",
-        "Aswan Governorate"
-    ],
-    [
-        "EG-BNS",
-        "Beni Suef Governorate"
-    ],
-    [
-        "EG-C",
-        "Cairo Governorate"
-    ],
-    [
-        "EG-DK",
-        "Dakahlia Governorate"
-    ],
-    [
-        "EG-DT",
-        "Damietta Governorate"
-    ],
-    [
-        "EG-BH",
-        "El Beheira Governorate"
-    ],
-    [
-        "EG-FYM",
-        "Faiyum Governorate"
-    ],
-    [
-        "EG-GH",
-        "Gharbia Governorate"
-    ],
-    [
-        "EG-GZ",
-        "Giza Governorate"
-    ],
-    [
-        "EG-IS",
-        "Ismailia Governorate"
-    ],
-    [
-        "EG-KFS",
-        "Kafr El Sheikh Governorate"
-    ],
-    [
-        "EG-LX",
-        "Luxor Governorate"
-    ],
-    [
-        "EG-MT",
-        "Matrouh Governorate"
-    ],
-    [
-        "EG-MN",
-        "Menia Governorate"
-    ],
-    [
-        "EG-MNF",
-        "Menofia Governorate"
-    ],
-    [
-        "EG-WAD",
-        "New Valley Governorate"
-    ],
-    [
-        "EG-SIN",
-        "North Sinai Governorate"
-    ],
-    [
-        "EG-PTS",
-        "Port Said Governorate"
-    ],
-    [
-        "EG-KN",
-        "Qena Governorate"
-    ],
-    [
-        "EG-BA",
-        "Red Sea Governorate"
-    ],
-    [
-        "EG-SHG",
-        "Sohag Governorate"
-    ],
-    [
-        "EG-JS",
-        "South Sinai Governorate"
-    ],
-    [
-        "EG-SUZ",
-        "Suez Governorate"
-    ],
-    [
-        "EG",
+        "Al Qalyubia Governorate",
         "Egypt"
     ],
     [
+        "EG-ALX",
+        "Alexandria Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-SHR",
+        "Ash Sharqia Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-AST",
+        "Assiut Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-ASN",
+        "Aswan Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-BNS",
+        "Beni Suef Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-C",
+        "Cairo Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-DK",
+        "Dakahlia Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-DT",
+        "Damietta Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-BH",
+        "El Beheira Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-FYM",
+        "Faiyum Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-GH",
+        "Gharbia Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-GZ",
+        "Giza Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-IS",
+        "Ismailia Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-KFS",
+        "Kafr El Sheikh Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-LX",
+        "Luxor Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-MT",
+        "Matrouh Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-MN",
+        "Menia Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-MNF",
+        "Menofia Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-WAD",
+        "New Valley Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-SIN",
+        "North Sinai Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-PTS",
+        "Port Said Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-KN",
+        "Qena Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-BA",
+        "Red Sea Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-SHG",
+        "Sohag Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-JS",
+        "South Sinai Governorate",
+        "Egypt"
+    ],
+    [
+        "EG-SUZ",
+        "Suez Governorate",
+        "Egypt"
+    ],
+    [
+        "EG",
+        "Egypt",
+        ""
+    ],
+    [
         "SV",
-        "El Salvador"
+        "El Salvador",
+        ""
     ],
     [
         "EE",
-        "Estonia"
+        "Estonia",
+        ""
     ],
     [
         "ET",
-        "Ethiopia"
+        "Ethiopia",
+        ""
     ],
     [
         "FI",
-        "Finland"
+        "Finland",
+        ""
     ],
     [
         "FR-A",
-        "Alsace"
-    ],
-    [
-        "FR-B",
-        "Aquitaine"
-    ],
-    [
-        "FR-C",
-        "Auvergne"
-    ],
-    [
-        "FR-E",
-        "Brittany"
-    ],
-    [
-        "FR-D",
-        "Burgundy"
-    ],
-    [
-        "FR-F",
-        "Centre-Val de Loire"
-    ],
-    [
-        "FR-G",
-        "Champagne-Ardenne"
-    ],
-    [
-        "FR-H",
-        "Corsica"
-    ],
-    [
-        "FR-I",
-        "Franche-Comté"
-    ],
-    [
-        "FR-J",
-        "Île-de-France"
-    ],
-    [
-        "FR-K",
-        "Languedoc-Roussillon"
-    ],
-    [
-        "FR-L",
-        "Limousin"
-    ],
-    [
-        "FR-M",
-        "Lorraine"
-    ],
-    [
-        "FR-P",
-        "Lower Normandy"
-    ],
-    [
-        "FR-N",
-        "Midi-Pyrénées"
-    ],
-    [
-        "FR-O",
-        "Nord-Pas-de-Calais"
-    ],
-    [
-        "FR-R",
-        "Pays de la Loire"
-    ],
-    [
-        "FR-S",
-        "Picardy"
-    ],
-    [
-        "FR-T",
-        "Poitou-Charentes"
-    ],
-    [
-        "FR-U",
-        "Provence-Alpes-Côte d'Azur"
-    ],
-    [
-        "FR-V",
-        "Rhone-Alpes"
-    ],
-    [
-        "FR-Q",
-        "Upper Normandy"
-    ],
-    [
-        "FR-01",
-        "Ain"
-    ],
-    [
-        "FR-02",
-        "Aisne"
-    ],
-    [
-        "FR-03",
-        "Allier"
-    ],
-    [
-        "FR-06",
-        "Alpes-Maritimes"
-    ],
-    [
-        "FR-04",
-        "Alpes-de-Haute-Provence"
-    ],
-    [
-        "FR-07",
-        "Ardeche"
-    ],
-    [
-        "FR-08",
-        "Ardennes"
-    ],
-    [
-        "FR-09",
-        "Ariege"
-    ],
-    [
-        "FR-10",
-        "Aube"
-    ],
-    [
-        "FR-11",
-        "Aude"
-    ],
-    [
-        "FR-12",
-        "Aveyron"
-    ],
-    [
-        "FR-67",
-        "Bas-Rhin"
-    ],
-    [
-        "FR-13",
-        "Bouches-du-Rhone"
-    ],
-    [
-        "FR-14",
-        "Calvados"
-    ],
-    [
-        "FR-15",
-        "Cantal"
-    ],
-    [
-        "FR-16",
-        "Charente"
-    ],
-    [
-        "FR-17",
-        "Charente-Maritime"
-    ],
-    [
-        "FR-18",
-        "Cher"
-    ],
-    [
-        "FR-19",
-        "Correze"
-    ],
-    [
-        "FR-2A",
-        "Corse-du-Sud"
-    ],
-    [
-        "FR-22",
-        "Cotes-d'Armor"
-    ],
-    [
-        "FR-23",
-        "Creuse"
-    ],
-    [
-        "FR-21",
-        "Côte-d'Or"
-    ],
-    [
-        "FR-79",
-        "Deux-Sevres"
-    ],
-    [
-        "FR-24",
-        "Dordogne"
-    ],
-    [
-        "FR-25",
-        "Doubs"
-    ],
-    [
-        "FR-26",
-        "Drôme"
-    ],
-    [
-        "FR-91",
-        "Essonne"
-    ],
-    [
-        "FR-27",
-        "Eure"
-    ],
-    [
-        "FR-28",
-        "Eure-et-Loir"
-    ],
-    [
-        "FR-29",
-        "Finistere"
-    ],
-    [
-        "FR-30",
-        "Gard"
-    ],
-    [
-        "FR-32",
-        "Gers"
-    ],
-    [
-        "FR-33",
-        "Gironde"
-    ],
-    [
-        "FR-68",
-        "Haut-Rhin"
-    ],
-    [
-        "FR-2B",
-        "Haute-Corse"
-    ],
-    [
-        "FR-31",
-        "Haute-Garonne"
-    ],
-    [
-        "FR-43",
-        "Haute-Loire"
-    ],
-    [
-        "FR-52",
-        "Haute-Marne"
-    ],
-    [
-        "FR-74",
-        "Haute-Savoie"
-    ],
-    [
-        "FR-70",
-        "Haute-Saône"
-    ],
-    [
-        "FR-87",
-        "Haute-Vienne"
-    ],
-    [
-        "FR-05",
-        "Hautes-Alpes"
-    ],
-    [
-        "FR-65",
-        "Hautes-Pyrénées"
-    ],
-    [
-        "FR-92",
-        "Hauts-de-Seine"
-    ],
-    [
-        "FR-34",
-        "Hérault"
-    ],
-    [
-        "FR-35",
-        "Ille-et-Vilaine"
-    ],
-    [
-        "FR-36",
-        "Indre"
-    ],
-    [
-        "FR-37",
-        "Indre-et-Loire"
-    ],
-    [
-        "FR-38",
-        "Isere"
-    ],
-    [
-        "FR-39",
-        "Jura"
-    ],
-    [
-        "FR-40",
-        "Landes"
-    ],
-    [
-        "FR-41",
-        "Loir-et-Cher"
-    ],
-    [
-        "FR-42",
-        "Loire"
-    ],
-    [
-        "FR-44",
-        "Loire-Atlantique"
-    ],
-    [
-        "FR-45",
-        "Loiret"
-    ],
-    [
-        "FR-46",
-        "Lot"
-    ],
-    [
-        "FR-47",
-        "Lot-et-Garonne"
-    ],
-    [
-        "FR-48",
-        "Lozère"
-    ],
-    [
-        "FR-49",
-        "Maine-et-Loire"
-    ],
-    [
-        "FR-50",
-        "Manche"
-    ],
-    [
-        "FR-51",
-        "Marne"
-    ],
-    [
-        "FR-53",
-        "Mayenne"
-    ],
-    [
-        "FR-54",
-        "Meurthe-et-Moselle"
-    ],
-    [
-        "FR-55",
-        "Meuse"
-    ],
-    [
-        "FR-56",
-        "Morbihan"
-    ],
-    [
-        "FR-57",
-        "Moselle"
-    ],
-    [
-        "FR-58",
-        "Nievre"
-    ],
-    [
-        "FR-59",
-        "Nord"
-    ],
-    [
-        "FR-60",
-        "Oise"
-    ],
-    [
-        "FR-61",
-        "Orne"
-    ],
-    [
-        "FR-75",
-        "Paris"
-    ],
-    [
-        "FR-62",
-        "Pas-de-Calais"
-    ],
-    [
-        "FR-63",
-        "Puy-de-Dome"
-    ],
-    [
-        "FR-64",
-        "Pyrénées-Atlantiques"
-    ],
-    [
-        "FR-66",
-        "Pyrénées-Orientales"
-    ],
-    [
-        "FR-69",
-        "Rhône"
-    ],
-    [
-        "FR-72",
-        "Sarthe"
-    ],
-    [
-        "FR-73",
-        "Savoie"
-    ],
-    [
-        "FR-71",
-        "Saône-et-Loire"
-    ],
-    [
-        "FR-76",
-        "Seine-Maritime"
-    ],
-    [
-        "FR-93",
-        "Seine-Saint-Denis"
-    ],
-    [
-        "FR-77",
-        "Seine-et-Marne"
-    ],
-    [
-        "FR-80",
-        "Somme"
-    ],
-    [
-        "FR-81",
-        "Tarn"
-    ],
-    [
-        "FR-82",
-        "Tarn-et-Garonne"
-    ],
-    [
-        "FR-90",
-        "Territoire de Belfort"
-    ],
-    [
-        "FR-95",
-        "Val-d'Oise"
-    ],
-    [
-        "FR-94",
-        "Val-de-Marne"
-    ],
-    [
-        "FR-83",
-        "Var"
-    ],
-    [
-        "FR-84",
-        "Vaucluse"
-    ],
-    [
-        "FR-85",
-        "Vendee"
-    ],
-    [
-        "FR-86",
-        "Vienne"
-    ],
-    [
-        "FR-88",
-        "Vosges"
-    ],
-    [
-        "FR-89",
-        "Yonne"
-    ],
-    [
-        "FR-78",
-        "Yvelines"
-    ],
-    [
-        "FR",
+        "Alsace",
         "France"
     ],
     [
+        "FR-B",
+        "Aquitaine",
+        "France"
+    ],
+    [
+        "FR-C",
+        "Auvergne",
+        "France"
+    ],
+    [
+        "FR-E",
+        "Brittany",
+        "France"
+    ],
+    [
+        "FR-D",
+        "Burgundy",
+        "France"
+    ],
+    [
+        "FR-F",
+        "Centre-Val de Loire",
+        "France"
+    ],
+    [
+        "FR-G",
+        "Champagne-Ardenne",
+        "France"
+    ],
+    [
+        "FR-H",
+        "Corsica",
+        "France"
+    ],
+    [
+        "FR-I",
+        "Franche-Comté",
+        "France"
+    ],
+    [
+        "FR-J",
+        "Île-de-France",
+        "France"
+    ],
+    [
+        "FR-K",
+        "Languedoc-Roussillon",
+        "France"
+    ],
+    [
+        "FR-L",
+        "Limousin",
+        "France"
+    ],
+    [
+        "FR-M",
+        "Lorraine",
+        "France"
+    ],
+    [
+        "FR-P",
+        "Lower Normandy",
+        "France"
+    ],
+    [
+        "FR-N",
+        "Midi-Pyrénées",
+        "France"
+    ],
+    [
+        "FR-O",
+        "Nord-Pas-de-Calais",
+        "France"
+    ],
+    [
+        "FR-R",
+        "Pays de la Loire",
+        "France"
+    ],
+    [
+        "FR-S",
+        "Picardy",
+        "France"
+    ],
+    [
+        "FR-T",
+        "Poitou-Charentes",
+        "France"
+    ],
+    [
+        "FR-U",
+        "Provence-Alpes-Côte d'Azur",
+        "France"
+    ],
+    [
+        "FR-V",
+        "Rhone-Alpes",
+        "France"
+    ],
+    [
+        "FR-Q",
+        "Upper Normandy",
+        "France"
+    ],
+    [
+        "FR-01",
+        "Ain",
+        "France"
+    ],
+    [
+        "FR-02",
+        "Aisne",
+        "France"
+    ],
+    [
+        "FR-03",
+        "Allier",
+        "France"
+    ],
+    [
+        "FR-06",
+        "Alpes-Maritimes",
+        "France"
+    ],
+    [
+        "FR-04",
+        "Alpes-de-Haute-Provence",
+        "France"
+    ],
+    [
+        "FR-07",
+        "Ardeche",
+        "France"
+    ],
+    [
+        "FR-08",
+        "Ardennes",
+        "France"
+    ],
+    [
+        "FR-09",
+        "Ariege",
+        "France"
+    ],
+    [
+        "FR-10",
+        "Aube",
+        "France"
+    ],
+    [
+        "FR-11",
+        "Aude",
+        "France"
+    ],
+    [
+        "FR-12",
+        "Aveyron",
+        "France"
+    ],
+    [
+        "FR-67",
+        "Bas-Rhin",
+        "France"
+    ],
+    [
+        "FR-13",
+        "Bouches-du-Rhone",
+        "France"
+    ],
+    [
+        "FR-14",
+        "Calvados",
+        "France"
+    ],
+    [
+        "FR-15",
+        "Cantal",
+        "France"
+    ],
+    [
+        "FR-16",
+        "Charente",
+        "France"
+    ],
+    [
+        "FR-17",
+        "Charente-Maritime",
+        "France"
+    ],
+    [
+        "FR-18",
+        "Cher",
+        "France"
+    ],
+    [
+        "FR-19",
+        "Correze",
+        "France"
+    ],
+    [
+        "FR-2A",
+        "Corse-du-Sud",
+        "France"
+    ],
+    [
+        "FR-22",
+        "Cotes-d'Armor",
+        "France"
+    ],
+    [
+        "FR-23",
+        "Creuse",
+        "France"
+    ],
+    [
+        "FR-21",
+        "Côte-d'Or",
+        "France"
+    ],
+    [
+        "FR-79",
+        "Deux-Sevres",
+        "France"
+    ],
+    [
+        "FR-24",
+        "Dordogne",
+        "France"
+    ],
+    [
+        "FR-25",
+        "Doubs",
+        "France"
+    ],
+    [
+        "FR-26",
+        "Drôme",
+        "France"
+    ],
+    [
+        "FR-91",
+        "Essonne",
+        "France"
+    ],
+    [
+        "FR-27",
+        "Eure",
+        "France"
+    ],
+    [
+        "FR-28",
+        "Eure-et-Loir",
+        "France"
+    ],
+    [
+        "FR-29",
+        "Finistere",
+        "France"
+    ],
+    [
+        "FR-30",
+        "Gard",
+        "France"
+    ],
+    [
+        "FR-32",
+        "Gers",
+        "France"
+    ],
+    [
+        "FR-33",
+        "Gironde",
+        "France"
+    ],
+    [
+        "FR-68",
+        "Haut-Rhin",
+        "France"
+    ],
+    [
+        "FR-2B",
+        "Haute-Corse",
+        "France"
+    ],
+    [
+        "FR-31",
+        "Haute-Garonne",
+        "France"
+    ],
+    [
+        "FR-43",
+        "Haute-Loire",
+        "France"
+    ],
+    [
+        "FR-52",
+        "Haute-Marne",
+        "France"
+    ],
+    [
+        "FR-74",
+        "Haute-Savoie",
+        "France"
+    ],
+    [
+        "FR-70",
+        "Haute-Saône",
+        "France"
+    ],
+    [
+        "FR-87",
+        "Haute-Vienne",
+        "France"
+    ],
+    [
+        "FR-05",
+        "Hautes-Alpes",
+        "France"
+    ],
+    [
+        "FR-65",
+        "Hautes-Pyrénées",
+        "France"
+    ],
+    [
+        "FR-92",
+        "Hauts-de-Seine",
+        "France"
+    ],
+    [
+        "FR-34",
+        "Hérault",
+        "France"
+    ],
+    [
+        "FR-35",
+        "Ille-et-Vilaine",
+        "France"
+    ],
+    [
+        "FR-36",
+        "Indre",
+        "France"
+    ],
+    [
+        "FR-37",
+        "Indre-et-Loire",
+        "France"
+    ],
+    [
+        "FR-38",
+        "Isere",
+        "France"
+    ],
+    [
+        "FR-39",
+        "Jura",
+        "France"
+    ],
+    [
+        "FR-40",
+        "Landes",
+        "France"
+    ],
+    [
+        "FR-41",
+        "Loir-et-Cher",
+        "France"
+    ],
+    [
+        "FR-42",
+        "Loire",
+        "France"
+    ],
+    [
+        "FR-44",
+        "Loire-Atlantique",
+        "France"
+    ],
+    [
+        "FR-45",
+        "Loiret",
+        "France"
+    ],
+    [
+        "FR-46",
+        "Lot",
+        "France"
+    ],
+    [
+        "FR-47",
+        "Lot-et-Garonne",
+        "France"
+    ],
+    [
+        "FR-48",
+        "Lozère",
+        "France"
+    ],
+    [
+        "FR-49",
+        "Maine-et-Loire",
+        "France"
+    ],
+    [
+        "FR-50",
+        "Manche",
+        "France"
+    ],
+    [
+        "FR-51",
+        "Marne",
+        "France"
+    ],
+    [
+        "FR-53",
+        "Mayenne",
+        "France"
+    ],
+    [
+        "FR-54",
+        "Meurthe-et-Moselle",
+        "France"
+    ],
+    [
+        "FR-55",
+        "Meuse",
+        "France"
+    ],
+    [
+        "FR-56",
+        "Morbihan",
+        "France"
+    ],
+    [
+        "FR-57",
+        "Moselle",
+        "France"
+    ],
+    [
+        "FR-58",
+        "Nievre",
+        "France"
+    ],
+    [
+        "FR-59",
+        "Nord",
+        "France"
+    ],
+    [
+        "FR-60",
+        "Oise",
+        "France"
+    ],
+    [
+        "FR-61",
+        "Orne",
+        "France"
+    ],
+    [
+        "FR-75",
+        "Paris",
+        "France"
+    ],
+    [
+        "FR-62",
+        "Pas-de-Calais",
+        "France"
+    ],
+    [
+        "FR-63",
+        "Puy-de-Dome",
+        "France"
+    ],
+    [
+        "FR-64",
+        "Pyrénées-Atlantiques",
+        "France"
+    ],
+    [
+        "FR-66",
+        "Pyrénées-Orientales",
+        "France"
+    ],
+    [
+        "FR-69",
+        "Rhône",
+        "France"
+    ],
+    [
+        "FR-72",
+        "Sarthe",
+        "France"
+    ],
+    [
+        "FR-73",
+        "Savoie",
+        "France"
+    ],
+    [
+        "FR-71",
+        "Saône-et-Loire",
+        "France"
+    ],
+    [
+        "FR-76",
+        "Seine-Maritime",
+        "France"
+    ],
+    [
+        "FR-93",
+        "Seine-Saint-Denis",
+        "France"
+    ],
+    [
+        "FR-77",
+        "Seine-et-Marne",
+        "France"
+    ],
+    [
+        "FR-80",
+        "Somme",
+        "France"
+    ],
+    [
+        "FR-81",
+        "Tarn",
+        "France"
+    ],
+    [
+        "FR-82",
+        "Tarn-et-Garonne",
+        "France"
+    ],
+    [
+        "FR-90",
+        "Territoire de Belfort",
+        "France"
+    ],
+    [
+        "FR-95",
+        "Val-d'Oise",
+        "France"
+    ],
+    [
+        "FR-94",
+        "Val-de-Marne",
+        "France"
+    ],
+    [
+        "FR-83",
+        "Var",
+        "France"
+    ],
+    [
+        "FR-84",
+        "Vaucluse",
+        "France"
+    ],
+    [
+        "FR-85",
+        "Vendee",
+        "France"
+    ],
+    [
+        "FR-86",
+        "Vienne",
+        "France"
+    ],
+    [
+        "FR-88",
+        "Vosges",
+        "France"
+    ],
+    [
+        "FR-89",
+        "Yonne",
+        "France"
+    ],
+    [
+        "FR-78",
+        "Yvelines",
+        "France"
+    ],
+    [
+        "FR",
+        "France",
+        ""
+    ],
+    [
         "GE",
-        "Georgia"
+        "Georgia",
+        ""
     ],
     [
         "DE-BW",
-        "Baden-Württemberg"
-    ],
-    [
-        "DE-BY",
-        "Bavaria"
-    ],
-    [
-        "DE-BE",
-        "Berlin"
-    ],
-    [
-        "DE-BB",
-        "Brandenburg"
-    ],
-    [
-        "DE-HB",
-        "Bremen"
-    ],
-    [
-        "DE-HH",
-        "Hamburg"
-    ],
-    [
-        "DE-HE",
-        "Hesse"
-    ],
-    [
-        "DE-NI",
-        "Lower Saxony"
-    ],
-    [
-        "DE-MV",
-        "Mecklenburg-Vorpommern"
-    ],
-    [
-        "DE-NW",
-        "North Rhine-Westphalia"
-    ],
-    [
-        "DE-RP",
-        "Rhineland-Palatinate"
-    ],
-    [
-        "DE-SL",
-        "Saarland"
-    ],
-    [
-        "DE-SN",
-        "Saxony"
-    ],
-    [
-        "DE-ST",
-        "Saxony-Anhalt"
-    ],
-    [
-        "DE-SH",
-        "Schleswig-Holstein"
-    ],
-    [
-        "DE-TH",
-        "Thuringia"
-    ],
-    [
-        "DE",
+        "Baden-Württemberg",
         "Germany"
     ],
     [
+        "DE-BY",
+        "Bavaria",
+        "Germany"
+    ],
+    [
+        "DE-BE",
+        "Berlin",
+        "Germany"
+    ],
+    [
+        "DE-BB",
+        "Brandenburg",
+        "Germany"
+    ],
+    [
+        "DE-HB",
+        "Bremen",
+        "Germany"
+    ],
+    [
+        "DE-HH",
+        "Hamburg",
+        "Germany"
+    ],
+    [
+        "DE-HE",
+        "Hesse",
+        "Germany"
+    ],
+    [
+        "DE-NI",
+        "Lower Saxony",
+        "Germany"
+    ],
+    [
+        "DE-MV",
+        "Mecklenburg-Vorpommern",
+        "Germany"
+    ],
+    [
+        "DE-NW",
+        "North Rhine-Westphalia",
+        "Germany"
+    ],
+    [
+        "DE-RP",
+        "Rhineland-Palatinate",
+        "Germany"
+    ],
+    [
+        "DE-SL",
+        "Saarland",
+        "Germany"
+    ],
+    [
+        "DE-SN",
+        "Saxony",
+        "Germany"
+    ],
+    [
+        "DE-ST",
+        "Saxony-Anhalt",
+        "Germany"
+    ],
+    [
+        "DE-SH",
+        "Schleswig-Holstein",
+        "Germany"
+    ],
+    [
+        "DE-TH",
+        "Thuringia",
+        "Germany"
+    ],
+    [
+        "DE",
+        "Germany",
+        ""
+    ],
+    [
         "GH",
-        "Ghana"
+        "Ghana",
+        ""
     ],
     [
         "GR",
-        "Greece"
+        "Greece",
+        ""
     ],
     [
         "GT",
-        "Guatemala"
+        "Guatemala",
+        ""
     ],
     [
         "HT",
-        "Haiti"
+        "Haiti",
+        ""
     ],
     [
         "HN",
-        "Honduras"
+        "Honduras",
+        ""
     ],
     [
         "HK",
-        "Hong Kong"
+        "Hong Kong",
+        ""
     ],
     [
         "HU",
-        "Hungary"
+        "Hungary",
+        ""
     ],
     [
         "IN-AN",
-        "Andaman and Nicobar Islands"
+        "Andaman and Nicobar Islands",
+        "India"
     ],
     [
         "IN-AP",
-        "Andhra Pradesh"
+        "Andhra Pradesh",
+        "India"
     ],
     [
         "IN-AR",
-        "Arunachal Pradesh"
+        "Arunachal Pradesh",
+        "India"
     ],
     [
         "IN-AS",
-        "Assam"
+        "Assam",
+        "India"
     ],
     [
         "IN-BR",
-        "Bihar"
+        "Bihar",
+        "India"
     ],
     [
         "IN-CH",
-        "Chandigarh"
+        "Chandigarh",
+        "India"
     ],
     [
         "IN-CT",
-        "Chhattisgarh"
+        "Chhattisgarh",
+        "India"
     ],
     [
         "IN-DN",
-        "Dadra and Nagar Haveli"
+        "Dadra and Nagar Haveli",
+        "India"
     ],
     [
         "IN-DD",
-        "Daman and Diu"
+        "Daman and Diu",
+        "India"
     ],
     [
         "IN-DL",
-        "Delhi"
+        "Delhi",
+        "India"
     ],
     [
         "IN-GA",
-        "Goa"
+        "Goa",
+        "India"
     ],
     [
         "IN-GJ",
-        "Gujarat"
+        "Gujarat",
+        "India"
     ],
     [
         "IN-HR",
-        "Haryana"
+        "Haryana",
+        "India"
     ],
     [
         "IN-HP",
-        "Himachal Pradesh"
+        "Himachal Pradesh",
+        "India"
     ],
     [
         "IN-JK",
-        "Jammu and Kashmir"
+        "Jammu and Kashmir",
+        "India"
     ],
     [
         "IN-JH",
-        "Jharkhand"
+        "Jharkhand",
+        "India"
     ],
     [
         "IN-KA",
-        "Karnataka"
+        "Karnataka",
+        "India"
     ],
     [
         "IN-KL",
-        "Kerala"
+        "Kerala",
+        "India"
     ],
     [
         "IN-LD",
-        "Lakshadweep"
+        "Lakshadweep",
+        "India"
     ],
     [
         "IN-MP",
-        "Madhya Pradesh"
+        "Madhya Pradesh",
+        "India"
     ],
     [
         "IN-MH",
-        "Maharashtra"
+        "Maharashtra",
+        "India"
     ],
     [
         "IN-MN",
-        "Manipur"
+        "Manipur",
+        "India"
     ],
     [
         "IN-ML",
-        "Meghalaya"
+        "Meghalaya",
+        "India"
     ],
     [
         "IN-MZ",
-        "Mizoram"
+        "Mizoram",
+        "India"
     ],
     [
         "IN-NL",
-        "Nagaland"
+        "Nagaland",
+        "India"
     ],
     [
         "IN-OR",
-        "Odisha"
+        "Odisha",
+        "India"
     ],
     [
         "IN-PY",
-        "Puducherry"
+        "Puducherry",
+        "India"
     ],
     [
         "IN-PB",
-        "Punjab"
+        "Punjab",
+        "India"
     ],
     [
         "IN-RJ",
-        "Rajasthan"
+        "Rajasthan",
+        "India"
     ],
     [
         "IN-SK",
-        "Sikkim"
+        "Sikkim",
+        "India"
     ],
     [
         "IN-TN",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "India"
     ],
     [
         "IN-TG",
-        "Telangana"
+        "Telangana",
+        "India"
     ],
     [
         "IN-TR",
-        "Tripura"
+        "Tripura",
+        "India"
     ],
     [
         "IN-UP",
-        "Uttar Pradesh"
+        "Uttar Pradesh",
+        "India"
     ],
     [
         "IN-UT",
-        "Uttarakhand"
+        "Uttarakhand",
+        "India"
     ],
     [
         "IN-WB",
-        "West Bengal"
+        "West Bengal",
+        "India"
     ],
     [
         "ID-AC",
-        "Aceh"
-    ],
-    [
-        "ID-BA",
-        "Bali"
-    ],
-    [
-        "ID-BB",
-        "Bangka Belitung Islands"
-    ],
-    [
-        "ID-BT",
-        "Banten"
-    ],
-    [
-        "ID-BE",
-        "Bengkulu"
-    ],
-    [
-        "ID-JT",
-        "Central Java"
-    ],
-    [
-        "ID-KT",
-        "Central Kalimantan"
-    ],
-    [
-        "ID-ST",
-        "Central Sulawesi"
-    ],
-    [
-        "ID-JI",
-        "East Java"
-    ],
-    [
-        "ID-KI",
-        "East Kalimantan"
-    ],
-    [
-        "ID-NT",
-        "East Nusa Tenggara"
-    ],
-    [
-        "ID-GO",
-        "Gorontalo"
-    ],
-    [
-        "ID-JA",
-        "Jambi"
-    ],
-    [
-        "ID-LA",
-        "Lampung"
-    ],
-    [
-        "ID-MA",
-        "Maluku"
-    ],
-    [
-        "ID-KU",
-        "North Kalimantan"
-    ],
-    [
-        "ID-MU",
-        "North Maluku"
-    ],
-    [
-        "ID-SA",
-        "North Sulawesi"
-    ],
-    [
-        "ID-SU",
-        "North Sumatra"
-    ],
-    [
-        "ID-PA",
-        "Papua"
-    ],
-    [
-        "ID-RI",
-        "Riau"
-    ],
-    [
-        "ID-KR",
-        "Riau Islands"
-    ],
-    [
-        "ID-SG",
-        "South East Sulawesi"
-    ],
-    [
-        "ID-KS",
-        "South Kalimantan"
-    ],
-    [
-        "ID-SN",
-        "South Sulawesi"
-    ],
-    [
-        "ID-SS",
-        "South Sumatra"
-    ],
-    [
-        "ID-JK",
-        "Special Capital Region of Jakarta"
-    ],
-    [
-        "ID-YO",
-        "Special Region of Yogyakarta"
-    ],
-    [
-        "ID-JB",
-        "West Java"
-    ],
-    [
-        "ID-KB",
-        "West Kalimantan"
-    ],
-    [
-        "ID-NB",
-        "West Nusa Tenggara"
-    ],
-    [
-        "ID-PB",
-        "West Papua"
-    ],
-    [
-        "ID-SR",
-        "West Sulawesi"
-    ],
-    [
-        "ID-SB",
-        "West Sumatra"
-    ],
-    [
-        "ID",
+        "Aceh",
         "Indonesia"
     ],
     [
+        "ID-BA",
+        "Bali",
+        "Indonesia"
+    ],
+    [
+        "ID-BB",
+        "Bangka Belitung Islands",
+        "Indonesia"
+    ],
+    [
+        "ID-BT",
+        "Banten",
+        "Indonesia"
+    ],
+    [
+        "ID-BE",
+        "Bengkulu",
+        "Indonesia"
+    ],
+    [
+        "ID-JT",
+        "Central Java",
+        "Indonesia"
+    ],
+    [
+        "ID-KT",
+        "Central Kalimantan",
+        "Indonesia"
+    ],
+    [
+        "ID-ST",
+        "Central Sulawesi",
+        "Indonesia"
+    ],
+    [
+        "ID-JI",
+        "East Java",
+        "Indonesia"
+    ],
+    [
+        "ID-KI",
+        "East Kalimantan",
+        "Indonesia"
+    ],
+    [
+        "ID-NT",
+        "East Nusa Tenggara",
+        "Indonesia"
+    ],
+    [
+        "ID-GO",
+        "Gorontalo",
+        "Indonesia"
+    ],
+    [
+        "ID-JA",
+        "Jambi",
+        "Indonesia"
+    ],
+    [
+        "ID-LA",
+        "Lampung",
+        "Indonesia"
+    ],
+    [
+        "ID-MA",
+        "Maluku",
+        "Indonesia"
+    ],
+    [
+        "ID-KU",
+        "North Kalimantan",
+        "Indonesia"
+    ],
+    [
+        "ID-MU",
+        "North Maluku",
+        "Indonesia"
+    ],
+    [
+        "ID-SA",
+        "North Sulawesi",
+        "Indonesia"
+    ],
+    [
+        "ID-SU",
+        "North Sumatra",
+        "Indonesia"
+    ],
+    [
+        "ID-PA",
+        "Papua",
+        "Indonesia"
+    ],
+    [
+        "ID-RI",
+        "Riau",
+        "Indonesia"
+    ],
+    [
+        "ID-KR",
+        "Riau Islands",
+        "Indonesia"
+    ],
+    [
+        "ID-SG",
+        "South East Sulawesi",
+        "Indonesia"
+    ],
+    [
+        "ID-KS",
+        "South Kalimantan",
+        "Indonesia"
+    ],
+    [
+        "ID-SN",
+        "South Sulawesi",
+        "Indonesia"
+    ],
+    [
+        "ID-SS",
+        "South Sumatra",
+        "Indonesia"
+    ],
+    [
+        "ID-JK",
+        "Special Capital Region of Jakarta",
+        "Indonesia"
+    ],
+    [
+        "ID-YO",
+        "Special Region of Yogyakarta",
+        "Indonesia"
+    ],
+    [
+        "ID-JB",
+        "West Java",
+        "Indonesia"
+    ],
+    [
+        "ID-KB",
+        "West Kalimantan",
+        "Indonesia"
+    ],
+    [
+        "ID-NB",
+        "West Nusa Tenggara",
+        "Indonesia"
+    ],
+    [
+        "ID-PB",
+        "West Papua",
+        "Indonesia"
+    ],
+    [
+        "ID-SR",
+        "West Sulawesi",
+        "Indonesia"
+    ],
+    [
+        "ID-SB",
+        "West Sumatra",
+        "Indonesia"
+    ],
+    [
+        "ID",
+        "Indonesia",
+        ""
+    ],
+    [
         "IR",
-        "Iran"
+        "Iran",
+        ""
     ],
     [
         "IQ",
-        "Iraq"
+        "Iraq",
+        ""
     ],
     [
         "IE",
-        "Ireland"
+        "Ireland",
+        ""
     ],
     [
         "IL-M",
-        "Center District"
-    ],
-    [
-        "IL-HA",
-        "Haifa District"
-    ],
-    [
-        "IL-JM",
-        "Jerusalem District"
-    ],
-    [
-        "IL-Z",
-        "North District"
-    ],
-    [
-        "IL-D",
-        "South District"
-    ],
-    [
-        "IL-TA",
-        "Tel Aviv District"
-    ],
-    [
-        "IL",
+        "Center District",
         "Israel"
     ],
     [
+        "IL-HA",
+        "Haifa District",
+        "Israel"
+    ],
+    [
+        "IL-JM",
+        "Jerusalem District",
+        "Israel"
+    ],
+    [
+        "IL-Z",
+        "North District",
+        "Israel"
+    ],
+    [
+        "IL-D",
+        "South District",
+        "Israel"
+    ],
+    [
+        "IL-TA",
+        "Tel Aviv District",
+        "Israel"
+    ],
+    [
+        "IL",
+        "Israel",
+        ""
+    ],
+    [
         "IT-65",
-        "Abruzzo"
-    ],
-    [
-        "IT-23",
-        "Aosta"
-    ],
-    [
-        "IT-75",
-        "Apulia"
-    ],
-    [
-        "IT-77",
-        "Basilicata"
-    ],
-    [
-        "IT-78",
-        "Calabria"
-    ],
-    [
-        "IT-72",
-        "Campania"
-    ],
-    [
-        "IT-45",
-        "Emilia-Romagna"
-    ],
-    [
-        "IT-36",
-        "Friuli-Venezia Giulia"
-    ],
-    [
-        "IT-62",
-        "Lazio"
-    ],
-    [
-        "IT-42",
-        "Liguria"
-    ],
-    [
-        "IT-25",
-        "Lombardy"
-    ],
-    [
-        "IT-57",
-        "Marche"
-    ],
-    [
-        "IT-67",
-        "Molise"
-    ],
-    [
-        "IT-21",
-        "Piedmont"
-    ],
-    [
-        "IT-88",
-        "Sardinia"
-    ],
-    [
-        "IT-82",
-        "Sicily"
-    ],
-    [
-        "IT-32",
-        "Trentino-Alto Adige/South Tyrol"
-    ],
-    [
-        "IT-52",
-        "Tuscany"
-    ],
-    [
-        "IT-55",
-        "Umbria"
-    ],
-    [
-        "IT-34",
-        "Veneto"
-    ],
-    [
-        "IT",
+        "Abruzzo",
         "Italy"
     ],
     [
+        "IT-23",
+        "Aosta",
+        "Italy"
+    ],
+    [
+        "IT-75",
+        "Apulia",
+        "Italy"
+    ],
+    [
+        "IT-77",
+        "Basilicata",
+        "Italy"
+    ],
+    [
+        "IT-78",
+        "Calabria",
+        "Italy"
+    ],
+    [
+        "IT-72",
+        "Campania",
+        "Italy"
+    ],
+    [
+        "IT-45",
+        "Emilia-Romagna",
+        "Italy"
+    ],
+    [
+        "IT-36",
+        "Friuli-Venezia Giulia",
+        "Italy"
+    ],
+    [
+        "IT-62",
+        "Lazio",
+        "Italy"
+    ],
+    [
+        "IT-42",
+        "Liguria",
+        "Italy"
+    ],
+    [
+        "IT-25",
+        "Lombardy",
+        "Italy"
+    ],
+    [
+        "IT-57",
+        "Marche",
+        "Italy"
+    ],
+    [
+        "IT-67",
+        "Molise",
+        "Italy"
+    ],
+    [
+        "IT-21",
+        "Piedmont",
+        "Italy"
+    ],
+    [
+        "IT-88",
+        "Sardinia",
+        "Italy"
+    ],
+    [
+        "IT-82",
+        "Sicily",
+        "Italy"
+    ],
+    [
+        "IT-32",
+        "Trentino-Alto Adige/South Tyrol",
+        "Italy"
+    ],
+    [
+        "IT-52",
+        "Tuscany",
+        "Italy"
+    ],
+    [
+        "IT-55",
+        "Umbria",
+        "Italy"
+    ],
+    [
+        "IT-34",
+        "Veneto",
+        "Italy"
+    ],
+    [
+        "IT",
+        "Italy",
+        ""
+    ],
+    [
         "JM",
-        "Jamaica"
+        "Jamaica",
+        ""
     ],
     [
         "JP-23",
-        "Aichi Prefecture"
-    ],
-    [
-        "JP-05",
-        "Akita Prefecture"
-    ],
-    [
-        "JP-02",
-        "Aomori Prefecture"
-    ],
-    [
-        "JP-12",
-        "Chiba Prefecture"
-    ],
-    [
-        "JP-38",
-        "Ehime Prefecture"
-    ],
-    [
-        "JP-18",
-        "Fukui Prefecture"
-    ],
-    [
-        "JP-40",
-        "Fukuoka Prefecture"
-    ],
-    [
-        "JP-07",
-        "Fukushima Prefecture"
-    ],
-    [
-        "JP-21",
-        "Gifu Prefecture"
-    ],
-    [
-        "JP-10",
-        "Gunma Prefecture"
-    ],
-    [
-        "JP-34",
-        "Hiroshima Prefecture"
-    ],
-    [
-        "JP-01",
-        "Hokkaido Prefecture"
-    ],
-    [
-        "JP-28",
-        "Hyogo Prefecture"
-    ],
-    [
-        "JP-08",
-        "Ibaraki Prefecture"
-    ],
-    [
-        "JP-17",
-        "Ishikawa Prefecture"
-    ],
-    [
-        "JP-03",
-        "Iwate Prefecture"
-    ],
-    [
-        "JP-37",
-        "Kagawa Prefecture"
-    ],
-    [
-        "JP-46",
-        "Kagoshima Prefecture"
-    ],
-    [
-        "JP-14",
-        "Kanagawa Prefecture"
-    ],
-    [
-        "JP-39",
-        "Kochi Prefecture"
-    ],
-    [
-        "JP-43",
-        "Kumamoto Prefecture"
-    ],
-    [
-        "JP-26",
-        "Kyoto Prefecture"
-    ],
-    [
-        "JP-24",
-        "Mie Prefecture"
-    ],
-    [
-        "JP-04",
-        "Miyagi Prefecture"
-    ],
-    [
-        "JP-45",
-        "Miyazaki Prefecture"
-    ],
-    [
-        "JP-20",
-        "Nagano Prefecture"
-    ],
-    [
-        "JP-42",
-        "Nagasaki Prefecture"
-    ],
-    [
-        "JP-29",
-        "Nara Prefecture"
-    ],
-    [
-        "JP-15",
-        "Niigata Prefecture"
-    ],
-    [
-        "JP-44",
-        "Oita Prefecture"
-    ],
-    [
-        "JP-33",
-        "Okayama Prefecture"
-    ],
-    [
-        "JP-47",
-        "Okinawa Prefecture"
-    ],
-    [
-        "JP-27",
-        "Osaka Prefecture"
-    ],
-    [
-        "JP-41",
-        "Saga Prefecture"
-    ],
-    [
-        "JP-11",
-        "Saitama Prefecture"
-    ],
-    [
-        "JP-25",
-        "Shiga Prefecture"
-    ],
-    [
-        "JP-32",
-        "Shimane Prefecture"
-    ],
-    [
-        "JP-22",
-        "Shizuoka Prefecture"
-    ],
-    [
-        "JP-09",
-        "Tochigi Prefecture"
-    ],
-    [
-        "JP-36",
-        "Tokushima Prefecture"
-    ],
-    [
-        "JP-13",
-        "Tokyo"
-    ],
-    [
-        "JP-31",
-        "Tottori Prefecture"
-    ],
-    [
-        "JP-16",
-        "Toyama Prefecture"
-    ],
-    [
-        "JP-30",
-        "Wakayama Prefecture"
-    ],
-    [
-        "JP-06",
-        "Yamagata Prefecture"
-    ],
-    [
-        "JP-35",
-        "Yamaguchi Prefecture"
-    ],
-    [
-        "JP-19",
-        "Yamanashi Prefecture"
-    ],
-    [
-        "JP",
+        "Aichi Prefecture",
         "Japan"
     ],
     [
+        "JP-05",
+        "Akita Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-02",
+        "Aomori Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-12",
+        "Chiba Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-38",
+        "Ehime Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-18",
+        "Fukui Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-40",
+        "Fukuoka Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-07",
+        "Fukushima Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-21",
+        "Gifu Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-10",
+        "Gunma Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-34",
+        "Hiroshima Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-01",
+        "Hokkaido Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-28",
+        "Hyogo Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-08",
+        "Ibaraki Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-17",
+        "Ishikawa Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-03",
+        "Iwate Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-37",
+        "Kagawa Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-46",
+        "Kagoshima Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-14",
+        "Kanagawa Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-39",
+        "Kochi Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-43",
+        "Kumamoto Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-26",
+        "Kyoto Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-24",
+        "Mie Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-04",
+        "Miyagi Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-45",
+        "Miyazaki Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-20",
+        "Nagano Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-42",
+        "Nagasaki Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-29",
+        "Nara Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-15",
+        "Niigata Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-44",
+        "Oita Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-33",
+        "Okayama Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-47",
+        "Okinawa Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-27",
+        "Osaka Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-41",
+        "Saga Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-11",
+        "Saitama Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-25",
+        "Shiga Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-32",
+        "Shimane Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-22",
+        "Shizuoka Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-09",
+        "Tochigi Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-36",
+        "Tokushima Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-13",
+        "Tokyo",
+        "Japan"
+    ],
+    [
+        "JP-31",
+        "Tottori Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-16",
+        "Toyama Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-30",
+        "Wakayama Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-06",
+        "Yamagata Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-35",
+        "Yamaguchi Prefecture",
+        "Japan"
+    ],
+    [
+        "JP-19",
+        "Yamanashi Prefecture",
+        "Japan"
+    ],
+    [
+        "JP",
+        "Japan",
+        ""
+    ],
+    [
         "JO",
-        "Jordan"
+        "Jordan",
+        ""
     ],
     [
         "KZ",
-        "Kazakhstan"
+        "Kazakhstan",
+        ""
     ],
     [
         "KE",
-        "Kenya"
+        "Kenya",
+        ""
     ],
     [
         "KW",
-        "Kuwait"
+        "Kuwait",
+        ""
     ],
     [
         "KG",
-        "Kyrgyzstan"
+        "Kyrgyzstan",
+        ""
     ],
     [
         "LV",
-        "Latvia"
+        "Latvia",
+        ""
     ],
     [
         "LB",
-        "Lebanon"
+        "Lebanon",
+        ""
     ],
     [
         "LY",
-        "Libya"
+        "Libya",
+        ""
     ],
     [
         "LT",
-        "Lithuania"
+        "Lithuania",
+        ""
     ],
     [
         "MY-14",
-        "Federal Territory of Kuala Lumpur"
-    ],
-    [
-        "MY-01",
-        "Johor"
-    ],
-    [
-        "MY-02",
-        "Kedah"
-    ],
-    [
-        "MY-03",
-        "Kelantan"
-    ],
-    [
-        "MY-15",
-        "Labuan Federal Territory"
-    ],
-    [
-        "MY-04",
-        "Malacca"
-    ],
-    [
-        "MY-05",
-        "Negeri Sembilan"
-    ],
-    [
-        "MY-06",
-        "Pahang"
-    ],
-    [
-        "MY-07",
-        "Penang"
-    ],
-    [
-        "MY-08",
-        "Perak"
-    ],
-    [
-        "MY-09",
-        "Perlis"
-    ],
-    [
-        "MY-16",
-        "Putrajaya"
-    ],
-    [
-        "MY-12",
-        "Sabah"
-    ],
-    [
-        "MY-13",
-        "Sarawak"
-    ],
-    [
-        "MY-10",
-        "Selangor"
-    ],
-    [
-        "MY-11",
-        "Terengganu"
-    ],
-    [
-        "MY",
+        "Federal Territory of Kuala Lumpur",
         "Malaysia"
     ],
     [
+        "MY-01",
+        "Johor",
+        "Malaysia"
+    ],
+    [
+        "MY-02",
+        "Kedah",
+        "Malaysia"
+    ],
+    [
+        "MY-03",
+        "Kelantan",
+        "Malaysia"
+    ],
+    [
+        "MY-15",
+        "Labuan Federal Territory",
+        "Malaysia"
+    ],
+    [
+        "MY-04",
+        "Malacca",
+        "Malaysia"
+    ],
+    [
+        "MY-05",
+        "Negeri Sembilan",
+        "Malaysia"
+    ],
+    [
+        "MY-06",
+        "Pahang",
+        "Malaysia"
+    ],
+    [
+        "MY-07",
+        "Penang",
+        "Malaysia"
+    ],
+    [
+        "MY-08",
+        "Perak",
+        "Malaysia"
+    ],
+    [
+        "MY-09",
+        "Perlis",
+        "Malaysia"
+    ],
+    [
+        "MY-16",
+        "Putrajaya",
+        "Malaysia"
+    ],
+    [
+        "MY-12",
+        "Sabah",
+        "Malaysia"
+    ],
+    [
+        "MY-13",
+        "Sarawak",
+        "Malaysia"
+    ],
+    [
+        "MY-10",
+        "Selangor",
+        "Malaysia"
+    ],
+    [
+        "MY-11",
+        "Terengganu",
+        "Malaysia"
+    ],
+    [
+        "MY",
+        "Malaysia",
+        ""
+    ],
+    [
         "ML",
-        "Mali"
+        "Mali",
+        ""
     ],
     [
         "MX-AGU",
-        "Aguascalientes"
-    ],
-    [
-        "MX-BCN",
-        "Baja California"
-    ],
-    [
-        "MX-BCS",
-        "Baja California Sur"
-    ],
-    [
-        "MX-CAM",
-        "Campeche"
-    ],
-    [
-        "MX-CHP",
-        "Chiapas"
-    ],
-    [
-        "MX-CHH",
-        "Chihuahua"
-    ],
-    [
-        "MX-COA",
-        "Coahuila"
-    ],
-    [
-        "MX-COL",
-        "Colima"
-    ],
-    [
-        "MX-DUR",
-        "Durango"
-    ],
-    [
-        "MX-GUA",
-        "Guanajuato"
-    ],
-    [
-        "MX-GRO",
-        "Guerrero"
-    ],
-    [
-        "MX-HID",
-        "Hidalgo"
-    ],
-    [
-        "MX-JAL",
-        "Jalisco"
-    ],
-    [
-        "MX-DIF",
-        "Mexico City"
-    ],
-    [
-        "MX-MIC",
-        "Michoacán"
-    ],
-    [
-        "MX-MOR",
-        "Morelos"
-    ],
-    [
-        "MX-NAY",
-        "Nayarit"
-    ],
-    [
-        "MX-NLE",
-        "Nuevo Leon"
-    ],
-    [
-        "MX-OAX",
-        "Oaxaca"
-    ],
-    [
-        "MX-PUE",
-        "Puebla"
-    ],
-    [
-        "MX-QUE",
-        "Querétaro"
-    ],
-    [
-        "MX-ROO",
-        "Quintana Roo"
-    ],
-    [
-        "MX-SLP",
-        "San Luis Potosi"
-    ],
-    [
-        "MX-SIN",
-        "Sinaloa"
-    ],
-    [
-        "MX-SON",
-        "Sonora"
-    ],
-    [
-        "MX-MEX",
-        "State of Mexico"
-    ],
-    [
-        "MX-TAB",
-        "Tabasco"
-    ],
-    [
-        "MX-TAM",
-        "Tamaulipas"
-    ],
-    [
-        "MX-TLA",
-        "Tlaxcala"
-    ],
-    [
-        "MX-VER",
-        "Veracruz"
-    ],
-    [
-        "MX-YUC",
-        "Yucatan"
-    ],
-    [
-        "MX-ZAC",
-        "Zacatecas"
-    ],
-    [
-        "MX",
+        "Aguascalientes",
         "Mexico"
     ],
     [
+        "MX-BCN",
+        "Baja California",
+        "Mexico"
+    ],
+    [
+        "MX-BCS",
+        "Baja California Sur",
+        "Mexico"
+    ],
+    [
+        "MX-CAM",
+        "Campeche",
+        "Mexico"
+    ],
+    [
+        "MX-CHP",
+        "Chiapas",
+        "Mexico"
+    ],
+    [
+        "MX-CHH",
+        "Chihuahua",
+        "Mexico"
+    ],
+    [
+        "MX-COA",
+        "Coahuila",
+        "Mexico"
+    ],
+    [
+        "MX-COL",
+        "Colima",
+        "Mexico"
+    ],
+    [
+        "MX-DUR",
+        "Durango",
+        "Mexico"
+    ],
+    [
+        "MX-GUA",
+        "Guanajuato",
+        "Mexico"
+    ],
+    [
+        "MX-GRO",
+        "Guerrero",
+        "Mexico"
+    ],
+    [
+        "MX-HID",
+        "Hidalgo",
+        "Mexico"
+    ],
+    [
+        "MX-JAL",
+        "Jalisco",
+        "Mexico"
+    ],
+    [
+        "MX-DIF",
+        "Mexico City",
+        "Mexico"
+    ],
+    [
+        "MX-MIC",
+        "Michoacán",
+        "Mexico"
+    ],
+    [
+        "MX-MOR",
+        "Morelos",
+        "Mexico"
+    ],
+    [
+        "MX-NAY",
+        "Nayarit",
+        "Mexico"
+    ],
+    [
+        "MX-NLE",
+        "Nuevo Leon",
+        "Mexico"
+    ],
+    [
+        "MX-OAX",
+        "Oaxaca",
+        "Mexico"
+    ],
+    [
+        "MX-PUE",
+        "Puebla",
+        "Mexico"
+    ],
+    [
+        "MX-QUE",
+        "Querétaro",
+        "Mexico"
+    ],
+    [
+        "MX-ROO",
+        "Quintana Roo",
+        "Mexico"
+    ],
+    [
+        "MX-SLP",
+        "San Luis Potosi",
+        "Mexico"
+    ],
+    [
+        "MX-SIN",
+        "Sinaloa",
+        "Mexico"
+    ],
+    [
+        "MX-SON",
+        "Sonora",
+        "Mexico"
+    ],
+    [
+        "MX-MEX",
+        "State of Mexico",
+        "Mexico"
+    ],
+    [
+        "MX-TAB",
+        "Tabasco",
+        "Mexico"
+    ],
+    [
+        "MX-TAM",
+        "Tamaulipas",
+        "Mexico"
+    ],
+    [
+        "MX-TLA",
+        "Tlaxcala",
+        "Mexico"
+    ],
+    [
+        "MX-VER",
+        "Veracruz",
+        "Mexico"
+    ],
+    [
+        "MX-YUC",
+        "Yucatan",
+        "Mexico"
+    ],
+    [
+        "MX-ZAC",
+        "Zacatecas",
+        "Mexico"
+    ],
+    [
+        "MX",
+        "Mexico",
+        ""
+    ],
+    [
         "MD",
-        "Moldova"
+        "Moldova",
+        ""
     ],
     [
         "MA",
-        "Morocco"
+        "Morocco",
+        ""
     ],
     [
         "MZ",
-        "Mozambique"
+        "Mozambique",
+        ""
     ],
     [
         "MM",
-        "Myanmar (Burma)"
+        "Myanmar (Burma)",
+        ""
     ],
     [
         "NP",
-        "Nepal"
+        "Nepal",
+        ""
     ],
     [
         "NL-DR",
-        "Drenthe"
-    ],
-    [
-        "NL-FL",
-        "Flevoland"
-    ],
-    [
-        "NL-FR",
-        "Friesland"
-    ],
-    [
-        "NL-GE",
-        "Gelderland"
-    ],
-    [
-        "NL-GR",
-        "Groningen"
-    ],
-    [
-        "NL-LI",
-        "Limburg"
-    ],
-    [
-        "NL-NB",
-        "North Brabant"
-    ],
-    [
-        "NL-NH",
-        "North Holland"
-    ],
-    [
-        "NL-OV",
-        "Overijssel"
-    ],
-    [
-        "NL-ZH",
-        "South Holland"
-    ],
-    [
-        "NL-UT",
-        "Utrecht"
-    ],
-    [
-        "NL-ZE",
-        "Zeeland"
-    ],
-    [
-        "NL",
+        "Drenthe",
         "Netherlands"
     ],
     [
+        "NL-FL",
+        "Flevoland",
+        "Netherlands"
+    ],
+    [
+        "NL-FR",
+        "Friesland",
+        "Netherlands"
+    ],
+    [
+        "NL-GE",
+        "Gelderland",
+        "Netherlands"
+    ],
+    [
+        "NL-GR",
+        "Groningen",
+        "Netherlands"
+    ],
+    [
+        "NL-LI",
+        "Limburg",
+        "Netherlands"
+    ],
+    [
+        "NL-NB",
+        "North Brabant",
+        "Netherlands"
+    ],
+    [
+        "NL-NH",
+        "North Holland",
+        "Netherlands"
+    ],
+    [
+        "NL-OV",
+        "Overijssel",
+        "Netherlands"
+    ],
+    [
+        "NL-ZH",
+        "South Holland",
+        "Netherlands"
+    ],
+    [
+        "NL-UT",
+        "Utrecht",
+        "Netherlands"
+    ],
+    [
+        "NL-ZE",
+        "Zeeland",
+        "Netherlands"
+    ],
+    [
+        "NL",
+        "Netherlands",
+        ""
+    ],
+    [
         "NZ-AUK",
-        "Auckland"
-    ],
-    [
-        "NZ-BOP",
-        "Bay Of Plenty"
-    ],
-    [
-        "NZ-CAN",
-        "Canterbury"
-    ],
-    [
-        "NZ-GIS",
-        "Gisborne"
-    ],
-    [
-        "NZ-HKB",
-        "Hawke's Bay"
-    ],
-    [
-        "NZ-MWT",
-        "Manawatu-Wanganui"
-    ],
-    [
-        "NZ-MBH",
-        "Marlborough"
-    ],
-    [
-        "NZ-NSN",
-        "Nelson"
-    ],
-    [
-        "NZ-NTL",
-        "Northland"
-    ],
-    [
-        "NZ-OTA",
-        "Otago"
-    ],
-    [
-        "NZ-STL",
-        "Southland"
-    ],
-    [
-        "NZ-TKI",
-        "Taranaki"
-    ],
-    [
-        "NZ-TAS",
-        "Tasman"
-    ],
-    [
-        "NZ-WKO",
-        "Waikato"
-    ],
-    [
-        "NZ-WGN",
-        "Wellington"
-    ],
-    [
-        "NZ-WTC",
-        "West Coast"
-    ],
-    [
-        "NZ",
+        "Auckland",
         "New Zealand"
     ],
     [
+        "NZ-BOP",
+        "Bay Of Plenty",
+        "New Zealand"
+    ],
+    [
+        "NZ-CAN",
+        "Canterbury",
+        "New Zealand"
+    ],
+    [
+        "NZ-GIS",
+        "Gisborne",
+        "New Zealand"
+    ],
+    [
+        "NZ-HKB",
+        "Hawke's Bay",
+        "New Zealand"
+    ],
+    [
+        "NZ-MWT",
+        "Manawatu-Wanganui",
+        "New Zealand"
+    ],
+    [
+        "NZ-MBH",
+        "Marlborough",
+        "New Zealand"
+    ],
+    [
+        "NZ-NSN",
+        "Nelson",
+        "New Zealand"
+    ],
+    [
+        "NZ-NTL",
+        "Northland",
+        "New Zealand"
+    ],
+    [
+        "NZ-OTA",
+        "Otago",
+        "New Zealand"
+    ],
+    [
+        "NZ-STL",
+        "Southland",
+        "New Zealand"
+    ],
+    [
+        "NZ-TKI",
+        "Taranaki",
+        "New Zealand"
+    ],
+    [
+        "NZ-TAS",
+        "Tasman",
+        "New Zealand"
+    ],
+    [
+        "NZ-WKO",
+        "Waikato",
+        "New Zealand"
+    ],
+    [
+        "NZ-WGN",
+        "Wellington",
+        "New Zealand"
+    ],
+    [
+        "NZ-WTC",
+        "West Coast",
+        "New Zealand"
+    ],
+    [
+        "NZ",
+        "New Zealand",
+        ""
+    ],
+    [
         "NI",
-        "Nicaragua"
+        "Nicaragua",
+        ""
     ],
     [
         "NG-AB",
-        "Abia"
-    ],
-    [
-        "NG-AD",
-        "Adamawa"
-    ],
-    [
-        "NG-AK",
-        "Akwa Ibom"
-    ],
-    [
-        "NG-AN",
-        "Anambra"
-    ],
-    [
-        "NG-BA",
-        "Bauchi"
-    ],
-    [
-        "NG-BY",
-        "Bayelsa"
-    ],
-    [
-        "NG-BE",
-        "Benue"
-    ],
-    [
-        "NG-BO",
-        "Borno"
-    ],
-    [
-        "NG-CR",
-        "Cross River"
-    ],
-    [
-        "NG-DE",
-        "Delta"
-    ],
-    [
-        "NG-EB",
-        "Ebonyi"
-    ],
-    [
-        "NG-ED",
-        "Edo"
-    ],
-    [
-        "NG-EK",
-        "Ekiti"
-    ],
-    [
-        "NG-EN",
-        "Enugu"
-    ],
-    [
-        "NG-FC",
-        "Federal Capital Territory"
-    ],
-    [
-        "NG-GO",
-        "Gombe"
-    ],
-    [
-        "NG-IM",
-        "Imo"
-    ],
-    [
-        "NG-JI",
-        "Jigawa"
-    ],
-    [
-        "NG-KD",
-        "Kaduna"
-    ],
-    [
-        "NG-KN",
-        "Kano"
-    ],
-    [
-        "NG-KT",
-        "Katsina"
-    ],
-    [
-        "NG-KE",
-        "Kebbi"
-    ],
-    [
-        "NG-KO",
-        "Kogi"
-    ],
-    [
-        "NG-KW",
-        "Kwara"
-    ],
-    [
-        "NG-LA",
-        "Lagos"
-    ],
-    [
-        "NG-NA",
-        "Nasarawa"
-    ],
-    [
-        "NG-NI",
-        "Niger"
-    ],
-    [
-        "NG-OG",
-        "Ogun State"
-    ],
-    [
-        "NG-ON",
-        "Ondo"
-    ],
-    [
-        "NG-OS",
-        "Osun"
-    ],
-    [
-        "NG-OY",
-        "Oyo"
-    ],
-    [
-        "NG-PL",
-        "Plateau"
-    ],
-    [
-        "NG-RI",
-        "Rivers"
-    ],
-    [
-        "NG-SO",
-        "Sokoto"
-    ],
-    [
-        "NG-TA",
-        "Taraba"
-    ],
-    [
-        "NG-YO",
-        "Yobe"
-    ],
-    [
-        "NG-ZA",
-        "Zamfara"
-    ],
-    [
-        "NG",
+        "Abia",
         "Nigeria"
     ],
     [
+        "NG-AD",
+        "Adamawa",
+        "Nigeria"
+    ],
+    [
+        "NG-AK",
+        "Akwa Ibom",
+        "Nigeria"
+    ],
+    [
+        "NG-AN",
+        "Anambra",
+        "Nigeria"
+    ],
+    [
+        "NG-BA",
+        "Bauchi",
+        "Nigeria"
+    ],
+    [
+        "NG-BY",
+        "Bayelsa",
+        "Nigeria"
+    ],
+    [
+        "NG-BE",
+        "Benue",
+        "Nigeria"
+    ],
+    [
+        "NG-BO",
+        "Borno",
+        "Nigeria"
+    ],
+    [
+        "NG-CR",
+        "Cross River",
+        "Nigeria"
+    ],
+    [
+        "NG-DE",
+        "Delta",
+        "Nigeria"
+    ],
+    [
+        "NG-EB",
+        "Ebonyi",
+        "Nigeria"
+    ],
+    [
+        "NG-ED",
+        "Edo",
+        "Nigeria"
+    ],
+    [
+        "NG-EK",
+        "Ekiti",
+        "Nigeria"
+    ],
+    [
+        "NG-EN",
+        "Enugu",
+        "Nigeria"
+    ],
+    [
+        "NG-FC",
+        "Federal Capital Territory",
+        "Nigeria"
+    ],
+    [
+        "NG-GO",
+        "Gombe",
+        "Nigeria"
+    ],
+    [
+        "NG-IM",
+        "Imo",
+        "Nigeria"
+    ],
+    [
+        "NG-JI",
+        "Jigawa",
+        "Nigeria"
+    ],
+    [
+        "NG-KD",
+        "Kaduna",
+        "Nigeria"
+    ],
+    [
+        "NG-KN",
+        "Kano",
+        "Nigeria"
+    ],
+    [
+        "NG-KT",
+        "Katsina",
+        "Nigeria"
+    ],
+    [
+        "NG-KE",
+        "Kebbi",
+        "Nigeria"
+    ],
+    [
+        "NG-KO",
+        "Kogi",
+        "Nigeria"
+    ],
+    [
+        "NG-KW",
+        "Kwara",
+        "Nigeria"
+    ],
+    [
+        "NG-LA",
+        "Lagos",
+        "Nigeria"
+    ],
+    [
+        "NG-NA",
+        "Nasarawa",
+        "Nigeria"
+    ],
+    [
+        "NG-NI",
+        "Niger",
+        "Nigeria"
+    ],
+    [
+        "NG-OG",
+        "Ogun State",
+        "Nigeria"
+    ],
+    [
+        "NG-ON",
+        "Ondo",
+        "Nigeria"
+    ],
+    [
+        "NG-OS",
+        "Osun",
+        "Nigeria"
+    ],
+    [
+        "NG-OY",
+        "Oyo",
+        "Nigeria"
+    ],
+    [
+        "NG-PL",
+        "Plateau",
+        "Nigeria"
+    ],
+    [
+        "NG-RI",
+        "Rivers",
+        "Nigeria"
+    ],
+    [
+        "NG-SO",
+        "Sokoto",
+        "Nigeria"
+    ],
+    [
+        "NG-TA",
+        "Taraba",
+        "Nigeria"
+    ],
+    [
+        "NG-YO",
+        "Yobe",
+        "Nigeria"
+    ],
+    [
+        "NG-ZA",
+        "Zamfara",
+        "Nigeria"
+    ],
+    [
+        "NG",
+        "Nigeria",
+        ""
+    ],
+    [
         "MK",
-        "North Macedonia"
+        "North Macedonia",
+        ""
     ],
     [
         "NO",
-        "Norway"
+        "Norway",
+        ""
     ],
     [
         "OM",
-        "Oman"
+        "Oman",
+        ""
     ],
     [
         "PK-JK",
-        "Azad Jammu and Kashmir"
-    ],
-    [
-        "PK-BA",
-        "Balochistan"
-    ],
-    [
-        "PK-TA",
-        "Federally Administered Tribal Areas"
-    ],
-    [
-        "PK-GB",
-        "Gilgit-Baltistan"
-    ],
-    [
-        "PK-IS",
-        "Islamabad Capital Territory"
-    ],
-    [
-        "PK-KP",
-        "Khyber Pakhtunkhwa"
-    ],
-    [
-        "PK-PB",
-        "Punjab"
-    ],
-    [
-        "PK-SD",
-        "Sindh"
-    ],
-    [
-        "PK",
+        "Azad Jammu and Kashmir",
         "Pakistan"
     ],
     [
+        "PK-BA",
+        "Balochistan",
+        "Pakistan"
+    ],
+    [
+        "PK-TA",
+        "Federally Administered Tribal Areas",
+        "Pakistan"
+    ],
+    [
+        "PK-GB",
+        "Gilgit-Baltistan",
+        "Pakistan"
+    ],
+    [
+        "PK-IS",
+        "Islamabad Capital Territory",
+        "Pakistan"
+    ],
+    [
+        "PK-KP",
+        "Khyber Pakhtunkhwa",
+        "Pakistan"
+    ],
+    [
+        "PK-PB",
+        "Punjab",
+        "Pakistan"
+    ],
+    [
+        "PK-SD",
+        "Sindh",
+        "Pakistan"
+    ],
+    [
+        "PK",
+        "Pakistan",
+        ""
+    ],
+    [
         "PS",
-        "Palestine"
+        "Palestine",
+        ""
     ],
     [
         "PA",
-        "Panama"
+        "Panama",
+        ""
     ],
     [
         "PY",
-        "Paraguay"
+        "Paraguay",
+        ""
     ],
     [
         "PE-AMA",
-        "Amazonas"
-    ],
-    [
-        "PE-ANC",
-        "Ancash"
-    ],
-    [
-        "PE-APU",
-        "Apurimac"
-    ],
-    [
-        "PE-ARE",
-        "Arequipa"
-    ],
-    [
-        "PE-AYA",
-        "Ayacucho"
-    ],
-    [
-        "PE-CAJ",
-        "Cajamarca"
-    ],
-    [
-        "PE-CAL",
-        "Callao"
-    ],
-    [
-        "PE-CUS",
-        "Cusco"
-    ],
-    [
-        "PE-HUV",
-        "Huancavelica"
-    ],
-    [
-        "PE-HUC",
-        "Huanuco"
-    ],
-    [
-        "PE-ICA",
-        "Ica"
-    ],
-    [
-        "PE-JUN",
-        "Junin"
-    ],
-    [
-        "PE-LAL",
-        "La Libertad"
-    ],
-    [
-        "PE-LAM",
-        "Lambayeque"
-    ],
-    [
-        "PE-LIM",
-        "Lima Region"
-    ],
-    [
-        "PE-LOR",
-        "Loreto"
-    ],
-    [
-        "PE-MDD",
-        "Madre de Dios"
-    ],
-    [
-        "PE-MOQ",
-        "Moquegua"
-    ],
-    [
-        "PE-PAS",
-        "Pasco"
-    ],
-    [
-        "PE-PIU",
-        "Piura"
-    ],
-    [
-        "PE-PUN",
-        "Puno"
-    ],
-    [
-        "PE-SAM",
-        "San Martin"
-    ],
-    [
-        "PE-TAC",
-        "Tacna"
-    ],
-    [
-        "PE-TUM",
-        "Tumbes"
-    ],
-    [
-        "PE-UCA",
-        "Ucayali"
-    ],
-    [
-        "PE",
+        "Amazonas",
         "Peru"
     ],
     [
+        "PE-ANC",
+        "Ancash",
+        "Peru"
+    ],
+    [
+        "PE-APU",
+        "Apurimac",
+        "Peru"
+    ],
+    [
+        "PE-ARE",
+        "Arequipa",
+        "Peru"
+    ],
+    [
+        "PE-AYA",
+        "Ayacucho",
+        "Peru"
+    ],
+    [
+        "PE-CAJ",
+        "Cajamarca",
+        "Peru"
+    ],
+    [
+        "PE-CAL",
+        "Callao",
+        "Peru"
+    ],
+    [
+        "PE-CUS",
+        "Cusco",
+        "Peru"
+    ],
+    [
+        "PE-HUV",
+        "Huancavelica",
+        "Peru"
+    ],
+    [
+        "PE-HUC",
+        "Huanuco",
+        "Peru"
+    ],
+    [
+        "PE-ICA",
+        "Ica",
+        "Peru"
+    ],
+    [
+        "PE-JUN",
+        "Junin",
+        "Peru"
+    ],
+    [
+        "PE-LAL",
+        "La Libertad",
+        "Peru"
+    ],
+    [
+        "PE-LAM",
+        "Lambayeque",
+        "Peru"
+    ],
+    [
+        "PE-LIM",
+        "Lima Region",
+        "Peru"
+    ],
+    [
+        "PE-LOR",
+        "Loreto",
+        "Peru"
+    ],
+    [
+        "PE-MDD",
+        "Madre de Dios",
+        "Peru"
+    ],
+    [
+        "PE-MOQ",
+        "Moquegua",
+        "Peru"
+    ],
+    [
+        "PE-PAS",
+        "Pasco",
+        "Peru"
+    ],
+    [
+        "PE-PIU",
+        "Piura",
+        "Peru"
+    ],
+    [
+        "PE-PUN",
+        "Puno",
+        "Peru"
+    ],
+    [
+        "PE-SAM",
+        "San Martin",
+        "Peru"
+    ],
+    [
+        "PE-TAC",
+        "Tacna",
+        "Peru"
+    ],
+    [
+        "PE-TUM",
+        "Tumbes",
+        "Peru"
+    ],
+    [
+        "PE-UCA",
+        "Ucayali",
+        "Peru"
+    ],
+    [
+        "PE",
+        "Peru",
+        ""
+    ],
+    [
         "PH-14",
-        "Autonomous Region in Muslim Mindanao"
-    ],
-    [
-        "PH-05",
-        "Bicol"
-    ],
-    [
-        "PH-02",
-        "Cagayan Valley"
-    ],
-    [
-        "PH-40",
-        "Calabarzon"
-    ],
-    [
-        "PH-13",
-        "Caraga"
-    ],
-    [
-        "PH-03",
-        "Central Luzon"
-    ],
-    [
-        "PH-07",
-        "Central Visayas"
-    ],
-    [
-        "PH-15",
-        "Cordillera Administrative Region"
-    ],
-    [
-        "PH-11",
-        "Davao Region"
-    ],
-    [
-        "PH-08",
-        "Eastern Visayas"
-    ],
-    [
-        "PH-01",
-        "Ilocos Region"
-    ],
-    [
-        "PH-00",
-        "Metro Manila"
-    ],
-    [
-        "PH-41",
-        "MIMAROPA"
-    ],
-    [
-        "PH-10",
-        "Northern Mindanao"
-    ],
-    [
-        "PH-12",
-        "Region XII"
-    ],
-    [
-        "PH-06",
-        "Western Visayas"
-    ],
-    [
-        "PH-09",
-        "Zamboanga Peninsula"
-    ],
-    [
-        "PH",
+        "Autonomous Region in Muslim Mindanao",
         "Philippines"
     ],
     [
+        "PH-05",
+        "Bicol",
+        "Philippines"
+    ],
+    [
+        "PH-02",
+        "Cagayan Valley",
+        "Philippines"
+    ],
+    [
+        "PH-40",
+        "Calabarzon",
+        "Philippines"
+    ],
+    [
+        "PH-13",
+        "Caraga",
+        "Philippines"
+    ],
+    [
+        "PH-03",
+        "Central Luzon",
+        "Philippines"
+    ],
+    [
+        "PH-07",
+        "Central Visayas",
+        "Philippines"
+    ],
+    [
+        "PH-15",
+        "Cordillera Administrative Region",
+        "Philippines"
+    ],
+    [
+        "PH-11",
+        "Davao Region",
+        "Philippines"
+    ],
+    [
+        "PH-08",
+        "Eastern Visayas",
+        "Philippines"
+    ],
+    [
+        "PH-01",
+        "Ilocos Region",
+        "Philippines"
+    ],
+    [
+        "PH-00",
+        "Metro Manila",
+        "Philippines"
+    ],
+    [
+        "PH-41",
+        "MIMAROPA",
+        "Philippines"
+    ],
+    [
+        "PH-10",
+        "Northern Mindanao",
+        "Philippines"
+    ],
+    [
+        "PH-12",
+        "Region XII",
+        "Philippines"
+    ],
+    [
+        "PH-06",
+        "Western Visayas",
+        "Philippines"
+    ],
+    [
+        "PH-09",
+        "Zamboanga Peninsula",
+        "Philippines"
+    ],
+    [
+        "PH",
+        "Philippines",
+        ""
+    ],
+    [
         "PL-WP",
-        "Greater Poland Voivodeship"
-    ],
-    [
-        "PL-KP",
-        "Kuyavian-Pomeranian Voivodeship"
-    ],
-    [
-        "PL-MA",
-        "Lesser Poland Voivodeship"
-    ],
-    [
-        "PL-LD",
-        "Łódź Voivodeship"
-    ],
-    [
-        "PL-DS",
-        "Lower Silesian Voivodeship"
-    ],
-    [
-        "PL-LU",
-        "Lublin Voivodeship"
-    ],
-    [
-        "PL-LB",
-        "Lubusz Voivodeship"
-    ],
-    [
-        "PL-MZ",
-        "Masovian Voivodeship"
-    ],
-    [
-        "PL-OP",
-        "Opole Voivodeship"
-    ],
-    [
-        "PL-PK",
-        "Podkarpackie Voivodeship"
-    ],
-    [
-        "PL-PD",
-        "Podlaskie Voivodeship"
-    ],
-    [
-        "PL-PM",
-        "Pomeranian Voivodeship"
-    ],
-    [
-        "PL-SL",
-        "Silesian Voivodeship"
-    ],
-    [
-        "PL-SK",
-        "Swietokrzyskie"
-    ],
-    [
-        "PL-WN",
-        "Warmian-Masurian Voivodeship"
-    ],
-    [
-        "PL-ZP",
-        "West Pomeranian Voivodeship"
-    ],
-    [
-        "PL",
+        "Greater Poland Voivodeship",
         "Poland"
     ],
     [
+        "PL-KP",
+        "Kuyavian-Pomeranian Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-MA",
+        "Lesser Poland Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-LD",
+        "Łódź Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-DS",
+        "Lower Silesian Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-LU",
+        "Lublin Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-LB",
+        "Lubusz Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-MZ",
+        "Masovian Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-OP",
+        "Opole Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-PK",
+        "Podkarpackie Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-PD",
+        "Podlaskie Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-PM",
+        "Pomeranian Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-SL",
+        "Silesian Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-SK",
+        "Swietokrzyskie",
+        "Poland"
+    ],
+    [
+        "PL-WN",
+        "Warmian-Masurian Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL-ZP",
+        "West Pomeranian Voivodeship",
+        "Poland"
+    ],
+    [
+        "PL",
+        "Poland",
+        ""
+    ],
+    [
         "PT-01",
-        "Aveiro District"
-    ],
-    [
-        "PT-20",
-        "Azores"
-    ],
-    [
-        "PT-02",
-        "Beja District"
-    ],
-    [
-        "PT-03",
-        "Braga"
-    ],
-    [
-        "PT-04",
-        "Bragança District"
-    ],
-    [
-        "PT-05",
-        "Castelo Branco District"
-    ],
-    [
-        "PT-06",
-        "Coimbra District"
-    ],
-    [
-        "PT-07",
-        "Évora District"
-    ],
-    [
-        "PT-08",
-        "Faro District"
-    ],
-    [
-        "PT-09",
-        "Guarda District"
-    ],
-    [
-        "PT-10",
-        "Leiria District"
-    ],
-    [
-        "PT-11",
-        "Lisbon"
-    ],
-    [
-        "PT-30",
-        "Madeira"
-    ],
-    [
-        "PT-12",
-        "Portalegre District"
-    ],
-    [
-        "PT-13",
-        "Porto District"
-    ],
-    [
-        "PT-14",
-        "Santarém District"
-    ],
-    [
-        "PT-15",
-        "Setubal"
-    ],
-    [
-        "PT-16",
-        "Viana do Castelo District"
-    ],
-    [
-        "PT-17",
-        "Vila Real District"
-    ],
-    [
-        "PT-18",
-        "Viseu District"
-    ],
-    [
-        "PT",
+        "Aveiro District",
         "Portugal"
     ],
     [
+        "PT-20",
+        "Azores",
+        "Portugal"
+    ],
+    [
+        "PT-02",
+        "Beja District",
+        "Portugal"
+    ],
+    [
+        "PT-03",
+        "Braga",
+        "Portugal"
+    ],
+    [
+        "PT-04",
+        "Bragança District",
+        "Portugal"
+    ],
+    [
+        "PT-05",
+        "Castelo Branco District",
+        "Portugal"
+    ],
+    [
+        "PT-06",
+        "Coimbra District",
+        "Portugal"
+    ],
+    [
+        "PT-07",
+        "Évora District",
+        "Portugal"
+    ],
+    [
+        "PT-08",
+        "Faro District",
+        "Portugal"
+    ],
+    [
+        "PT-09",
+        "Guarda District",
+        "Portugal"
+    ],
+    [
+        "PT-10",
+        "Leiria District",
+        "Portugal"
+    ],
+    [
+        "PT-11",
+        "Lisbon",
+        "Portugal"
+    ],
+    [
+        "PT-30",
+        "Madeira",
+        "Portugal"
+    ],
+    [
+        "PT-12",
+        "Portalegre District",
+        "Portugal"
+    ],
+    [
+        "PT-13",
+        "Porto District",
+        "Portugal"
+    ],
+    [
+        "PT-14",
+        "Santarém District",
+        "Portugal"
+    ],
+    [
+        "PT-15",
+        "Setubal",
+        "Portugal"
+    ],
+    [
+        "PT-16",
+        "Viana do Castelo District",
+        "Portugal"
+    ],
+    [
+        "PT-17",
+        "Vila Real District",
+        "Portugal"
+    ],
+    [
+        "PT-18",
+        "Viseu District",
+        "Portugal"
+    ],
+    [
+        "PT",
+        "Portugal",
+        ""
+    ],
+    [
         "PR",
-        "Puerto Rico"
+        "Puerto Rico",
+        ""
     ],
     [
         "QA",
-        "Qatar"
+        "Qatar",
+        ""
     ],
     [
         "RO",
-        "Romania"
+        "Romania",
+        ""
     ],
     [
         "RU-AD",
-        "Adygea"
-    ],
-    [
-        "RU-ALT",
-        "Altai Krai"
-    ],
-    [
-        "RU-AL",
-        "Altai Republic"
-    ],
-    [
-        "RU-AMU",
-        "Amur Oblast"
-    ],
-    [
-        "RU-ARK",
-        "Arkhangelsk Oblast"
-    ],
-    [
-        "RU-AST",
-        "Astrakhan Oblast"
-    ],
-    [
-        "RU-BEL",
-        "Belgorod Oblast"
-    ],
-    [
-        "RU-BRY",
-        "Bryansk Oblast"
-    ],
-    [
-        "RU-BU",
-        "Buryatia"
-    ],
-    [
-        "RU-CE",
-        "Chechnya"
-    ],
-    [
-        "RU-CHE",
-        "Chelyabinsk Oblast"
-    ],
-    [
-        "RU-CHU",
-        "Chukotka Autonomous Okrug"
-    ],
-    [
-        "RU-CU",
-        "Chuvashia Republic"
-    ],
-    [
-        "RU-DA",
-        "Dagestan Republic"
-    ],
-    [
-        "RU-IN",
-        "Ingushetia"
-    ],
-    [
-        "RU-IRK",
-        "Irkutsk Oblast"
-    ],
-    [
-        "RU-IVA",
-        "Ivanovo Oblast"
-    ],
-    [
-        "RU-YEV",
-        "Jewish Autonomous Oblast"
-    ],
-    [
-        "RU-KB",
-        "Kabardino-Balkaria"
-    ],
-    [
-        "RU-KGD",
-        "Kaliningrad Oblast"
-    ],
-    [
-        "RU-KL",
-        "Kalmykia"
-    ],
-    [
-        "RU-KLU",
-        "Kaluga Oblast"
-    ],
-    [
-        "RU-KAM",
-        "Kamchatka Krai"
-    ],
-    [
-        "RU-KC",
-        "Karachay-Cherkessia"
-    ],
-    [
-        "RU-KEM",
-        "Kemerovo Oblast"
-    ],
-    [
-        "RU-KHA",
-        "Khabarovsk Krai"
-    ],
-    [
-        "RU-KHM",
-        "Khanty-Mansi Autonomous Okrug"
-    ],
-    [
-        "RU-KIR",
-        "Kirov Oblast"
-    ],
-    [
-        "RU-KO",
-        "Komi Republic"
-    ],
-    [
-        "RU-KOS",
-        "Kostroma Oblast"
-    ],
-    [
-        "RU-KDA",
-        "Krasnodar Krai"
-    ],
-    [
-        "RU-KYA",
-        "Krasnoyarsk Krai"
-    ],
-    [
-        "RU-KGN",
-        "Kurgan Oblast"
-    ],
-    [
-        "RU-KRS",
-        "Kursk Oblast"
-    ],
-    [
-        "RU-LEN",
-        "Leningrad Oblast"
-    ],
-    [
-        "RU-LIP",
-        "Lipetsk Oblast"
-    ],
-    [
-        "RU-MAG",
-        "Magadan Oblast"
-    ],
-    [
-        "RU-ME",
-        "Mari El Republic"
-    ],
-    [
-        "RU-MO",
-        "Mordovia"
-    ],
-    [
-        "RU-MOW",
-        "Moscow"
-    ],
-    [
-        "RU-MOS",
-        "Moscow Oblast"
-    ],
-    [
-        "RU-MUR",
-        "Murmansk Oblast"
-    ],
-    [
-        "RU-NEN",
-        "Nenets Autonomous Okrug"
-    ],
-    [
-        "RU-NIZ",
-        "Nizhny Novgorod Oblast"
-    ],
-    [
-        "RU-SE",
-        "North Ossetia–Alania"
-    ],
-    [
-        "RU-NGR",
-        "Novgorod Oblast"
-    ],
-    [
-        "RU-NVS",
-        "Novosibirsk Oblast"
-    ],
-    [
-        "RU-OMS",
-        "Omsk Oblast"
-    ],
-    [
-        "RU-ORE",
-        "Orenburg Oblast"
-    ],
-    [
-        "RU-ORL",
-        "Oryol Oblast"
-    ],
-    [
-        "RU-PNZ",
-        "Penza Oblast"
-    ],
-    [
-        "RU-PER",
-        "Perm Krai"
-    ],
-    [
-        "RU-PRI",
-        "Primorsky Krai"
-    ],
-    [
-        "RU-PSK",
-        "Pskov Oblast"
-    ],
-    [
-        "RU-BA",
-        "Republic of Bashkortostan"
-    ],
-    [
-        "RU-KR",
-        "Republic of Karelia"
-    ],
-    [
-        "RU-KK",
-        "Republic of Khakassia"
-    ],
-    [
-        "RU-ROS",
-        "Rostov Oblast"
-    ],
-    [
-        "RU-RYA",
-        "Ryazan Oblast"
-    ],
-    [
-        "RU-SPE",
-        "Saint Petersburg"
-    ],
-    [
-        "RU-SA",
-        "Sakha Republic"
-    ],
-    [
-        "RU-SAK",
-        "Sakhalin Oblast"
-    ],
-    [
-        "RU-SAM",
-        "Samara Oblast"
-    ],
-    [
-        "RU-SAR",
-        "Saratov Oblast"
-    ],
-    [
-        "RU-SMO",
-        "Smolensk Oblast"
-    ],
-    [
-        "RU-STA",
-        "Stavropol Krai"
-    ],
-    [
-        "RU-SVE",
-        "Sverdlovsk Oblast"
-    ],
-    [
-        "RU-TAM",
-        "Tambov Oblast"
-    ],
-    [
-        "RU-TA",
-        "Tatarstan"
-    ],
-    [
-        "RU-TOM",
-        "Tomsk Oblast"
-    ],
-    [
-        "RU-TUL",
-        "Tula Oblast"
-    ],
-    [
-        "RU-TY",
-        "Tuva"
-    ],
-    [
-        "RU-TVE",
-        "Tver Oblast"
-    ],
-    [
-        "RU-TYU",
-        "Tyumen Oblast"
-    ],
-    [
-        "RU-UD",
-        "Udmurt Republic"
-    ],
-    [
-        "RU-ULY",
-        "Ulyanovsk Oblast"
-    ],
-    [
-        "RU-VLA",
-        "Vladimir Oblast"
-    ],
-    [
-        "RU-VGG",
-        "Volgograd Oblast"
-    ],
-    [
-        "RU-VLG",
-        "Vologda Oblast"
-    ],
-    [
-        "RU-VOR",
-        "Voronezh Oblast"
-    ],
-    [
-        "RU-YAN",
-        "Yamalo-Nenets Autonomous Okrug"
-    ],
-    [
-        "RU-YAR",
-        "Yaroslavl Oblast"
-    ],
-    [
-        "RU-ZAB",
-        "Zabaykalsky Krai"
-    ],
-    [
-        "RU",
+        "Adygea",
         "Russia"
     ],
     [
+        "RU-ALT",
+        "Altai Krai",
+        "Russia"
+    ],
+    [
+        "RU-AL",
+        "Altai Republic",
+        "Russia"
+    ],
+    [
+        "RU-AMU",
+        "Amur Oblast",
+        "Russia"
+    ],
+    [
+        "RU-ARK",
+        "Arkhangelsk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-AST",
+        "Astrakhan Oblast",
+        "Russia"
+    ],
+    [
+        "RU-BEL",
+        "Belgorod Oblast",
+        "Russia"
+    ],
+    [
+        "RU-BRY",
+        "Bryansk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-BU",
+        "Buryatia",
+        "Russia"
+    ],
+    [
+        "RU-CE",
+        "Chechnya",
+        "Russia"
+    ],
+    [
+        "RU-CHE",
+        "Chelyabinsk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-CHU",
+        "Chukotka Autonomous Okrug",
+        "Russia"
+    ],
+    [
+        "RU-CU",
+        "Chuvashia Republic",
+        "Russia"
+    ],
+    [
+        "RU-DA",
+        "Dagestan Republic",
+        "Russia"
+    ],
+    [
+        "RU-IN",
+        "Ingushetia",
+        "Russia"
+    ],
+    [
+        "RU-IRK",
+        "Irkutsk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-IVA",
+        "Ivanovo Oblast",
+        "Russia"
+    ],
+    [
+        "RU-YEV",
+        "Jewish Autonomous Oblast",
+        "Russia"
+    ],
+    [
+        "RU-KB",
+        "Kabardino-Balkaria",
+        "Russia"
+    ],
+    [
+        "RU-KGD",
+        "Kaliningrad Oblast",
+        "Russia"
+    ],
+    [
+        "RU-KL",
+        "Kalmykia",
+        "Russia"
+    ],
+    [
+        "RU-KLU",
+        "Kaluga Oblast",
+        "Russia"
+    ],
+    [
+        "RU-KAM",
+        "Kamchatka Krai",
+        "Russia"
+    ],
+    [
+        "RU-KC",
+        "Karachay-Cherkessia",
+        "Russia"
+    ],
+    [
+        "RU-KEM",
+        "Kemerovo Oblast",
+        "Russia"
+    ],
+    [
+        "RU-KHA",
+        "Khabarovsk Krai",
+        "Russia"
+    ],
+    [
+        "RU-KHM",
+        "Khanty-Mansi Autonomous Okrug",
+        "Russia"
+    ],
+    [
+        "RU-KIR",
+        "Kirov Oblast",
+        "Russia"
+    ],
+    [
+        "RU-KO",
+        "Komi Republic",
+        "Russia"
+    ],
+    [
+        "RU-KOS",
+        "Kostroma Oblast",
+        "Russia"
+    ],
+    [
+        "RU-KDA",
+        "Krasnodar Krai",
+        "Russia"
+    ],
+    [
+        "RU-KYA",
+        "Krasnoyarsk Krai",
+        "Russia"
+    ],
+    [
+        "RU-KGN",
+        "Kurgan Oblast",
+        "Russia"
+    ],
+    [
+        "RU-KRS",
+        "Kursk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-LEN",
+        "Leningrad Oblast",
+        "Russia"
+    ],
+    [
+        "RU-LIP",
+        "Lipetsk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-MAG",
+        "Magadan Oblast",
+        "Russia"
+    ],
+    [
+        "RU-ME",
+        "Mari El Republic",
+        "Russia"
+    ],
+    [
+        "RU-MO",
+        "Mordovia",
+        "Russia"
+    ],
+    [
+        "RU-MOW",
+        "Moscow",
+        "Russia"
+    ],
+    [
+        "RU-MOS",
+        "Moscow Oblast",
+        "Russia"
+    ],
+    [
+        "RU-MUR",
+        "Murmansk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-NEN",
+        "Nenets Autonomous Okrug",
+        "Russia"
+    ],
+    [
+        "RU-NIZ",
+        "Nizhny Novgorod Oblast",
+        "Russia"
+    ],
+    [
+        "RU-SE",
+        "North Ossetia–Alania",
+        "Russia"
+    ],
+    [
+        "RU-NGR",
+        "Novgorod Oblast",
+        "Russia"
+    ],
+    [
+        "RU-NVS",
+        "Novosibirsk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-OMS",
+        "Omsk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-ORE",
+        "Orenburg Oblast",
+        "Russia"
+    ],
+    [
+        "RU-ORL",
+        "Oryol Oblast",
+        "Russia"
+    ],
+    [
+        "RU-PNZ",
+        "Penza Oblast",
+        "Russia"
+    ],
+    [
+        "RU-PER",
+        "Perm Krai",
+        "Russia"
+    ],
+    [
+        "RU-PRI",
+        "Primorsky Krai",
+        "Russia"
+    ],
+    [
+        "RU-PSK",
+        "Pskov Oblast",
+        "Russia"
+    ],
+    [
+        "RU-BA",
+        "Republic of Bashkortostan",
+        "Russia"
+    ],
+    [
+        "RU-KR",
+        "Republic of Karelia",
+        "Russia"
+    ],
+    [
+        "RU-KK",
+        "Republic of Khakassia",
+        "Russia"
+    ],
+    [
+        "RU-ROS",
+        "Rostov Oblast",
+        "Russia"
+    ],
+    [
+        "RU-RYA",
+        "Ryazan Oblast",
+        "Russia"
+    ],
+    [
+        "RU-SPE",
+        "Saint Petersburg",
+        "Russia"
+    ],
+    [
+        "RU-SA",
+        "Sakha Republic",
+        "Russia"
+    ],
+    [
+        "RU-SAK",
+        "Sakhalin Oblast",
+        "Russia"
+    ],
+    [
+        "RU-SAM",
+        "Samara Oblast",
+        "Russia"
+    ],
+    [
+        "RU-SAR",
+        "Saratov Oblast",
+        "Russia"
+    ],
+    [
+        "RU-SMO",
+        "Smolensk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-STA",
+        "Stavropol Krai",
+        "Russia"
+    ],
+    [
+        "RU-SVE",
+        "Sverdlovsk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-TAM",
+        "Tambov Oblast",
+        "Russia"
+    ],
+    [
+        "RU-TA",
+        "Tatarstan",
+        "Russia"
+    ],
+    [
+        "RU-TOM",
+        "Tomsk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-TUL",
+        "Tula Oblast",
+        "Russia"
+    ],
+    [
+        "RU-TY",
+        "Tuva",
+        "Russia"
+    ],
+    [
+        "RU-TVE",
+        "Tver Oblast",
+        "Russia"
+    ],
+    [
+        "RU-TYU",
+        "Tyumen Oblast",
+        "Russia"
+    ],
+    [
+        "RU-UD",
+        "Udmurt Republic",
+        "Russia"
+    ],
+    [
+        "RU-ULY",
+        "Ulyanovsk Oblast",
+        "Russia"
+    ],
+    [
+        "RU-VLA",
+        "Vladimir Oblast",
+        "Russia"
+    ],
+    [
+        "RU-VGG",
+        "Volgograd Oblast",
+        "Russia"
+    ],
+    [
+        "RU-VLG",
+        "Vologda Oblast",
+        "Russia"
+    ],
+    [
+        "RU-VOR",
+        "Voronezh Oblast",
+        "Russia"
+    ],
+    [
+        "RU-YAN",
+        "Yamalo-Nenets Autonomous Okrug",
+        "Russia"
+    ],
+    [
+        "RU-YAR",
+        "Yaroslavl Oblast",
+        "Russia"
+    ],
+    [
+        "RU-ZAB",
+        "Zabaykalsky Krai",
+        "Russia"
+    ],
+    [
+        "RU",
+        "Russia",
+        ""
+    ],
+    [
         "SA-11",
-        "Al Bahah Province"
-    ],
-    [
-        "SA-12",
-        "Al Jowf"
-    ],
-    [
-        "SA-03",
-        "Al Madinah Province"
-    ],
-    [
-        "SA-05",
-        "Al Qassim"
-    ],
-    [
-        "SA-14",
-        "Aseer Province"
-    ],
-    [
-        "SA-04",
-        "Eastern Province"
-    ],
-    [
-        "SA-06",
-        "Hail Province"
-    ],
-    [
-        "SA-09",
-        "Jazan"
-    ],
-    [
-        "SA-02",
-        "Makkah Province"
-    ],
-    [
-        "SA-10",
-        "Najran"
-    ],
-    [
-        "SA-08",
-        "Northern Borders Province"
-    ],
-    [
-        "SA-01",
-        "Riyadh Province"
-    ],
-    [
-        "SA-07",
-        "Tabuk Province"
-    ],
-    [
-        "SA",
+        "Al Bahah Province",
         "Saudi Arabia"
     ],
     [
+        "SA-12",
+        "Al Jowf",
+        "Saudi Arabia"
+    ],
+    [
+        "SA-03",
+        "Al Madinah Province",
+        "Saudi Arabia"
+    ],
+    [
+        "SA-05",
+        "Al Qassim",
+        "Saudi Arabia"
+    ],
+    [
+        "SA-14",
+        "Aseer Province",
+        "Saudi Arabia"
+    ],
+    [
+        "SA-04",
+        "Eastern Province",
+        "Saudi Arabia"
+    ],
+    [
+        "SA-06",
+        "Hail Province",
+        "Saudi Arabia"
+    ],
+    [
+        "SA-09",
+        "Jazan",
+        "Saudi Arabia"
+    ],
+    [
+        "SA-02",
+        "Makkah Province",
+        "Saudi Arabia"
+    ],
+    [
+        "SA-10",
+        "Najran",
+        "Saudi Arabia"
+    ],
+    [
+        "SA-08",
+        "Northern Borders Province",
+        "Saudi Arabia"
+    ],
+    [
+        "SA-01",
+        "Riyadh Province",
+        "Saudi Arabia"
+    ],
+    [
+        "SA-07",
+        "Tabuk Province",
+        "Saudi Arabia"
+    ],
+    [
+        "SA",
+        "Saudi Arabia",
+        ""
+    ],
+    [
         "SN",
-        "Senegal"
+        "Senegal",
+        ""
     ],
     [
         "RS",
-        "Serbia"
+        "Serbia",
+        ""
     ],
     [
         "SG",
-        "Singapore"
+        "Singapore",
+        ""
     ],
     [
         "SK",
-        "Slovakia"
+        "Slovakia",
+        ""
     ],
     [
         "SI",
-        "Slovenia"
+        "Slovenia",
+        ""
     ],
     [
         "ZA-EC",
-        "Eastern Cape"
-    ],
-    [
-        "ZA-FS",
-        "Free State"
-    ],
-    [
-        "ZA-GT",
-        "Gauteng"
-    ],
-    [
-        "ZA-NL",
-        "KwaZulu-Natal"
-    ],
-    [
-        "ZA-LP",
-        "Limpopo"
-    ],
-    [
-        "ZA-MP",
-        "Mpumalanga"
-    ],
-    [
-        "ZA-NW",
-        "North West"
-    ],
-    [
-        "ZA-NC",
-        "Northern Cape"
-    ],
-    [
-        "ZA-WC",
-        "Western Cape"
-    ],
-    [
-        "ZA",
+        "Eastern Cape",
         "South Africa"
     ],
     [
+        "ZA-FS",
+        "Free State",
+        "South Africa"
+    ],
+    [
+        "ZA-GT",
+        "Gauteng",
+        "South Africa"
+    ],
+    [
+        "ZA-NL",
+        "KwaZulu-Natal",
+        "South Africa"
+    ],
+    [
+        "ZA-LP",
+        "Limpopo",
+        "South Africa"
+    ],
+    [
+        "ZA-MP",
+        "Mpumalanga",
+        "South Africa"
+    ],
+    [
+        "ZA-NW",
+        "North West",
+        "South Africa"
+    ],
+    [
+        "ZA-NC",
+        "Northern Cape",
+        "South Africa"
+    ],
+    [
+        "ZA-WC",
+        "Western Cape",
+        "South Africa"
+    ],
+    [
+        "ZA",
+        "South Africa",
+        ""
+    ],
+    [
         "KR-26",
-        "Busan"
-    ],
-    [
-        "KR-43",
-        "Chungcheongbuk-do"
-    ],
-    [
-        "KR-44",
-        "Chungcheongnam-do"
-    ],
-    [
-        "KR-27",
-        "Daegu"
-    ],
-    [
-        "KR-30",
-        "Daejeon"
-    ],
-    [
-        "KR-42",
-        "Gangwon-do"
-    ],
-    [
-        "KR-29",
-        "Gwangju"
-    ],
-    [
-        "KR-41",
-        "Gyeonggi-do"
-    ],
-    [
-        "KR-47",
-        "Gyeongsangbuk-do"
-    ],
-    [
-        "KR-48",
-        "Gyeongsangnam-do"
-    ],
-    [
-        "KR-28",
-        "Incheon"
-    ],
-    [
-        "KR-49",
-        "Jeju-do"
-    ],
-    [
-        "KR-45",
-        "Jeollabuk-do"
-    ],
-    [
-        "KR-46",
-        "Jeollanam-do"
-    ],
-    [
-        "KR-11",
-        "Seoul"
-    ],
-    [
-        "KR-31",
-        "Ulsan"
-    ],
-    [
-        "KR",
+        "Busan",
         "South Korea"
     ],
     [
+        "KR-43",
+        "Chungcheongbuk-do",
+        "South Korea"
+    ],
+    [
+        "KR-44",
+        "Chungcheongnam-do",
+        "South Korea"
+    ],
+    [
+        "KR-27",
+        "Daegu",
+        "South Korea"
+    ],
+    [
+        "KR-30",
+        "Daejeon",
+        "South Korea"
+    ],
+    [
+        "KR-42",
+        "Gangwon-do",
+        "South Korea"
+    ],
+    [
+        "KR-29",
+        "Gwangju",
+        "South Korea"
+    ],
+    [
+        "KR-41",
+        "Gyeonggi-do",
+        "South Korea"
+    ],
+    [
+        "KR-47",
+        "Gyeongsangbuk-do",
+        "South Korea"
+    ],
+    [
+        "KR-48",
+        "Gyeongsangnam-do",
+        "South Korea"
+    ],
+    [
+        "KR-28",
+        "Incheon",
+        "South Korea"
+    ],
+    [
+        "KR-49",
+        "Jeju-do",
+        "South Korea"
+    ],
+    [
+        "KR-45",
+        "Jeollabuk-do",
+        "South Korea"
+    ],
+    [
+        "KR-46",
+        "Jeollanam-do",
+        "South Korea"
+    ],
+    [
+        "KR-11",
+        "Seoul",
+        "South Korea"
+    ],
+    [
+        "KR-31",
+        "Ulsan",
+        "South Korea"
+    ],
+    [
+        "KR",
+        "South Korea",
+        ""
+    ],
+    [
         "ES-AN",
-        "Andalusia"
-    ],
-    [
-        "ES-AR",
-        "Aragon"
-    ],
-    [
-        "ES-AS",
-        "Asturias"
-    ],
-    [
-        "ES-IB",
-        "Balearic Islands"
-    ],
-    [
-        "ES-PV",
-        "Basque Country"
-    ],
-    [
-        "ES-CN",
-        "Canary Islands"
-    ],
-    [
-        "ES-CB",
-        "Cantabria"
-    ],
-    [
-        "ES-CL",
-        "Castile and León"
-    ],
-    [
-        "ES-CM",
-        "Castile-La Mancha"
-    ],
-    [
-        "ES-CT",
-        "Catalonia"
-    ],
-    [
-        "ES-CE",
-        "Ceuta"
-    ],
-    [
-        "ES-MD",
-        "Community of Madrid"
-    ],
-    [
-        "ES-EX",
-        "Extremadura"
-    ],
-    [
-        "ES-GA",
-        "Galicia"
-    ],
-    [
-        "ES-RI",
-        "La Rioja"
-    ],
-    [
-        "ES-ML",
-        "Melilla"
-    ],
-    [
-        "ES-NC",
-        "Navarre"
-    ],
-    [
-        "ES-MC",
-        "Region of Murcia"
-    ],
-    [
-        "ES-VC",
-        "Valencian Community"
-    ],
-    [
-        "ES",
+        "Andalusia",
         "Spain"
     ],
     [
+        "ES-AR",
+        "Aragon",
+        "Spain"
+    ],
+    [
+        "ES-AS",
+        "Asturias",
+        "Spain"
+    ],
+    [
+        "ES-IB",
+        "Balearic Islands",
+        "Spain"
+    ],
+    [
+        "ES-PV",
+        "Basque Country",
+        "Spain"
+    ],
+    [
+        "ES-CN",
+        "Canary Islands",
+        "Spain"
+    ],
+    [
+        "ES-CB",
+        "Cantabria",
+        "Spain"
+    ],
+    [
+        "ES-CL",
+        "Castile and León",
+        "Spain"
+    ],
+    [
+        "ES-CM",
+        "Castile-La Mancha",
+        "Spain"
+    ],
+    [
+        "ES-CT",
+        "Catalonia",
+        "Spain"
+    ],
+    [
+        "ES-CE",
+        "Ceuta",
+        "Spain"
+    ],
+    [
+        "ES-MD",
+        "Community of Madrid",
+        "Spain"
+    ],
+    [
+        "ES-EX",
+        "Extremadura",
+        "Spain"
+    ],
+    [
+        "ES-GA",
+        "Galicia",
+        "Spain"
+    ],
+    [
+        "ES-RI",
+        "La Rioja",
+        "Spain"
+    ],
+    [
+        "ES-ML",
+        "Melilla",
+        "Spain"
+    ],
+    [
+        "ES-NC",
+        "Navarre",
+        "Spain"
+    ],
+    [
+        "ES-MC",
+        "Region of Murcia",
+        "Spain"
+    ],
+    [
+        "ES-VC",
+        "Valencian Community",
+        "Spain"
+    ],
+    [
+        "ES",
+        "Spain",
+        ""
+    ],
+    [
         "LK",
-        "Sri Lanka"
+        "Sri Lanka",
+        ""
     ],
     [
         "SE-K",
-        "Blekinge County"
-    ],
-    [
-        "SE-W",
-        "Dalarna County"
-    ],
-    [
-        "SE-X",
-        "Gavleborg County"
-    ],
-    [
-        "SE-I",
-        "Gotland County"
-    ],
-    [
-        "SE-N",
-        "Halland County"
-    ],
-    [
-        "SE-Z",
-        "Jamtland County"
-    ],
-    [
-        "SE-F",
-        "Jonkoping County"
-    ],
-    [
-        "SE-H",
-        "Kalmar County"
-    ],
-    [
-        "SE-G",
-        "Kronoberg County"
-    ],
-    [
-        "SE-BD",
-        "Norrbotten County"
-    ],
-    [
-        "SE-T",
-        "Örebro County"
-    ],
-    [
-        "SE-E",
-        "Östergötland County"
-    ],
-    [
-        "SE-M",
-        "Skåne County"
-    ],
-    [
-        "SE-D",
-        "Södermanland County"
-    ],
-    [
-        "SE-AB",
-        "Stockholm County"
-    ],
-    [
-        "SE-C",
-        "Uppsala County"
-    ],
-    [
-        "SE-S",
-        "Varmland County"
-    ],
-    [
-        "SE-AC",
-        "Västerbotten County"
-    ],
-    [
-        "SE-Y",
-        "Västernorrland County"
-    ],
-    [
-        "SE-U",
-        "Västmanland County"
-    ],
-    [
-        "SE-O",
-        "Västra Götaland County"
-    ],
-    [
-        "SE",
+        "Blekinge County",
         "Sweden"
     ],
     [
+        "SE-W",
+        "Dalarna County",
+        "Sweden"
+    ],
+    [
+        "SE-X",
+        "Gavleborg County",
+        "Sweden"
+    ],
+    [
+        "SE-I",
+        "Gotland County",
+        "Sweden"
+    ],
+    [
+        "SE-N",
+        "Halland County",
+        "Sweden"
+    ],
+    [
+        "SE-Z",
+        "Jamtland County",
+        "Sweden"
+    ],
+    [
+        "SE-F",
+        "Jonkoping County",
+        "Sweden"
+    ],
+    [
+        "SE-H",
+        "Kalmar County",
+        "Sweden"
+    ],
+    [
+        "SE-G",
+        "Kronoberg County",
+        "Sweden"
+    ],
+    [
+        "SE-BD",
+        "Norrbotten County",
+        "Sweden"
+    ],
+    [
+        "SE-T",
+        "Örebro County",
+        "Sweden"
+    ],
+    [
+        "SE-E",
+        "Östergötland County",
+        "Sweden"
+    ],
+    [
+        "SE-M",
+        "Skåne County",
+        "Sweden"
+    ],
+    [
+        "SE-D",
+        "Södermanland County",
+        "Sweden"
+    ],
+    [
+        "SE-AB",
+        "Stockholm County",
+        "Sweden"
+    ],
+    [
+        "SE-C",
+        "Uppsala County",
+        "Sweden"
+    ],
+    [
+        "SE-S",
+        "Varmland County",
+        "Sweden"
+    ],
+    [
+        "SE-AC",
+        "Västerbotten County",
+        "Sweden"
+    ],
+    [
+        "SE-Y",
+        "Västernorrland County",
+        "Sweden"
+    ],
+    [
+        "SE-U",
+        "Västmanland County",
+        "Sweden"
+    ],
+    [
+        "SE-O",
+        "Västra Götaland County",
+        "Sweden"
+    ],
+    [
+        "SE",
+        "Sweden",
+        ""
+    ],
+    [
         "CH-AG",
-        "Aargau"
-    ],
-    [
-        "CH-AI",
-        "Appenzell Innerrhoden"
-    ],
-    [
-        "CH-AR",
-        "Appenzell Outer Rhodes"
-    ],
-    [
-        "CH-BL",
-        "Basel-Landschaft"
-    ],
-    [
-        "CH-BS",
-        "Basel-Stadt"
-    ],
-    [
-        "CH-BE",
-        "Canton of Bern"
-    ],
-    [
-        "CH-FR",
-        "Canton of Fribourg"
-    ],
-    [
-        "CH-GL",
-        "Canton of Glarus"
-    ],
-    [
-        "CH-JU",
-        "Canton of Jura"
-    ],
-    [
-        "CH-NE",
-        "Canton of Neuchâtel"
-    ],
-    [
-        "CH-OW",
-        "Canton of Obwalden"
-    ],
-    [
-        "CH-SH",
-        "Canton of Schaffhausen"
-    ],
-    [
-        "CH-SZ",
-        "Canton of Schwyz"
-    ],
-    [
-        "CH-SO",
-        "Canton of Solothurn"
-    ],
-    [
-        "CH-UR",
-        "Canton of Uri"
-    ],
-    [
-        "CH-ZG",
-        "Canton of Zug"
-    ],
-    [
-        "CH-GE",
-        "Geneva"
-    ],
-    [
-        "CH-GR",
-        "Grisons"
-    ],
-    [
-        "CH-LU",
-        "Lucerne"
-    ],
-    [
-        "CH-NW",
-        "Nidwalden"
-    ],
-    [
-        "CH-SG",
-        "St. Gallen"
-    ],
-    [
-        "CH-TG",
-        "Thurgau"
-    ],
-    [
-        "CH-TI",
-        "Ticino"
-    ],
-    [
-        "CH-VS",
-        "Valais"
-    ],
-    [
-        "CH-VD",
-        "Vaud"
-    ],
-    [
-        "CH-ZH",
-        "Zurich"
-    ],
-    [
-        "CH",
+        "Aargau",
         "Switzerland"
     ],
     [
+        "CH-AI",
+        "Appenzell Innerrhoden",
+        "Switzerland"
+    ],
+    [
+        "CH-AR",
+        "Appenzell Outer Rhodes",
+        "Switzerland"
+    ],
+    [
+        "CH-BL",
+        "Basel-Landschaft",
+        "Switzerland"
+    ],
+    [
+        "CH-BS",
+        "Basel-Stadt",
+        "Switzerland"
+    ],
+    [
+        "CH-BE",
+        "Canton of Bern",
+        "Switzerland"
+    ],
+    [
+        "CH-FR",
+        "Canton of Fribourg",
+        "Switzerland"
+    ],
+    [
+        "CH-GL",
+        "Canton of Glarus",
+        "Switzerland"
+    ],
+    [
+        "CH-JU",
+        "Canton of Jura",
+        "Switzerland"
+    ],
+    [
+        "CH-NE",
+        "Canton of Neuchâtel",
+        "Switzerland"
+    ],
+    [
+        "CH-OW",
+        "Canton of Obwalden",
+        "Switzerland"
+    ],
+    [
+        "CH-SH",
+        "Canton of Schaffhausen",
+        "Switzerland"
+    ],
+    [
+        "CH-SZ",
+        "Canton of Schwyz",
+        "Switzerland"
+    ],
+    [
+        "CH-SO",
+        "Canton of Solothurn",
+        "Switzerland"
+    ],
+    [
+        "CH-UR",
+        "Canton of Uri",
+        "Switzerland"
+    ],
+    [
+        "CH-ZG",
+        "Canton of Zug",
+        "Switzerland"
+    ],
+    [
+        "CH-GE",
+        "Geneva",
+        "Switzerland"
+    ],
+    [
+        "CH-GR",
+        "Grisons",
+        "Switzerland"
+    ],
+    [
+        "CH-LU",
+        "Lucerne",
+        "Switzerland"
+    ],
+    [
+        "CH-NW",
+        "Nidwalden",
+        "Switzerland"
+    ],
+    [
+        "CH-SG",
+        "St. Gallen",
+        "Switzerland"
+    ],
+    [
+        "CH-TG",
+        "Thurgau",
+        "Switzerland"
+    ],
+    [
+        "CH-TI",
+        "Ticino",
+        "Switzerland"
+    ],
+    [
+        "CH-VS",
+        "Valais",
+        "Switzerland"
+    ],
+    [
+        "CH-VD",
+        "Vaud",
+        "Switzerland"
+    ],
+    [
+        "CH-ZH",
+        "Zurich",
+        "Switzerland"
+    ],
+    [
+        "CH",
+        "Switzerland",
+        ""
+    ],
+    [
         "SY",
-        "Syria"
+        "Syria",
+        ""
     ],
     [
         "TW-KHH",
-        "Kaohsiung City"
-    ],
-    [
-        "TW-TPQ",
-        "New Taipei City"
-    ],
-    [
-        "TW-TXG",
-        "Taichung City"
-    ],
-    [
-        "TW-TNN",
-        "Tainan City"
-    ],
-    [
-        "TW-TPE",
-        "Taipei City"
-    ],
-    [
-        "TW-TAO",
-        "Taoyuan City"
-    ],
-    [
-        "TW",
+        "Kaohsiung City",
         "Taiwan"
     ],
     [
+        "TW-TPQ",
+        "New Taipei City",
+        "Taiwan"
+    ],
+    [
+        "TW-TXG",
+        "Taichung City",
+        "Taiwan"
+    ],
+    [
+        "TW-TNN",
+        "Tainan City",
+        "Taiwan"
+    ],
+    [
+        "TW-TPE",
+        "Taipei City",
+        "Taiwan"
+    ],
+    [
+        "TW-TAO",
+        "Taoyuan City",
+        "Taiwan"
+    ],
+    [
+        "TW",
+        "Taiwan",
+        ""
+    ],
+    [
         "TZ",
-        "Tanzania"
+        "Tanzania",
+        ""
     ],
     [
         "TH",
-        "Thailand"
+        "Thailand",
+        ""
     ],
     [
         "TT",
-        "Trinidad & Tobago"
+        "Trinidad & Tobago",
+        ""
     ],
     [
         "TN",
-        "Tunisia"
+        "Tunisia",
+        ""
     ],
     [
         "TR-01",
-        "Adana"
-    ],
-    [
-        "TR-02",
-        "Adıyaman Province"
-    ],
-    [
-        "TR-03",
-        "Afyonkarahisar Province"
-    ],
-    [
-        "TR-04",
-        "Ağrı"
-    ],
-    [
-        "TR-68",
-        "Aksaray"
-    ],
-    [
-        "TR-05",
-        "Amasya Province"
-    ],
-    [
-        "TR-06",
-        "Ankara"
-    ],
-    [
-        "TR-07",
-        "Antalya"
-    ],
-    [
-        "TR-75",
-        "Ardahan Province"
-    ],
-    [
-        "TR-08",
-        "Artvin"
-    ],
-    [
-        "TR-09",
-        "Aydın Province"
-    ],
-    [
-        "TR-10",
-        "Balıkesir Province"
-    ],
-    [
-        "TR-74",
-        "Bartın Province"
-    ],
-    [
-        "TR-72",
-        "Batman"
-    ],
-    [
-        "TR-69",
-        "Bayburt"
-    ],
-    [
-        "TR-11",
-        "Bilecik"
-    ],
-    [
-        "TR-12",
-        "Bingöl Province"
-    ],
-    [
-        "TR-13",
-        "Bitlis"
-    ],
-    [
-        "TR-14",
-        "Bolu"
-    ],
-    [
-        "TR-15",
-        "Burdur Province"
-    ],
-    [
-        "TR-16",
-        "Bursa"
-    ],
-    [
-        "TR-17",
-        "Çanakkale Province"
-    ],
-    [
-        "TR-18",
-        "Çankırı"
-    ],
-    [
-        "TR-19",
-        "Çorum Province"
-    ],
-    [
-        "TR-20",
-        "Denizli"
-    ],
-    [
-        "TR-21",
-        "Diyarbakır"
-    ],
-    [
-        "TR-81",
-        "Düzce Province"
-    ],
-    [
-        "TR-22",
-        "Edirne"
-    ],
-    [
-        "TR-23",
-        "Elazığ"
-    ],
-    [
-        "TR-24",
-        "Erzincan"
-    ],
-    [
-        "TR-25",
-        "Erzurum"
-    ],
-    [
-        "TR-26",
-        "Eskişehir Province"
-    ],
-    [
-        "TR-27",
-        "Gaziantep"
-    ],
-    [
-        "TR-28",
-        "Giresun"
-    ],
-    [
-        "TR-29",
-        "Gümüşhane"
-    ],
-    [
-        "TR-30",
-        "Hakkâri"
-    ],
-    [
-        "TR-31",
-        "Hatay"
-    ],
-    [
-        "TR-76",
-        "Iğdır"
-    ],
-    [
-        "TR-32",
-        "Isparta Province"
-    ],
-    [
-        "TR-34",
-        "İstanbul"
-    ],
-    [
-        "TR-35",
-        "İzmir"
-    ],
-    [
-        "TR-46",
-        "Kahramanmaraş Province"
-    ],
-    [
-        "TR-78",
-        "Karabük"
-    ],
-    [
-        "TR-70",
-        "Karaman"
-    ],
-    [
-        "TR-36",
-        "Kars"
-    ],
-    [
-        "TR-37",
-        "Kastamonu"
-    ],
-    [
-        "TR-38",
-        "Kayseri Province"
-    ],
-    [
-        "TR-79",
-        "Kilis"
-    ],
-    [
-        "TR-71",
-        "Kırıkkale"
-    ],
-    [
-        "TR-39",
-        "Kırklareli"
-    ],
-    [
-        "TR-40",
-        "Kırşehir"
-    ],
-    [
-        "TR-41",
-        "Kocaeli"
-    ],
-    [
-        "TR-42",
-        "Konya"
-    ],
-    [
-        "TR-43",
-        "Kütahya"
-    ],
-    [
-        "TR-44",
-        "Malatya"
-    ],
-    [
-        "TR-45",
-        "Manisa"
-    ],
-    [
-        "TR-47",
-        "Mardin"
-    ],
-    [
-        "TR-33",
-        "Mersin Province"
-    ],
-    [
-        "TR-48",
-        "Muğla Province"
-    ],
-    [
-        "TR-49",
-        "Muş"
-    ],
-    [
-        "TR-50",
-        "Nevşehir"
-    ],
-    [
-        "TR-51",
-        "Niğde"
-    ],
-    [
-        "TR-52",
-        "Ordu"
-    ],
-    [
-        "TR-80",
-        "Osmaniye"
-    ],
-    [
-        "TR-53",
-        "Rize"
-    ],
-    [
-        "TR-54",
-        "Sakarya"
-    ],
-    [
-        "TR-55",
-        "Samsun"
-    ],
-    [
-        "TR-63",
-        "Şanlıurfa Province"
-    ],
-    [
-        "TR-56",
-        "Siirt Province"
-    ],
-    [
-        "TR-57",
-        "Sinop Province"
-    ],
-    [
-        "TR-58",
-        "Sivas"
-    ],
-    [
-        "TR-73",
-        "Şırnak"
-    ],
-    [
-        "TR-59",
-        "Tekirdağ"
-    ],
-    [
-        "TR-60",
-        "Tokat"
-    ],
-    [
-        "TR-61",
-        "Trabzon"
-    ],
-    [
-        "TR-62",
-        "Tunceli"
-    ],
-    [
-        "TR-64",
-        "Uşak"
-    ],
-    [
-        "TR-65",
-        "Van"
-    ],
-    [
-        "TR-77",
-        "Yalova Province"
-    ],
-    [
-        "TR-66",
-        "Yozgat"
-    ],
-    [
-        "TR-67",
-        "Zonguldak"
-    ],
-    [
-        "TR",
+        "Adana",
         "Türkiye"
     ],
     [
+        "TR-02",
+        "Adıyaman Province",
+        "Türkiye"
+    ],
+    [
+        "TR-03",
+        "Afyonkarahisar Province",
+        "Türkiye"
+    ],
+    [
+        "TR-04",
+        "Ağrı",
+        "Türkiye"
+    ],
+    [
+        "TR-68",
+        "Aksaray",
+        "Türkiye"
+    ],
+    [
+        "TR-05",
+        "Amasya Province",
+        "Türkiye"
+    ],
+    [
+        "TR-06",
+        "Ankara",
+        "Türkiye"
+    ],
+    [
+        "TR-07",
+        "Antalya",
+        "Türkiye"
+    ],
+    [
+        "TR-75",
+        "Ardahan Province",
+        "Türkiye"
+    ],
+    [
+        "TR-08",
+        "Artvin",
+        "Türkiye"
+    ],
+    [
+        "TR-09",
+        "Aydın Province",
+        "Türkiye"
+    ],
+    [
+        "TR-10",
+        "Balıkesir Province",
+        "Türkiye"
+    ],
+    [
+        "TR-74",
+        "Bartın Province",
+        "Türkiye"
+    ],
+    [
+        "TR-72",
+        "Batman",
+        "Türkiye"
+    ],
+    [
+        "TR-69",
+        "Bayburt",
+        "Türkiye"
+    ],
+    [
+        "TR-11",
+        "Bilecik",
+        "Türkiye"
+    ],
+    [
+        "TR-12",
+        "Bingöl Province",
+        "Türkiye"
+    ],
+    [
+        "TR-13",
+        "Bitlis",
+        "Türkiye"
+    ],
+    [
+        "TR-14",
+        "Bolu",
+        "Türkiye"
+    ],
+    [
+        "TR-15",
+        "Burdur Province",
+        "Türkiye"
+    ],
+    [
+        "TR-16",
+        "Bursa",
+        "Türkiye"
+    ],
+    [
+        "TR-17",
+        "Çanakkale Province",
+        "Türkiye"
+    ],
+    [
+        "TR-18",
+        "Çankırı",
+        "Türkiye"
+    ],
+    [
+        "TR-19",
+        "Çorum Province",
+        "Türkiye"
+    ],
+    [
+        "TR-20",
+        "Denizli",
+        "Türkiye"
+    ],
+    [
+        "TR-21",
+        "Diyarbakır",
+        "Türkiye"
+    ],
+    [
+        "TR-81",
+        "Düzce Province",
+        "Türkiye"
+    ],
+    [
+        "TR-22",
+        "Edirne",
+        "Türkiye"
+    ],
+    [
+        "TR-23",
+        "Elazığ",
+        "Türkiye"
+    ],
+    [
+        "TR-24",
+        "Erzincan",
+        "Türkiye"
+    ],
+    [
+        "TR-25",
+        "Erzurum",
+        "Türkiye"
+    ],
+    [
+        "TR-26",
+        "Eskişehir Province",
+        "Türkiye"
+    ],
+    [
+        "TR-27",
+        "Gaziantep",
+        "Türkiye"
+    ],
+    [
+        "TR-28",
+        "Giresun",
+        "Türkiye"
+    ],
+    [
+        "TR-29",
+        "Gümüşhane",
+        "Türkiye"
+    ],
+    [
+        "TR-30",
+        "Hakkâri",
+        "Türkiye"
+    ],
+    [
+        "TR-31",
+        "Hatay",
+        "Türkiye"
+    ],
+    [
+        "TR-76",
+        "Iğdır",
+        "Türkiye"
+    ],
+    [
+        "TR-32",
+        "Isparta Province",
+        "Türkiye"
+    ],
+    [
+        "TR-34",
+        "İstanbul",
+        "Türkiye"
+    ],
+    [
+        "TR-35",
+        "İzmir",
+        "Türkiye"
+    ],
+    [
+        "TR-46",
+        "Kahramanmaraş Province",
+        "Türkiye"
+    ],
+    [
+        "TR-78",
+        "Karabük",
+        "Türkiye"
+    ],
+    [
+        "TR-70",
+        "Karaman",
+        "Türkiye"
+    ],
+    [
+        "TR-36",
+        "Kars",
+        "Türkiye"
+    ],
+    [
+        "TR-37",
+        "Kastamonu",
+        "Türkiye"
+    ],
+    [
+        "TR-38",
+        "Kayseri Province",
+        "Türkiye"
+    ],
+    [
+        "TR-79",
+        "Kilis",
+        "Türkiye"
+    ],
+    [
+        "TR-71",
+        "Kırıkkale",
+        "Türkiye"
+    ],
+    [
+        "TR-39",
+        "Kırklareli",
+        "Türkiye"
+    ],
+    [
+        "TR-40",
+        "Kırşehir",
+        "Türkiye"
+    ],
+    [
+        "TR-41",
+        "Kocaeli",
+        "Türkiye"
+    ],
+    [
+        "TR-42",
+        "Konya",
+        "Türkiye"
+    ],
+    [
+        "TR-43",
+        "Kütahya",
+        "Türkiye"
+    ],
+    [
+        "TR-44",
+        "Malatya",
+        "Türkiye"
+    ],
+    [
+        "TR-45",
+        "Manisa",
+        "Türkiye"
+    ],
+    [
+        "TR-47",
+        "Mardin",
+        "Türkiye"
+    ],
+    [
+        "TR-33",
+        "Mersin Province",
+        "Türkiye"
+    ],
+    [
+        "TR-48",
+        "Muğla Province",
+        "Türkiye"
+    ],
+    [
+        "TR-49",
+        "Muş",
+        "Türkiye"
+    ],
+    [
+        "TR-50",
+        "Nevşehir",
+        "Türkiye"
+    ],
+    [
+        "TR-51",
+        "Niğde",
+        "Türkiye"
+    ],
+    [
+        "TR-52",
+        "Ordu",
+        "Türkiye"
+    ],
+    [
+        "TR-80",
+        "Osmaniye",
+        "Türkiye"
+    ],
+    [
+        "TR-53",
+        "Rize",
+        "Türkiye"
+    ],
+    [
+        "TR-54",
+        "Sakarya",
+        "Türkiye"
+    ],
+    [
+        "TR-55",
+        "Samsun",
+        "Türkiye"
+    ],
+    [
+        "TR-63",
+        "Şanlıurfa Province",
+        "Türkiye"
+    ],
+    [
+        "TR-56",
+        "Siirt Province",
+        "Türkiye"
+    ],
+    [
+        "TR-57",
+        "Sinop Province",
+        "Türkiye"
+    ],
+    [
+        "TR-58",
+        "Sivas",
+        "Türkiye"
+    ],
+    [
+        "TR-73",
+        "Şırnak",
+        "Türkiye"
+    ],
+    [
+        "TR-59",
+        "Tekirdağ",
+        "Türkiye"
+    ],
+    [
+        "TR-60",
+        "Tokat",
+        "Türkiye"
+    ],
+    [
+        "TR-61",
+        "Trabzon",
+        "Türkiye"
+    ],
+    [
+        "TR-62",
+        "Tunceli",
+        "Türkiye"
+    ],
+    [
+        "TR-64",
+        "Uşak",
+        "Türkiye"
+    ],
+    [
+        "TR-65",
+        "Van",
+        "Türkiye"
+    ],
+    [
+        "TR-77",
+        "Yalova Province",
+        "Türkiye"
+    ],
+    [
+        "TR-66",
+        "Yozgat",
+        "Türkiye"
+    ],
+    [
+        "TR-67",
+        "Zonguldak",
+        "Türkiye"
+    ],
+    [
+        "TR",
+        "Türkiye",
+        ""
+    ],
+    [
         "TM",
-        "Turkmenistan"
+        "Turkmenistan",
+        ""
     ],
     [
         "UG",
-        "Uganda"
+        "Uganda",
+        ""
     ],
     [
         "UA-71",
-        "Cherkas'ka oblast"
-    ],
-    [
-        "UA-74",
-        "Chernihivs'ka oblast"
-    ],
-    [
-        "UA-77",
-        "Chernivets'ka oblast"
-    ],
-    [
-        "UA-43",
-        "Crimea"
-    ],
-    [
-        "UA-12",
-        "Dnipropetrovsk Oblast"
-    ],
-    [
-        "UA-14",
-        "Donetsk Oblast"
-    ],
-    [
-        "UA-26",
-        "Ivano-Frankivs'ka oblast"
-    ],
-    [
-        "UA-63",
-        "Kharkiv Oblast"
-    ],
-    [
-        "UA-65",
-        "Khersons'ka oblast"
-    ],
-    [
-        "UA-68",
-        "Khmel'nyts'ka oblast"
-    ],
-    [
-        "UA-35",
-        "Kirovohrads'ka oblast"
-    ],
-    [
-        "UA-30",
-        "Kyiv city"
-    ],
-    [
-        "UA-32",
-        "Kyivs'ka oblast"
-    ],
-    [
-        "UA-09",
-        "Luhans'ka oblast"
-    ],
-    [
-        "UA-46",
-        "Lviv Oblast"
-    ],
-    [
-        "UA-48",
-        "Mykolaivs'ka oblast"
-    ],
-    [
-        "UA-51",
-        "Odessa Oblast"
-    ],
-    [
-        "UA-53",
-        "Poltavs'ka oblast"
-    ],
-    [
-        "UA-56",
-        "Rivnens'ka oblast"
-    ],
-    [
-        "UA-40",
-        "Sevastopol' city"
-    ],
-    [
-        "UA-59",
-        "Sums'ka oblast"
-    ],
-    [
-        "UA-61",
-        "Ternopil's'ka oblast"
-    ],
-    [
-        "UA-05",
-        "Vinnyts'ka oblast"
-    ],
-    [
-        "UA-07",
-        "Volyns'ka oblast"
-    ],
-    [
-        "UA-21",
-        "Zakarpats'ka oblast"
-    ],
-    [
-        "UA-23",
-        "Zaporiz'ka oblast"
-    ],
-    [
-        "UA-18",
-        "Zhytomyrs'ka oblast"
-    ],
-    [
-        "UA",
+        "Cherkas'ka oblast",
         "Ukraine"
     ],
     [
+        "UA-74",
+        "Chernihivs'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-77",
+        "Chernivets'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-43",
+        "Crimea",
+        "Ukraine"
+    ],
+    [
+        "UA-12",
+        "Dnipropetrovsk Oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-14",
+        "Donetsk Oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-26",
+        "Ivano-Frankivs'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-63",
+        "Kharkiv Oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-65",
+        "Khersons'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-68",
+        "Khmel'nyts'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-35",
+        "Kirovohrads'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-30",
+        "Kyiv city",
+        "Ukraine"
+    ],
+    [
+        "UA-32",
+        "Kyivs'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-09",
+        "Luhans'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-46",
+        "Lviv Oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-48",
+        "Mykolaivs'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-51",
+        "Odessa Oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-53",
+        "Poltavs'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-56",
+        "Rivnens'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-40",
+        "Sevastopol' city",
+        "Ukraine"
+    ],
+    [
+        "UA-59",
+        "Sums'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-61",
+        "Ternopil's'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-05",
+        "Vinnyts'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-07",
+        "Volyns'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-21",
+        "Zakarpats'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-23",
+        "Zaporiz'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA-18",
+        "Zhytomyrs'ka oblast",
+        "Ukraine"
+    ],
+    [
+        "UA",
+        "Ukraine",
+        ""
+    ],
+    [
         "AE-AZ",
-        "Abu Dhabi"
-    ],
-    [
-        "AE-AJ",
-        "Ajman"
-    ],
-    [
-        "AE-DU",
-        "Dubai"
-    ],
-    [
-        "AE-FU",
-        "Fujairah"
-    ],
-    [
-        "AE-RK",
-        "Ras al Khaimah"
-    ],
-    [
-        "AE-SH",
-        "Sharjah"
-    ],
-    [
-        "AE-UQ",
-        "Umm Al Quwain"
-    ],
-    [
-        "AE",
+        "Abu Dhabi",
         "United Arab Emirates"
     ],
     [
+        "AE-AJ",
+        "Ajman",
+        "United Arab Emirates"
+    ],
+    [
+        "AE-DU",
+        "Dubai",
+        "United Arab Emirates"
+    ],
+    [
+        "AE-FU",
+        "Fujairah",
+        "United Arab Emirates"
+    ],
+    [
+        "AE-RK",
+        "Ras al Khaimah",
+        "United Arab Emirates"
+    ],
+    [
+        "AE-SH",
+        "Sharjah",
+        "United Arab Emirates"
+    ],
+    [
+        "AE-UQ",
+        "Umm Al Quwain",
+        "United Arab Emirates"
+    ],
+    [
+        "AE",
+        "United Arab Emirates",
+        ""
+    ],
+    [
         "GB-ENG",
-        "England"
-    ],
-    [
-        "GB-NIR",
-        "Northern Ireland"
-    ],
-    [
-        "GB-SCT",
-        "Scotland"
-    ],
-    [
-        "GB-WLS",
-        "Wales"
-    ],
-    [
-        "GB",
+        "England",
         "United Kingdom"
     ],
     [
+        "GB-NIR",
+        "Northern Ireland",
+        "United Kingdom"
+    ],
+    [
+        "GB-SCT",
+        "Scotland",
+        "United Kingdom"
+    ],
+    [
+        "GB-WLS",
+        "Wales",
+        "United Kingdom"
+    ],
+    [
+        "GB",
+        "United Kingdom",
+        ""
+    ],
+    [
         "US-AL",
-        "Alabama"
-    ],
-    [
-        "US-AK",
-        "Alaska"
-    ],
-    [
-        "US-AZ",
-        "Arizona"
-    ],
-    [
-        "US-AR",
-        "Arkansas"
-    ],
-    [
-        "US-CA",
-        "California"
-    ],
-    [
-        "US-CO",
-        "Colorado"
-    ],
-    [
-        "US-CT",
-        "Connecticut"
-    ],
-    [
-        "US-DE",
-        "Delaware"
-    ],
-    [
-        "US-DC",
-        "District of Columbia"
-    ],
-    [
-        "US-FL",
-        "Florida"
-    ],
-    [
-        "US-GA",
-        "Georgia"
-    ],
-    [
-        "US-HI",
-        "Hawaii"
-    ],
-    [
-        "US-ID",
-        "Idaho"
-    ],
-    [
-        "US-IL",
-        "Illinois"
-    ],
-    [
-        "US-IN",
-        "Indiana"
-    ],
-    [
-        "US-IA",
-        "Iowa"
-    ],
-    [
-        "US-KS",
-        "Kansas"
-    ],
-    [
-        "US-KY",
-        "Kentucky"
-    ],
-    [
-        "US-LA",
-        "Louisiana"
-    ],
-    [
-        "US-ME",
-        "Maine"
-    ],
-    [
-        "US-MD",
-        "Maryland"
-    ],
-    [
-        "US-MA",
-        "Massachusetts"
-    ],
-    [
-        "US-MI",
-        "Michigan"
-    ],
-    [
-        "US-MN",
-        "Minnesota"
-    ],
-    [
-        "US-MS",
-        "Mississippi"
-    ],
-    [
-        "US-MO",
-        "Missouri"
-    ],
-    [
-        "US-MT",
-        "Montana"
-    ],
-    [
-        "US-NE",
-        "Nebraska"
-    ],
-    [
-        "US-NV",
-        "Nevada"
-    ],
-    [
-        "US-NH",
-        "New Hampshire"
-    ],
-    [
-        "US-NJ",
-        "New Jersey"
-    ],
-    [
-        "US-NM",
-        "New Mexico"
-    ],
-    [
-        "US-NY",
-        "New York"
-    ],
-    [
-        "US-NC",
-        "North Carolina"
-    ],
-    [
-        "US-ND",
-        "North Dakota"
-    ],
-    [
-        "US-OH",
-        "Ohio"
-    ],
-    [
-        "US-OK",
-        "Oklahoma"
-    ],
-    [
-        "US-OR",
-        "Oregon"
-    ],
-    [
-        "US-PA",
-        "Pennsylvania"
-    ],
-    [
-        "US-RI",
-        "Rhode Island"
-    ],
-    [
-        "US-SC",
-        "South Carolina"
-    ],
-    [
-        "US-SD",
-        "South Dakota"
-    ],
-    [
-        "US-TN",
-        "Tennessee"
-    ],
-    [
-        "US-TX",
-        "Texas"
-    ],
-    [
-        "US-UT",
-        "Utah"
-    ],
-    [
-        "US-VT",
-        "Vermont"
-    ],
-    [
-        "US-VA",
-        "Virginia"
-    ],
-    [
-        "US-WA",
-        "Washington"
-    ],
-    [
-        "US-WV",
-        "West Virginia"
-    ],
-    [
-        "US-WI",
-        "Wisconsin"
-    ],
-    [
-        "US-WY",
-        "Wyoming"
-    ],
-    [
-        "662",
-        "Abilene-Sweetwater TX"
-    ],
-    [
-        "525",
-        "Albany GA"
-    ],
-    [
-        "532",
-        "Albany-Schenectady-Troy NY"
-    ],
-    [
-        "790",
-        "Albuquerque-Santa Fe NM"
-    ],
-    [
-        "644",
-        "Alexandria LA"
-    ],
-    [
-        "583",
-        "Alpena MI"
-    ],
-    [
-        "634",
-        "Amarillo TX"
-    ],
-    [
-        "743",
-        "Anchorage AK"
-    ],
-    [
-        "524",
-        "Atlanta GA"
-    ],
-    [
-        "520",
-        "Augusta GA"
-    ],
-    [
-        "635",
-        "Austin TX"
-    ],
-    [
-        "800",
-        "Bakersfield CA"
-    ],
-    [
-        "512",
-        "Baltimore MD"
-    ],
-    [
-        "537",
-        "Bangor ME"
-    ],
-    [
-        "716",
-        "Baton Rouge LA"
-    ],
-    [
-        "692",
-        "Beaumont-Port Arthur TX"
-    ],
-    [
-        "821",
-        "Bend OR"
-    ],
-    [
-        "756",
-        "Billings, MT"
-    ],
-    [
-        "746",
-        "Biloxi-Gulfport MS"
-    ],
-    [
-        "502",
-        "Binghamton NY"
-    ],
-    [
-        "630",
-        "Birmingham AL"
-    ],
-    [
-        "559",
-        "Bluefield-Beckley-Oak Hill WV"
-    ],
-    [
-        "757",
-        "Boise ID"
-    ],
-    [
-        "506",
-        "Boston MA-Manchester NH"
-    ],
-    [
-        "736",
-        "Bowling Green KY"
-    ],
-    [
-        "514",
-        "Buffalo NY"
-    ],
-    [
-        "523",
-        "Burlington VT-Plattsburgh NY"
-    ],
-    [
-        "754",
-        "Butte-Bozeman MT"
-    ],
-    [
-        "767",
-        "Casper-Riverton WY"
-    ],
-    [
-        "637",
-        "Cedar Rapids-Waterloo-Iowa City & Dubuque IA"
-    ],
-    [
-        "648",
-        "Champaign & Springfield-Decatur IL"
-    ],
-    [
-        "519",
-        "Charleston SC"
-    ],
-    [
-        "564",
-        "Charleston-Huntington WV"
-    ],
-    [
-        "517",
-        "Charlotte NC"
-    ],
-    [
-        "584",
-        "Charlottesville VA"
-    ],
-    [
-        "575",
-        "Chattanooga TN"
-    ],
-    [
-        "759",
-        "Cheyenne WY-Scottsbluff NE"
-    ],
-    [
-        "602",
-        "Chicago IL"
-    ],
-    [
-        "868",
-        "Chico-Redding CA"
-    ],
-    [
-        "515",
-        "Cincinnati OH"
-    ],
-    [
-        "598",
-        "Clarksburg-Weston WV"
-    ],
-    [
-        "510",
-        "Cleveland-Akron (Canton) OH"
-    ],
-    [
-        "752",
-        "Colorado Springs-Pueblo CO"
-    ],
-    [
-        "546",
-        "Columbia SC"
-    ],
-    [
-        "604",
-        "Columbia-Jefferson City MO"
-    ],
-    [
-        "522",
-        "Columbus GA"
-    ],
-    [
-        "535",
-        "Columbus OH"
-    ],
-    [
-        "673",
-        "Columbus-Tupelo-West Point MS"
-    ],
-    [
-        "600",
-        "Corpus Christi TX"
-    ],
-    [
-        "623",
-        "Dallas-Ft. Worth TX"
-    ],
-    [
-        "682",
-        "Davenport IA-Rock Island-Moline IL"
-    ],
-    [
-        "542",
-        "Dayton OH"
-    ],
-    [
-        "751",
-        "Denver CO"
-    ],
-    [
-        "679",
-        "Des Moines-Ames IA"
-    ],
-    [
-        "505",
-        "Detroit MI"
-    ],
-    [
-        "606",
-        "Dothan AL"
-    ],
-    [
-        "676",
-        "Duluth MN-Superior WI"
-    ],
-    [
-        "765",
-        "El Paso TX"
-    ],
-    [
-        "565",
-        "Elmira NY"
-    ],
-    [
-        "516",
-        "Erie PA"
-    ],
-    [
-        "801",
-        "Eugene OR"
-    ],
-    [
-        "802",
-        "Eureka CA"
-    ],
-    [
-        "649",
-        "Evansville IN"
-    ],
-    [
-        "745",
-        "Fairbanks AK"
-    ],
-    [
-        "724",
-        "Fargo-Valley City ND"
-    ],
-    [
-        "513",
-        "Flint-Saginaw-Bay City MI"
-    ],
-    [
-        "570",
-        "Florence-Myrtle Beach SC"
-    ],
-    [
-        "866",
-        "Fresno-Visalia CA"
-    ],
-    [
-        "571",
-        "Ft. Myers-Naples FL"
-    ],
-    [
-        "670",
-        "Ft. Smith-Fayetteville-Springdale-Rogers AR"
-    ],
-    [
-        "509",
-        "Ft. Wayne IN"
-    ],
-    [
-        "592",
-        "Gainesville FL"
-    ],
-    [
-        "798",
-        "Glendive MT"
-    ],
-    [
-        "773",
-        "Grand Junction-Montrose CO"
-    ],
-    [
-        "563",
-        "Grand Rapids-Kalamazoo-Battle Creek MI"
-    ],
-    [
-        "755",
-        "Great Falls MT"
-    ],
-    [
-        "658",
-        "Green Bay-Appleton WI"
-    ],
-    [
-        "518",
-        "Greensboro-High Point-Winston Salem NC"
-    ],
-    [
-        "545",
-        "Greenville-New Bern-Washington NC"
-    ],
-    [
-        "567",
-        "Greenville-Spartanburg SC-Asheville NC-Anderson SC"
-    ],
-    [
-        "647",
-        "Greenwood-Greenville MS"
-    ],
-    [
-        "636",
-        "Harlingen-Weslaco-Brownsville-McAllen TX"
-    ],
-    [
-        "566",
-        "Harrisburg-Lancaster-Lebanon-York PA"
-    ],
-    [
-        "569",
-        "Harrisonburg VA"
-    ],
-    [
-        "533",
-        "Hartford & New Haven CT"
-    ],
-    [
-        "710",
-        "Hattiesburg-Laurel MS"
-    ],
-    [
-        "766",
-        "Helena MT"
-    ],
-    [
-        "744",
-        "Honolulu HI"
-    ],
-    [
-        "618",
-        "Houston TX"
-    ],
-    [
-        "691",
-        "Huntsville-Decatur (Florence) AL"
-    ],
-    [
-        "758",
-        "Idaho Falls-Pocatello ID"
-    ],
-    [
-        "527",
-        "Indianapolis IN"
-    ],
-    [
-        "718",
-        "Jackson MS"
-    ],
-    [
-        "639",
-        "Jackson TN"
-    ],
-    [
-        "561",
-        "Jacksonville FL"
-    ],
-    [
-        "574",
-        "Johnstown-Altoona PA"
-    ],
-    [
-        "734",
-        "Jonesboro AR"
-    ],
-    [
-        "603",
-        "Joplin MO-Pittsburg KS"
-    ],
-    [
-        "747",
-        "Juneau AK"
-    ],
-    [
-        "616",
-        "Kansas City MO"
-    ],
-    [
-        "557",
-        "Knoxville TN"
-    ],
-    [
-        "702",
-        "La Crosse-Eau Claire WI"
-    ],
-    [
-        "582",
-        "Lafayette IN"
-    ],
-    [
-        "642",
-        "Lafayette LA"
-    ],
-    [
-        "643",
-        "Lake Charles LA"
-    ],
-    [
-        "551",
-        "Lansing MI"
-    ],
-    [
-        "749",
-        "Laredo TX"
-    ],
-    [
-        "839",
-        "Las Vegas NV"
-    ],
-    [
-        "541",
-        "Lexington KY"
-    ],
-    [
-        "558",
-        "Lima OH"
-    ],
-    [
-        "722",
-        "Lincoln & Hastings-Kearney NE"
-    ],
-    [
-        "693",
-        "Little Rock-Pine Bluff AR"
-    ],
-    [
-        "803",
-        "Los Angeles CA"
-    ],
-    [
-        "529",
-        "Louisville KY"
-    ],
-    [
-        "651",
-        "Lubbock TX"
-    ],
-    [
-        "503",
-        "Macon GA"
-    ],
-    [
-        "669",
-        "Madison WI"
-    ],
-    [
-        "737",
-        "Mankato MN"
-    ],
-    [
-        "553",
-        "Marquette MI"
-    ],
-    [
-        "813",
-        "Medford-Klamath Falls OR"
-    ],
-    [
-        "640",
-        "Memphis TN"
-    ],
-    [
-        "711",
-        "Meridian MS"
-    ],
-    [
-        "528",
-        "Miami-Ft. Lauderdale FL"
-    ],
-    [
-        "617",
-        "Milwaukee WI"
-    ],
-    [
-        "613",
-        "Minneapolis-St. Paul MN"
-    ],
-    [
-        "687",
-        "Minot-Bismarck-Dickinson(Williston) ND"
-    ],
-    [
-        "762",
-        "Missoula MT"
-    ],
-    [
-        "686",
-        "Mobile AL-Pensacola (Ft. Walton Beach) FL"
-    ],
-    [
-        "628",
-        "Monroe LA-El Dorado AR"
-    ],
-    [
-        "828",
-        "Monterey-Salinas CA"
-    ],
-    [
-        "698",
-        "Montgomery (Selma) AL"
-    ],
-    [
-        "659",
-        "Nashville TN"
-    ],
-    [
-        "622",
-        "New Orleans LA"
-    ],
-    [
-        "501",
-        "New York NY"
-    ],
-    [
-        "544",
-        "Norfolk-Portsmouth-Newport News VA"
-    ],
-    [
-        "740",
-        "North Platte NE"
-    ],
-    [
-        "633",
-        "Odessa-Midland TX"
-    ],
-    [
-        "650",
-        "Oklahoma City OK"
-    ],
-    [
-        "652",
-        "Omaha NE"
-    ],
-    [
-        "534",
-        "Orlando-Daytona Beach-Melbourne FL"
-    ],
-    [
-        "631",
-        "Ottumwa IA-Kirksville MO"
-    ],
-    [
-        "632",
-        "Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL"
-    ],
-    [
-        "804",
-        "Palm Springs CA"
-    ],
-    [
-        "656",
-        "Panama City FL"
-    ],
-    [
-        "597",
-        "Parkersburg WV"
-    ],
-    [
-        "675",
-        "Peoria-Bloomington IL"
-    ],
-    [
-        "504",
-        "Philadelphia PA"
-    ],
-    [
-        "753",
-        "Phoenix AZ"
-    ],
-    [
-        "508",
-        "Pittsburgh PA"
-    ],
-    [
-        "820",
-        "Portland OR"
-    ],
-    [
-        "500",
-        "Portland-Auburn ME"
-    ],
-    [
-        "552",
-        "Presque Isle ME"
-    ],
-    [
-        "521",
-        "Providence RI-New Bedford MA"
-    ],
-    [
-        "717",
-        "Quincy IL-Hannibal MO-Keokuk IA"
-    ],
-    [
-        "560",
-        "Raleigh-Durham (Fayetteville) NC"
-    ],
-    [
-        "764",
-        "Rapid City SD"
-    ],
-    [
-        "811",
-        "Reno NV"
-    ],
-    [
-        "556",
-        "Richmond-Petersburg VA"
-    ],
-    [
-        "573",
-        "Roanoke-Lynchburg VA"
-    ],
-    [
-        "611",
-        "Rochester MN-Mason City IA-Austin MN"
-    ],
-    [
-        "538",
-        "Rochester NY"
-    ],
-    [
-        "610",
-        "Rockford IL"
-    ],
-    [
-        "862",
-        "Sacramento-Stockton-Modesto CA"
-    ],
-    [
-        "576",
-        "Salisbury MD"
-    ],
-    [
-        "770",
-        "Salt Lake City UT"
-    ],
-    [
-        "661",
-        "San Angelo TX"
-    ],
-    [
-        "641",
-        "San Antonio TX"
-    ],
-    [
-        "825",
-        "San Diego CA"
-    ],
-    [
-        "807",
-        "San Francisco-Oakland-San Jose CA"
-    ],
-    [
-        "855",
-        "Santa Barbara-Santa Maria-San Luis Obispo CA"
-    ],
-    [
-        "507",
-        "Savannah GA"
-    ],
-    [
-        "819",
-        "Seattle-Tacoma WA"
-    ],
-    [
-        "657",
-        "Sherman TX-Ada OK"
-    ],
-    [
-        "612",
-        "Shreveport LA"
-    ],
-    [
-        "624",
-        "Sioux City IA"
-    ],
-    [
-        "725",
-        "Sioux Falls(Mitchell) SD"
-    ],
-    [
-        "588",
-        "South Bend-Elkhart IN"
-    ],
-    [
-        "881",
-        "Spokane WA"
-    ],
-    [
-        "619",
-        "Springfield MO"
-    ],
-    [
-        "543",
-        "Springfield-Holyoke MA"
-    ],
-    [
-        "638",
-        "St. Joseph MO"
-    ],
-    [
-        "609",
-        "St. Louis MO"
-    ],
-    [
-        "555",
-        "Syracuse NY"
-    ],
-    [
-        "530",
-        "Tallahassee FL-Thomasville GA"
-    ],
-    [
-        "539",
-        "Tampa-St. Petersburg (Sarasota) FL"
-    ],
-    [
-        "581",
-        "Terre Haute IN"
-    ],
-    [
-        "547",
-        "Toledo OH"
-    ],
-    [
-        "605",
-        "Topeka KS"
-    ],
-    [
-        "540",
-        "Traverse City-Cadillac MI"
-    ],
-    [
-        "531",
-        "Tri-Cities TN-VA"
-    ],
-    [
-        "789",
-        "Tucson (Sierra Vista) AZ"
-    ],
-    [
-        "671",
-        "Tulsa OK"
-    ],
-    [
-        "760",
-        "Twin Falls ID"
-    ],
-    [
-        "709",
-        "Tyler-Longview(Lufkin & Nacogdoches) TX"
-    ],
-    [
-        "526",
-        "Utica NY"
-    ],
-    [
-        "626",
-        "Victoria TX"
-    ],
-    [
-        "625",
-        "Waco-Temple-Bryan TX"
-    ],
-    [
-        "511",
-        "Washington DC (Hagerstown MD)"
-    ],
-    [
-        "549",
-        "Watertown NY"
-    ],
-    [
-        "705",
-        "Wausau-Rhinelander WI"
-    ],
-    [
-        "548",
-        "West Palm Beach-Ft. Pierce FL"
-    ],
-    [
-        "554",
-        "Wheeling WV-Steubenville OH"
-    ],
-    [
-        "627",
-        "Wichita Falls TX & Lawton OK"
-    ],
-    [
-        "678",
-        "Wichita-Hutchinson KS"
-    ],
-    [
-        "577",
-        "Wilkes Barre-Scranton PA"
-    ],
-    [
-        "550",
-        "Wilmington NC"
-    ],
-    [
-        "810",
-        "Yakima-Pasco-Richland-Kennewick WA"
-    ],
-    [
-        "536",
-        "Youngstown OH"
-    ],
-    [
-        "771",
-        "Yuma AZ-El Centro CA"
-    ],
-    [
-        "596",
-        "Zanesville OH"
-    ],
-    [
-        "US",
+        "Alabama",
         "United States"
     ],
     [
+        "US-AK",
+        "Alaska",
+        "United States"
+    ],
+    [
+        "US-AZ",
+        "Arizona",
+        "United States"
+    ],
+    [
+        "US-AR",
+        "Arkansas",
+        "United States"
+    ],
+    [
+        "US-CA",
+        "California",
+        "United States"
+    ],
+    [
+        "US-CO",
+        "Colorado",
+        "United States"
+    ],
+    [
+        "US-CT",
+        "Connecticut",
+        "United States"
+    ],
+    [
+        "US-DE",
+        "Delaware",
+        "United States"
+    ],
+    [
+        "US-DC",
+        "District of Columbia",
+        "United States"
+    ],
+    [
+        "US-FL",
+        "Florida",
+        "United States"
+    ],
+    [
+        "US-GA",
+        "Georgia",
+        "United States"
+    ],
+    [
+        "US-HI",
+        "Hawaii",
+        "United States"
+    ],
+    [
+        "US-ID",
+        "Idaho",
+        "United States"
+    ],
+    [
+        "US-IL",
+        "Illinois",
+        "United States"
+    ],
+    [
+        "US-IN",
+        "Indiana",
+        "United States"
+    ],
+    [
+        "US-IA",
+        "Iowa",
+        "United States"
+    ],
+    [
+        "US-KS",
+        "Kansas",
+        "United States"
+    ],
+    [
+        "US-KY",
+        "Kentucky",
+        "United States"
+    ],
+    [
+        "US-LA",
+        "Louisiana",
+        "United States"
+    ],
+    [
+        "US-ME",
+        "Maine",
+        "United States"
+    ],
+    [
+        "US-MD",
+        "Maryland",
+        "United States"
+    ],
+    [
+        "US-MA",
+        "Massachusetts",
+        "United States"
+    ],
+    [
+        "US-MI",
+        "Michigan",
+        "United States"
+    ],
+    [
+        "US-MN",
+        "Minnesota",
+        "United States"
+    ],
+    [
+        "US-MS",
+        "Mississippi",
+        "United States"
+    ],
+    [
+        "US-MO",
+        "Missouri",
+        "United States"
+    ],
+    [
+        "US-MT",
+        "Montana",
+        "United States"
+    ],
+    [
+        "US-NE",
+        "Nebraska",
+        "United States"
+    ],
+    [
+        "US-NV",
+        "Nevada",
+        "United States"
+    ],
+    [
+        "US-NH",
+        "New Hampshire",
+        "United States"
+    ],
+    [
+        "US-NJ",
+        "New Jersey",
+        "United States"
+    ],
+    [
+        "US-NM",
+        "New Mexico",
+        "United States"
+    ],
+    [
+        "US-NY",
+        "New York",
+        "United States"
+    ],
+    [
+        "US-NC",
+        "North Carolina",
+        "United States"
+    ],
+    [
+        "US-ND",
+        "North Dakota",
+        "United States"
+    ],
+    [
+        "US-OH",
+        "Ohio",
+        "United States"
+    ],
+    [
+        "US-OK",
+        "Oklahoma",
+        "United States"
+    ],
+    [
+        "US-OR",
+        "Oregon",
+        "United States"
+    ],
+    [
+        "US-PA",
+        "Pennsylvania",
+        "United States"
+    ],
+    [
+        "US-RI",
+        "Rhode Island",
+        "United States"
+    ],
+    [
+        "US-SC",
+        "South Carolina",
+        "United States"
+    ],
+    [
+        "US-SD",
+        "South Dakota",
+        "United States"
+    ],
+    [
+        "US-TN",
+        "Tennessee",
+        "United States"
+    ],
+    [
+        "US-TX",
+        "Texas",
+        "United States"
+    ],
+    [
+        "US-UT",
+        "Utah",
+        "United States"
+    ],
+    [
+        "US-VT",
+        "Vermont",
+        "United States"
+    ],
+    [
+        "US-VA",
+        "Virginia",
+        "United States"
+    ],
+    [
+        "US-WA",
+        "Washington",
+        "United States"
+    ],
+    [
+        "US-WV",
+        "West Virginia",
+        "United States"
+    ],
+    [
+        "US-WI",
+        "Wisconsin",
+        "United States"
+    ],
+    [
+        "US-WY",
+        "Wyoming",
+        "United States"
+    ],
+    [
+        "662",
+        "Abilene-Sweetwater TX",
+        ""
+    ],
+    [
+        "525",
+        "Albany GA",
+        ""
+    ],
+    [
+        "532",
+        "Albany-Schenectady-Troy NY",
+        ""
+    ],
+    [
+        "790",
+        "Albuquerque-Santa Fe NM",
+        ""
+    ],
+    [
+        "644",
+        "Alexandria LA",
+        ""
+    ],
+    [
+        "583",
+        "Alpena MI",
+        ""
+    ],
+    [
+        "634",
+        "Amarillo TX",
+        ""
+    ],
+    [
+        "743",
+        "Anchorage AK",
+        ""
+    ],
+    [
+        "524",
+        "Atlanta GA",
+        ""
+    ],
+    [
+        "520",
+        "Augusta GA",
+        ""
+    ],
+    [
+        "635",
+        "Austin TX",
+        ""
+    ],
+    [
+        "800",
+        "Bakersfield CA",
+        ""
+    ],
+    [
+        "512",
+        "Baltimore MD",
+        ""
+    ],
+    [
+        "537",
+        "Bangor ME",
+        ""
+    ],
+    [
+        "716",
+        "Baton Rouge LA",
+        ""
+    ],
+    [
+        "692",
+        "Beaumont-Port Arthur TX",
+        ""
+    ],
+    [
+        "821",
+        "Bend OR",
+        ""
+    ],
+    [
+        "756",
+        "Billings, MT",
+        ""
+    ],
+    [
+        "746",
+        "Biloxi-Gulfport MS",
+        ""
+    ],
+    [
+        "502",
+        "Binghamton NY",
+        ""
+    ],
+    [
+        "630",
+        "Birmingham AL",
+        ""
+    ],
+    [
+        "559",
+        "Bluefield-Beckley-Oak Hill WV",
+        ""
+    ],
+    [
+        "757",
+        "Boise ID",
+        ""
+    ],
+    [
+        "506",
+        "Boston MA-Manchester NH",
+        ""
+    ],
+    [
+        "736",
+        "Bowling Green KY",
+        ""
+    ],
+    [
+        "514",
+        "Buffalo NY",
+        ""
+    ],
+    [
+        "523",
+        "Burlington VT-Plattsburgh NY",
+        ""
+    ],
+    [
+        "754",
+        "Butte-Bozeman MT",
+        ""
+    ],
+    [
+        "767",
+        "Casper-Riverton WY",
+        ""
+    ],
+    [
+        "637",
+        "Cedar Rapids-Waterloo-Iowa City & Dubuque IA",
+        ""
+    ],
+    [
+        "648",
+        "Champaign & Springfield-Decatur IL",
+        ""
+    ],
+    [
+        "519",
+        "Charleston SC",
+        ""
+    ],
+    [
+        "564",
+        "Charleston-Huntington WV",
+        ""
+    ],
+    [
+        "517",
+        "Charlotte NC",
+        ""
+    ],
+    [
+        "584",
+        "Charlottesville VA",
+        ""
+    ],
+    [
+        "575",
+        "Chattanooga TN",
+        ""
+    ],
+    [
+        "759",
+        "Cheyenne WY-Scottsbluff NE",
+        ""
+    ],
+    [
+        "602",
+        "Chicago IL",
+        ""
+    ],
+    [
+        "868",
+        "Chico-Redding CA",
+        ""
+    ],
+    [
+        "515",
+        "Cincinnati OH",
+        ""
+    ],
+    [
+        "598",
+        "Clarksburg-Weston WV",
+        ""
+    ],
+    [
+        "510",
+        "Cleveland-Akron (Canton) OH",
+        ""
+    ],
+    [
+        "752",
+        "Colorado Springs-Pueblo CO",
+        ""
+    ],
+    [
+        "546",
+        "Columbia SC",
+        ""
+    ],
+    [
+        "604",
+        "Columbia-Jefferson City MO",
+        ""
+    ],
+    [
+        "522",
+        "Columbus GA",
+        ""
+    ],
+    [
+        "535",
+        "Columbus OH",
+        ""
+    ],
+    [
+        "673",
+        "Columbus-Tupelo-West Point MS",
+        ""
+    ],
+    [
+        "600",
+        "Corpus Christi TX",
+        ""
+    ],
+    [
+        "623",
+        "Dallas-Ft. Worth TX",
+        ""
+    ],
+    [
+        "682",
+        "Davenport IA-Rock Island-Moline IL",
+        ""
+    ],
+    [
+        "542",
+        "Dayton OH",
+        ""
+    ],
+    [
+        "751",
+        "Denver CO",
+        ""
+    ],
+    [
+        "679",
+        "Des Moines-Ames IA",
+        ""
+    ],
+    [
+        "505",
+        "Detroit MI",
+        ""
+    ],
+    [
+        "606",
+        "Dothan AL",
+        ""
+    ],
+    [
+        "676",
+        "Duluth MN-Superior WI",
+        ""
+    ],
+    [
+        "765",
+        "El Paso TX",
+        ""
+    ],
+    [
+        "565",
+        "Elmira NY",
+        ""
+    ],
+    [
+        "516",
+        "Erie PA",
+        ""
+    ],
+    [
+        "801",
+        "Eugene OR",
+        ""
+    ],
+    [
+        "802",
+        "Eureka CA",
+        ""
+    ],
+    [
+        "649",
+        "Evansville IN",
+        ""
+    ],
+    [
+        "745",
+        "Fairbanks AK",
+        ""
+    ],
+    [
+        "724",
+        "Fargo-Valley City ND",
+        ""
+    ],
+    [
+        "513",
+        "Flint-Saginaw-Bay City MI",
+        ""
+    ],
+    [
+        "570",
+        "Florence-Myrtle Beach SC",
+        ""
+    ],
+    [
+        "866",
+        "Fresno-Visalia CA",
+        ""
+    ],
+    [
+        "571",
+        "Ft. Myers-Naples FL",
+        ""
+    ],
+    [
+        "670",
+        "Ft. Smith-Fayetteville-Springdale-Rogers AR",
+        ""
+    ],
+    [
+        "509",
+        "Ft. Wayne IN",
+        ""
+    ],
+    [
+        "592",
+        "Gainesville FL",
+        ""
+    ],
+    [
+        "798",
+        "Glendive MT",
+        ""
+    ],
+    [
+        "773",
+        "Grand Junction-Montrose CO",
+        ""
+    ],
+    [
+        "563",
+        "Grand Rapids-Kalamazoo-Battle Creek MI",
+        ""
+    ],
+    [
+        "755",
+        "Great Falls MT",
+        ""
+    ],
+    [
+        "658",
+        "Green Bay-Appleton WI",
+        ""
+    ],
+    [
+        "518",
+        "Greensboro-High Point-Winston Salem NC",
+        ""
+    ],
+    [
+        "545",
+        "Greenville-New Bern-Washington NC",
+        ""
+    ],
+    [
+        "567",
+        "Greenville-Spartanburg SC-Asheville NC-Anderson SC",
+        ""
+    ],
+    [
+        "647",
+        "Greenwood-Greenville MS",
+        ""
+    ],
+    [
+        "636",
+        "Harlingen-Weslaco-Brownsville-McAllen TX",
+        ""
+    ],
+    [
+        "566",
+        "Harrisburg-Lancaster-Lebanon-York PA",
+        ""
+    ],
+    [
+        "569",
+        "Harrisonburg VA",
+        ""
+    ],
+    [
+        "533",
+        "Hartford & New Haven CT",
+        ""
+    ],
+    [
+        "710",
+        "Hattiesburg-Laurel MS",
+        ""
+    ],
+    [
+        "766",
+        "Helena MT",
+        ""
+    ],
+    [
+        "744",
+        "Honolulu HI",
+        ""
+    ],
+    [
+        "618",
+        "Houston TX",
+        ""
+    ],
+    [
+        "691",
+        "Huntsville-Decatur (Florence) AL",
+        ""
+    ],
+    [
+        "758",
+        "Idaho Falls-Pocatello ID",
+        ""
+    ],
+    [
+        "527",
+        "Indianapolis IN",
+        ""
+    ],
+    [
+        "718",
+        "Jackson MS",
+        ""
+    ],
+    [
+        "639",
+        "Jackson TN",
+        ""
+    ],
+    [
+        "561",
+        "Jacksonville FL",
+        ""
+    ],
+    [
+        "574",
+        "Johnstown-Altoona PA",
+        ""
+    ],
+    [
+        "734",
+        "Jonesboro AR",
+        ""
+    ],
+    [
+        "603",
+        "Joplin MO-Pittsburg KS",
+        ""
+    ],
+    [
+        "747",
+        "Juneau AK",
+        ""
+    ],
+    [
+        "616",
+        "Kansas City MO",
+        ""
+    ],
+    [
+        "557",
+        "Knoxville TN",
+        ""
+    ],
+    [
+        "702",
+        "La Crosse-Eau Claire WI",
+        ""
+    ],
+    [
+        "582",
+        "Lafayette IN",
+        ""
+    ],
+    [
+        "642",
+        "Lafayette LA",
+        ""
+    ],
+    [
+        "643",
+        "Lake Charles LA",
+        ""
+    ],
+    [
+        "551",
+        "Lansing MI",
+        ""
+    ],
+    [
+        "749",
+        "Laredo TX",
+        ""
+    ],
+    [
+        "839",
+        "Las Vegas NV",
+        ""
+    ],
+    [
+        "541",
+        "Lexington KY",
+        ""
+    ],
+    [
+        "558",
+        "Lima OH",
+        ""
+    ],
+    [
+        "722",
+        "Lincoln & Hastings-Kearney NE",
+        ""
+    ],
+    [
+        "693",
+        "Little Rock-Pine Bluff AR",
+        ""
+    ],
+    [
+        "803",
+        "Los Angeles CA",
+        ""
+    ],
+    [
+        "529",
+        "Louisville KY",
+        ""
+    ],
+    [
+        "651",
+        "Lubbock TX",
+        ""
+    ],
+    [
+        "503",
+        "Macon GA",
+        ""
+    ],
+    [
+        "669",
+        "Madison WI",
+        ""
+    ],
+    [
+        "737",
+        "Mankato MN",
+        ""
+    ],
+    [
+        "553",
+        "Marquette MI",
+        ""
+    ],
+    [
+        "813",
+        "Medford-Klamath Falls OR",
+        ""
+    ],
+    [
+        "640",
+        "Memphis TN",
+        ""
+    ],
+    [
+        "711",
+        "Meridian MS",
+        ""
+    ],
+    [
+        "528",
+        "Miami-Ft. Lauderdale FL",
+        ""
+    ],
+    [
+        "617",
+        "Milwaukee WI",
+        ""
+    ],
+    [
+        "613",
+        "Minneapolis-St. Paul MN",
+        ""
+    ],
+    [
+        "687",
+        "Minot-Bismarck-Dickinson(Williston) ND",
+        ""
+    ],
+    [
+        "762",
+        "Missoula MT",
+        ""
+    ],
+    [
+        "686",
+        "Mobile AL-Pensacola (Ft. Walton Beach) FL",
+        ""
+    ],
+    [
+        "628",
+        "Monroe LA-El Dorado AR",
+        ""
+    ],
+    [
+        "828",
+        "Monterey-Salinas CA",
+        ""
+    ],
+    [
+        "698",
+        "Montgomery (Selma) AL",
+        ""
+    ],
+    [
+        "659",
+        "Nashville TN",
+        ""
+    ],
+    [
+        "622",
+        "New Orleans LA",
+        ""
+    ],
+    [
+        "501",
+        "New York NY",
+        ""
+    ],
+    [
+        "544",
+        "Norfolk-Portsmouth-Newport News VA",
+        ""
+    ],
+    [
+        "740",
+        "North Platte NE",
+        ""
+    ],
+    [
+        "633",
+        "Odessa-Midland TX",
+        ""
+    ],
+    [
+        "650",
+        "Oklahoma City OK",
+        ""
+    ],
+    [
+        "652",
+        "Omaha NE",
+        ""
+    ],
+    [
+        "534",
+        "Orlando-Daytona Beach-Melbourne FL",
+        ""
+    ],
+    [
+        "631",
+        "Ottumwa IA-Kirksville MO",
+        ""
+    ],
+    [
+        "632",
+        "Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL",
+        ""
+    ],
+    [
+        "804",
+        "Palm Springs CA",
+        ""
+    ],
+    [
+        "656",
+        "Panama City FL",
+        ""
+    ],
+    [
+        "597",
+        "Parkersburg WV",
+        ""
+    ],
+    [
+        "675",
+        "Peoria-Bloomington IL",
+        ""
+    ],
+    [
+        "504",
+        "Philadelphia PA",
+        ""
+    ],
+    [
+        "753",
+        "Phoenix AZ",
+        ""
+    ],
+    [
+        "508",
+        "Pittsburgh PA",
+        ""
+    ],
+    [
+        "820",
+        "Portland OR",
+        ""
+    ],
+    [
+        "500",
+        "Portland-Auburn ME",
+        ""
+    ],
+    [
+        "552",
+        "Presque Isle ME",
+        ""
+    ],
+    [
+        "521",
+        "Providence RI-New Bedford MA",
+        ""
+    ],
+    [
+        "717",
+        "Quincy IL-Hannibal MO-Keokuk IA",
+        ""
+    ],
+    [
+        "560",
+        "Raleigh-Durham (Fayetteville) NC",
+        ""
+    ],
+    [
+        "764",
+        "Rapid City SD",
+        ""
+    ],
+    [
+        "811",
+        "Reno NV",
+        ""
+    ],
+    [
+        "556",
+        "Richmond-Petersburg VA",
+        ""
+    ],
+    [
+        "573",
+        "Roanoke-Lynchburg VA",
+        ""
+    ],
+    [
+        "611",
+        "Rochester MN-Mason City IA-Austin MN",
+        ""
+    ],
+    [
+        "538",
+        "Rochester NY",
+        ""
+    ],
+    [
+        "610",
+        "Rockford IL",
+        ""
+    ],
+    [
+        "862",
+        "Sacramento-Stockton-Modesto CA",
+        ""
+    ],
+    [
+        "576",
+        "Salisbury MD",
+        ""
+    ],
+    [
+        "770",
+        "Salt Lake City UT",
+        ""
+    ],
+    [
+        "661",
+        "San Angelo TX",
+        ""
+    ],
+    [
+        "641",
+        "San Antonio TX",
+        ""
+    ],
+    [
+        "825",
+        "San Diego CA",
+        ""
+    ],
+    [
+        "807",
+        "San Francisco-Oakland-San Jose CA",
+        ""
+    ],
+    [
+        "855",
+        "Santa Barbara-Santa Maria-San Luis Obispo CA",
+        ""
+    ],
+    [
+        "507",
+        "Savannah GA",
+        ""
+    ],
+    [
+        "819",
+        "Seattle-Tacoma WA",
+        ""
+    ],
+    [
+        "657",
+        "Sherman TX-Ada OK",
+        ""
+    ],
+    [
+        "612",
+        "Shreveport LA",
+        ""
+    ],
+    [
+        "624",
+        "Sioux City IA",
+        ""
+    ],
+    [
+        "725",
+        "Sioux Falls(Mitchell) SD",
+        ""
+    ],
+    [
+        "588",
+        "South Bend-Elkhart IN",
+        ""
+    ],
+    [
+        "881",
+        "Spokane WA",
+        ""
+    ],
+    [
+        "619",
+        "Springfield MO",
+        ""
+    ],
+    [
+        "543",
+        "Springfield-Holyoke MA",
+        ""
+    ],
+    [
+        "638",
+        "St. Joseph MO",
+        ""
+    ],
+    [
+        "609",
+        "St. Louis MO",
+        ""
+    ],
+    [
+        "555",
+        "Syracuse NY",
+        ""
+    ],
+    [
+        "530",
+        "Tallahassee FL-Thomasville GA",
+        ""
+    ],
+    [
+        "539",
+        "Tampa-St. Petersburg (Sarasota) FL",
+        ""
+    ],
+    [
+        "581",
+        "Terre Haute IN",
+        ""
+    ],
+    [
+        "547",
+        "Toledo OH",
+        ""
+    ],
+    [
+        "605",
+        "Topeka KS",
+        ""
+    ],
+    [
+        "540",
+        "Traverse City-Cadillac MI",
+        ""
+    ],
+    [
+        "531",
+        "Tri-Cities TN-VA",
+        ""
+    ],
+    [
+        "789",
+        "Tucson (Sierra Vista) AZ",
+        ""
+    ],
+    [
+        "671",
+        "Tulsa OK",
+        ""
+    ],
+    [
+        "760",
+        "Twin Falls ID",
+        ""
+    ],
+    [
+        "709",
+        "Tyler-Longview(Lufkin & Nacogdoches) TX",
+        ""
+    ],
+    [
+        "526",
+        "Utica NY",
+        ""
+    ],
+    [
+        "626",
+        "Victoria TX",
+        ""
+    ],
+    [
+        "625",
+        "Waco-Temple-Bryan TX",
+        ""
+    ],
+    [
+        "511",
+        "Washington DC (Hagerstown MD)",
+        ""
+    ],
+    [
+        "549",
+        "Watertown NY",
+        ""
+    ],
+    [
+        "705",
+        "Wausau-Rhinelander WI",
+        ""
+    ],
+    [
+        "548",
+        "West Palm Beach-Ft. Pierce FL",
+        ""
+    ],
+    [
+        "554",
+        "Wheeling WV-Steubenville OH",
+        ""
+    ],
+    [
+        "627",
+        "Wichita Falls TX & Lawton OK",
+        ""
+    ],
+    [
+        "678",
+        "Wichita-Hutchinson KS",
+        ""
+    ],
+    [
+        "577",
+        "Wilkes Barre-Scranton PA",
+        ""
+    ],
+    [
+        "550",
+        "Wilmington NC",
+        ""
+    ],
+    [
+        "810",
+        "Yakima-Pasco-Richland-Kennewick WA",
+        ""
+    ],
+    [
+        "536",
+        "Youngstown OH",
+        ""
+    ],
+    [
+        "771",
+        "Yuma AZ-El Centro CA",
+        ""
+    ],
+    [
+        "596",
+        "Zanesville OH",
+        ""
+    ],
+    [
+        "US",
+        "United States",
+        ""
+    ],
+    [
         "UY-AR",
-        "Artigas Department"
-    ],
-    [
-        "UY-CA",
-        "Canelones Department"
-    ],
-    [
-        "UY-CL",
-        "Cerro Largo Department"
-    ],
-    [
-        "UY-CO",
-        "Colonia"
-    ],
-    [
-        "UY-DU",
-        "Durazno Department"
-    ],
-    [
-        "UY-FS",
-        "Flores Department"
-    ],
-    [
-        "UY-FD",
-        "Florida Department"
-    ],
-    [
-        "UY-LA",
-        "Lavalleja Department"
-    ],
-    [
-        "UY-MA",
-        "Maldonado Department"
-    ],
-    [
-        "UY-MO",
-        "Montevideo Department"
-    ],
-    [
-        "UY-PA",
-        "Paysandú Department"
-    ],
-    [
-        "UY-RN",
-        "Río Negro Department"
-    ],
-    [
-        "UY-RV",
-        "Rivera Department"
-    ],
-    [
-        "UY-RO",
-        "Rocha Department"
-    ],
-    [
-        "UY-SA",
-        "Salto"
-    ],
-    [
-        "UY-SJ",
-        "San José Department"
-    ],
-    [
-        "UY-SO",
-        "Soriano Department"
-    ],
-    [
-        "UY-TA",
-        "Tacuarembó Department"
-    ],
-    [
-        "UY-TT",
-        "Treinta y Tres Department"
-    ],
-    [
-        "UY",
+        "Artigas Department",
         "Uruguay"
     ],
     [
+        "UY-CA",
+        "Canelones Department",
+        "Uruguay"
+    ],
+    [
+        "UY-CL",
+        "Cerro Largo Department",
+        "Uruguay"
+    ],
+    [
+        "UY-CO",
+        "Colonia",
+        "Uruguay"
+    ],
+    [
+        "UY-DU",
+        "Durazno Department",
+        "Uruguay"
+    ],
+    [
+        "UY-FS",
+        "Flores Department",
+        "Uruguay"
+    ],
+    [
+        "UY-FD",
+        "Florida Department",
+        "Uruguay"
+    ],
+    [
+        "UY-LA",
+        "Lavalleja Department",
+        "Uruguay"
+    ],
+    [
+        "UY-MA",
+        "Maldonado Department",
+        "Uruguay"
+    ],
+    [
+        "UY-MO",
+        "Montevideo Department",
+        "Uruguay"
+    ],
+    [
+        "UY-PA",
+        "Paysandú Department",
+        "Uruguay"
+    ],
+    [
+        "UY-RN",
+        "Río Negro Department",
+        "Uruguay"
+    ],
+    [
+        "UY-RV",
+        "Rivera Department",
+        "Uruguay"
+    ],
+    [
+        "UY-RO",
+        "Rocha Department",
+        "Uruguay"
+    ],
+    [
+        "UY-SA",
+        "Salto",
+        "Uruguay"
+    ],
+    [
+        "UY-SJ",
+        "San José Department",
+        "Uruguay"
+    ],
+    [
+        "UY-SO",
+        "Soriano Department",
+        "Uruguay"
+    ],
+    [
+        "UY-TA",
+        "Tacuarembó Department",
+        "Uruguay"
+    ],
+    [
+        "UY-TT",
+        "Treinta y Tres Department",
+        "Uruguay"
+    ],
+    [
+        "UY",
+        "Uruguay",
+        ""
+    ],
+    [
         "UZ",
-        "Uzbekistan"
+        "Uzbekistan",
+        ""
     ],
     [
         "VE",
-        "Venezuela"
+        "Venezuela",
+        ""
     ],
     [
         "VN-44",
-        "An Giang Province"
-    ],
-    [
-        "VN-43",
-        "Ba Ria - Vung Tau"
-    ],
-    [
-        "VN-54",
-        "Bac Giang"
-    ],
-    [
-        "VN-53",
-        "Bắc Kạn Province"
-    ],
-    [
-        "VN-55",
-        "Bac Lieu"
-    ],
-    [
-        "VN-56",
-        "Bac Ninh Province"
-    ],
-    [
-        "VN-50",
-        "Ben Tre"
-    ],
-    [
-        "VN-31",
-        "Binh Dinh Province"
-    ],
-    [
-        "VN-57",
-        "Binh Duong"
-    ],
-    [
-        "VN-58",
-        "Binh Phuoc"
-    ],
-    [
-        "VN-40",
-        "Binh Thuan"
-    ],
-    [
-        "VN-59",
-        "Ca Mau"
-    ],
-    [
-        "VN-CT",
-        "Can Tho"
-    ],
-    [
-        "VN-04",
-        "Cao Bang"
-    ],
-    [
-        "VN-DN",
-        "Da Nang"
-    ],
-    [
-        "VN-33",
-        "Đắk Lắk Province"
-    ],
-    [
-        "VN-72",
-        "Dak Nong"
-    ],
-    [
-        "VN-71",
-        "Dien Bien"
-    ],
-    [
-        "VN-39",
-        "Dong Nai"
-    ],
-    [
-        "VN-45",
-        "Đồng Tháp Province"
-    ],
-    [
-        "VN-30",
-        "Gia Lai Province"
-    ],
-    [
-        "VN-03",
-        "Ha Giang"
-    ],
-    [
-        "VN-63",
-        "Hà Nam Province"
-    ],
-    [
-        "VN-23",
-        "Ha Tinh Province"
-    ],
-    [
-        "VN-61",
-        "Hai Duong"
-    ],
-    [
-        "VN-HP",
-        "Haiphong"
-    ],
-    [
-        "VN-HN",
-        "Hanoi"
-    ],
-    [
-        "VN-73",
-        "Hau Giang"
-    ],
-    [
-        "VN-SG",
-        "Ho Chi Minh"
-    ],
-    [
-        "VN-14",
-        "Hoa Binh"
-    ],
-    [
-        "VN-66",
-        "Hung Yen Province"
-    ],
-    [
-        "VN-34",
-        "Khanh Hoa Province"
-    ],
-    [
-        "VN-47",
-        "Kien Giang"
-    ],
-    [
-        "VN-28",
-        "Kon Tum Province"
-    ],
-    [
-        "VN-01",
-        "Lai Chau"
-    ],
-    [
-        "VN-35",
-        "Lâm Đồng"
-    ],
-    [
-        "VN-09",
-        "Lang Son Province"
-    ],
-    [
-        "VN-02",
-        "Lao Cai"
-    ],
-    [
-        "VN-41",
-        "Long An Province"
-    ],
-    [
-        "VN-67",
-        "Nam Dinh"
-    ],
-    [
-        "VN-22",
-        "Nghe An"
-    ],
-    [
-        "VN-18",
-        "Ninh Bình Province"
-    ],
-    [
-        "VN-36",
-        "Ninh Thuan Province"
-    ],
-    [
-        "VN-68",
-        "Phu Tho Province"
-    ],
-    [
-        "VN-32",
-        "Phú Yên Province"
-    ],
-    [
-        "VN-24",
-        "Quang Binh Province"
-    ],
-    [
-        "VN-27",
-        "Quang Nam Province"
-    ],
-    [
-        "VN-29",
-        "Quang Ngai"
-    ],
-    [
-        "VN-13",
-        "Quảng Ninh Province"
-    ],
-    [
-        "VN-25",
-        "Quảng Trị Province"
-    ],
-    [
-        "VN-52",
-        "Soc Trang"
-    ],
-    [
-        "VN-05",
-        "Son La"
-    ],
-    [
-        "VN-37",
-        "Tây Ninh Province"
-    ],
-    [
-        "VN-20",
-        "Thai Binh"
-    ],
-    [
-        "VN-69",
-        "Thai Nguyen"
-    ],
-    [
-        "VN-21",
-        "Thanh Hoa"
-    ],
-    [
-        "VN-26",
-        "Thua Thien Hue"
-    ],
-    [
-        "VN-46",
-        "Tien Giang"
-    ],
-    [
-        "VN-51",
-        "Tra Vinh"
-    ],
-    [
-        "VN-07",
-        "Tuyên Quang Province"
-    ],
-    [
-        "VN-49",
-        "Vinh Long"
-    ],
-    [
-        "VN-70",
-        "Vinh Phuc Province"
-    ],
-    [
-        "VN-06",
-        "Yen Bai Province"
-    ],
-    [
-        "VN",
+        "An Giang Province",
         "Vietnam"
     ],
     [
+        "VN-43",
+        "Ba Ria - Vung Tau",
+        "Vietnam"
+    ],
+    [
+        "VN-54",
+        "Bac Giang",
+        "Vietnam"
+    ],
+    [
+        "VN-53",
+        "Bắc Kạn Province",
+        "Vietnam"
+    ],
+    [
+        "VN-55",
+        "Bac Lieu",
+        "Vietnam"
+    ],
+    [
+        "VN-56",
+        "Bac Ninh Province",
+        "Vietnam"
+    ],
+    [
+        "VN-50",
+        "Ben Tre",
+        "Vietnam"
+    ],
+    [
+        "VN-31",
+        "Binh Dinh Province",
+        "Vietnam"
+    ],
+    [
+        "VN-57",
+        "Binh Duong",
+        "Vietnam"
+    ],
+    [
+        "VN-58",
+        "Binh Phuoc",
+        "Vietnam"
+    ],
+    [
+        "VN-40",
+        "Binh Thuan",
+        "Vietnam"
+    ],
+    [
+        "VN-59",
+        "Ca Mau",
+        "Vietnam"
+    ],
+    [
+        "VN-CT",
+        "Can Tho",
+        "Vietnam"
+    ],
+    [
+        "VN-04",
+        "Cao Bang",
+        "Vietnam"
+    ],
+    [
+        "VN-DN",
+        "Da Nang",
+        "Vietnam"
+    ],
+    [
+        "VN-33",
+        "Đắk Lắk Province",
+        "Vietnam"
+    ],
+    [
+        "VN-72",
+        "Dak Nong",
+        "Vietnam"
+    ],
+    [
+        "VN-71",
+        "Dien Bien",
+        "Vietnam"
+    ],
+    [
+        "VN-39",
+        "Dong Nai",
+        "Vietnam"
+    ],
+    [
+        "VN-45",
+        "Đồng Tháp Province",
+        "Vietnam"
+    ],
+    [
+        "VN-30",
+        "Gia Lai Province",
+        "Vietnam"
+    ],
+    [
+        "VN-03",
+        "Ha Giang",
+        "Vietnam"
+    ],
+    [
+        "VN-63",
+        "Hà Nam Province",
+        "Vietnam"
+    ],
+    [
+        "VN-23",
+        "Ha Tinh Province",
+        "Vietnam"
+    ],
+    [
+        "VN-61",
+        "Hai Duong",
+        "Vietnam"
+    ],
+    [
+        "VN-HP",
+        "Haiphong",
+        "Vietnam"
+    ],
+    [
+        "VN-HN",
+        "Hanoi",
+        "Vietnam"
+    ],
+    [
+        "VN-73",
+        "Hau Giang",
+        "Vietnam"
+    ],
+    [
+        "VN-SG",
+        "Ho Chi Minh",
+        "Vietnam"
+    ],
+    [
+        "VN-14",
+        "Hoa Binh",
+        "Vietnam"
+    ],
+    [
+        "VN-66",
+        "Hung Yen Province",
+        "Vietnam"
+    ],
+    [
+        "VN-34",
+        "Khanh Hoa Province",
+        "Vietnam"
+    ],
+    [
+        "VN-47",
+        "Kien Giang",
+        "Vietnam"
+    ],
+    [
+        "VN-28",
+        "Kon Tum Province",
+        "Vietnam"
+    ],
+    [
+        "VN-01",
+        "Lai Chau",
+        "Vietnam"
+    ],
+    [
+        "VN-35",
+        "Lâm Đồng",
+        "Vietnam"
+    ],
+    [
+        "VN-09",
+        "Lang Son Province",
+        "Vietnam"
+    ],
+    [
+        "VN-02",
+        "Lao Cai",
+        "Vietnam"
+    ],
+    [
+        "VN-41",
+        "Long An Province",
+        "Vietnam"
+    ],
+    [
+        "VN-67",
+        "Nam Dinh",
+        "Vietnam"
+    ],
+    [
+        "VN-22",
+        "Nghe An",
+        "Vietnam"
+    ],
+    [
+        "VN-18",
+        "Ninh Bình Province",
+        "Vietnam"
+    ],
+    [
+        "VN-36",
+        "Ninh Thuan Province",
+        "Vietnam"
+    ],
+    [
+        "VN-68",
+        "Phu Tho Province",
+        "Vietnam"
+    ],
+    [
+        "VN-32",
+        "Phú Yên Province",
+        "Vietnam"
+    ],
+    [
+        "VN-24",
+        "Quang Binh Province",
+        "Vietnam"
+    ],
+    [
+        "VN-27",
+        "Quang Nam Province",
+        "Vietnam"
+    ],
+    [
+        "VN-29",
+        "Quang Ngai",
+        "Vietnam"
+    ],
+    [
+        "VN-13",
+        "Quảng Ninh Province",
+        "Vietnam"
+    ],
+    [
+        "VN-25",
+        "Quảng Trị Province",
+        "Vietnam"
+    ],
+    [
+        "VN-52",
+        "Soc Trang",
+        "Vietnam"
+    ],
+    [
+        "VN-05",
+        "Son La",
+        "Vietnam"
+    ],
+    [
+        "VN-37",
+        "Tây Ninh Province",
+        "Vietnam"
+    ],
+    [
+        "VN-20",
+        "Thai Binh",
+        "Vietnam"
+    ],
+    [
+        "VN-69",
+        "Thai Nguyen",
+        "Vietnam"
+    ],
+    [
+        "VN-21",
+        "Thanh Hoa",
+        "Vietnam"
+    ],
+    [
+        "VN-26",
+        "Thua Thien Hue",
+        "Vietnam"
+    ],
+    [
+        "VN-46",
+        "Tien Giang",
+        "Vietnam"
+    ],
+    [
+        "VN-51",
+        "Tra Vinh",
+        "Vietnam"
+    ],
+    [
+        "VN-07",
+        "Tuyên Quang Province",
+        "Vietnam"
+    ],
+    [
+        "VN-49",
+        "Vinh Long",
+        "Vietnam"
+    ],
+    [
+        "VN-70",
+        "Vinh Phuc Province",
+        "Vietnam"
+    ],
+    [
+        "VN-06",
+        "Yen Bai Province",
+        "Vietnam"
+    ],
+    [
+        "VN",
+        "Vietnam",
+        ""
+    ],
+    [
         "YE",
-        "Yemen"
+        "Yemen",
+        ""
     ],
     [
         "ZM",
-        "Zambia"
+        "Zambia",
+        ""
     ],
     [
         "ZW",
-        "Zimbabwe"
+        "Zimbabwe",
+        ""
     ]
 ]

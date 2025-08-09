@@ -1,5 +1,4 @@
 "use client";
-
 type Props = {
   searchTerm: string;
   setSearchTerm: (value: string) => void;
