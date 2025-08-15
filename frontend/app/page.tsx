@@ -53,7 +53,7 @@ export default async function Page() {
             <Breadcrumb>
               <BreadcrumbList>
                 <BreadcrumbItem className="hidden md:block">
-                  <BreadcrumbLink href="#">
+                  <BreadcrumbLink href="#" className="text-sm sm:text-base md:text-lg truncate">
                     Home Page
                   </BreadcrumbLink>
                 </BreadcrumbItem>
@@ -68,12 +68,12 @@ export default async function Page() {
         <div>
         </div>
 
-        <div className="flex flex-1 flex-col gap-4 p-4 pt-0"  style={{
+        <div className="flex flex-1 flex-col gap-2 sm:gap-4 p-2 sm:p-4 pt-0"  style={{
             alignItems: 'center'
         }}>
 <h1
   style={{ fontFamily: '"Courier New", Courier, monospace' }}
-  className="scroll-m-20 text-center text-4xl font-extrabold tracking-tight text-balance"
+  className="scroll-m-20 text-center font-extrabold tracking-tight text-balance text-2xl sm:text-3xl md:text-4xl px-2 sm:px-4 break-words"
 >            Top 10 searches in  
           </h1>
           <SelectInHome />

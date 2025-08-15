@@ -156,3 +156,15 @@ h6 {
   margin-top: 0.8rem;
   margin-bottom: 0.5rem;
 }
+
+.vbox {
+   /* previous syntax */
+  -moz-box-orient:        vertical;
+  -webkit-box-orient:     vertical;
+  box-orient:             vertical;
+
+  /* current syntax */ 
+  -webkit-flex-direction:   column; 
+  -ms-flex-direction:       column; 
+  flex-direction:           column;
+}
