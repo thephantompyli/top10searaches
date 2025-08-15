@@ -39,7 +39,7 @@ export default async function Page() {
   // const [searchTerm, setSearchTerm] = useState("");
   return (
 
-    <SidebarProvider>
+    <SidebarProvider defaultOpen={false}>
       <AppSidebar />
       <SidebarInset>
         <header className="flex h-16 shrink-0 items-center gap-2 transition-[width,height] ease-linear group-has-data-[collapsible=icon]/sidebar-wrapper:h-12">
@@ -69,14 +69,18 @@ export default async function Page() {
         </div>
 
         <div className="flex flex-1 flex-col gap-2 sm:gap-4 p-2 sm:p-4 pt-0"  style={{
+            
             alignItems: 'center'
         }}>
-<h1
-  style={{ fontFamily: '"Courier New", Courier, monospace' }}
-  className="scroll-m-20 text-center font-extrabold tracking-tight text-balance text-2xl sm:text-3xl md:text-4xl px-2 sm:px-4 break-words"
->            Top 10 searches in  
+          <h1
+            style={{ fontFamily: '"Courier New", Courier, monospace' }}
+            className="scroll-m-20 text-center font-extrabold tracking-tight text-balance text-2xl sm:text-3xl md:text-4xl px-2 sm:px-4 break-words"
+          >            Top 10 searches in  
           </h1>
-          <SelectInHome />
+          {/* <div className=÷"w-full max-w-full sm:max-w-[70%] overflow-x-auto overflow-y-auto flex justify-center px-4" style={{ maxHeight: '80vh' }}> */}
+            <SelectInHome />
+          {/* </div> */}
+
 
           {/* <img
     src="https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_50,w_2600/hellofresh_s3/image/soy-glazed-salmon-with-rice-3375dda8.jpg"

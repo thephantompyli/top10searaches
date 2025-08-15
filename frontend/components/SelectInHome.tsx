@@ -92,7 +92,7 @@ export default function SelectInHome() {
   };
   return (
 
-    <div className="w-full px-2 sm:px-134 overflow-x-auto">
+    // <div className="w-full px-2 sm:px-134 overflow-x-auto">
       <TreeView
         data={data2}
         title="Tree View Demo"
@@ -104,7 +104,7 @@ export default function SelectInHome() {
         className="text-sm sm:text-base"
       />
     
-    {/* <Select  value = {value} onValueChange={handleStringToInt}>
+    /* <Select  value = {value} onValueChange={handleStringToInt}>
       <SelectTrigger className="w-[490px] h-100 px-4 text-base">
         <SelectValue placeholder="Trending Location"  >
 					 </SelectValue>
@@ -126,7 +126,7 @@ export default function SelectInHome() {
              ))}
         </SelectGroup>
       </SelectContent>
-    </Select> */}
-    </div>
+    </Select> */
+    // </div>
   );
 }

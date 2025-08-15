@@ -406,7 +406,7 @@ function TreeItem({
                       className="relative flex items-center justify-center w-4 h-4 cursor-pointer hover:opacity-80"
                       onClick={handleAccessClick}
                     >
-                      {getCheckState(item, itemMap) === "checked" && (
+                      {/* {getCheckState(item, itemMap) === "checked" && (
                         <div className="w-4 h-4 border rounded bg-primary border-primary flex items-center justify-center">
                           <svg
                             className="h-3 w-3 text-primary-foreground"
@@ -430,7 +430,7 @@ function TreeItem({
                         <div className="w-4 h-4 border rounded bg-primary border-primary flex items-center justify-center">
                           <div className="h-0.5 w-2 bg-primary-foreground" />
                         </div>
-                      )}
+                      )} */}
                     </div>
                   )}
                   {renderIcon()}
@@ -486,7 +486,7 @@ function TreeItem({
                       className="relative flex items-center justify-center w-4 h-4 cursor-pointer hover:opacity-80"
                       onClick={handleAccessClick}
                     >
-                      {getCheckState(item, itemMap) === "checked" && (
+                      {/* {getCheckState(item, itemMap) === "checked" && (
                         <div className="w-4 h-4 border rounded bg-primary border-primary flex items-center justify-center">
                           <svg
                             className="h-3 w-3 text-primary-foreground"
@@ -510,7 +510,7 @@ function TreeItem({
                         <div className="w-4 h-4 border rounded bg-primary border-primary flex items-center justify-center">
                           <div className="h-0.5 w-2 bg-primary-foreground" />
                         </div>
-                      )}
+                      )} */}
                     </div>
                   )}
                   {renderIcon()}
@@ -909,7 +909,7 @@ export  function TreeView ({
     <div className="flex gap-4">
       <div
         ref={treeRef}
-        className="bg-background p-6 rounded-xl border max-w-2xl space-y-4 w-[600px] relative shadow-lg"
+        className="bg-background p-6 rounded-xl border max-w-2xl space-y-4  relative shadow-lg"
       >
         <AnimatePresence mode="wait">
           {selectedIds.size > 0 ? (
